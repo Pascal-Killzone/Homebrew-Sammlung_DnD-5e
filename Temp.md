@@ -716,7 +716,7 @@ Sie verlieren 1 Stunde, 1 Stufe Erschöpfung.
 
 **Gegner:**
 
-- 2 × _Resonanzkoloss (CR 4)_ – beschreibe sie als „sandverkrustete, halb steinerne Kreaturen mit leuchtenden Rissen“.
+- 1 × _Resonanzkoloss (CR 4)_ – beschreibe sie als „sandverkrustete, halb steinerne Kreaturen mit leuchtenden Rissen“.
     
 - 1 × _Resonanz-Akolyt (CR 1)_ – ein Mensch in zerrissener Kleidung, dessen Augen grau und leer wirken.
     
