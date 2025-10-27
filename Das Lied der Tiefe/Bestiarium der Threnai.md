@@ -41,7 +41,7 @@ Wenn sich mindestens drei Resonanzmotten innerhalb 3 m befinden, erhalten sie +2
 Das Ziel muss einen WEI-Save (DC 10) bestehen oder 1 Runde lang taub sein.
 
 ---
-## **Resonanzecho (CR ¼)**
+## **Nachklang (CR ¼)**
 _Kleine Aberration, neutral_
 
 **AC:** 12  
@@ -57,12 +57,12 @@ _Kleine Aberration, neutral_
 **CR:** ¼ (50 EP)
 
 ### Beschreibung
-Ein Resonanzecho ist kein Wesen aus Fleisch, sondern ein Ton, der sich verirrt hat.  
+Ein Nachklang ist kein Wesen aus Fleisch, sondern ein Ton, der sich verirrt hat.  
 Es schwebt durch alte Ruinen, Wüsten und Minen – dort, wo Stille herrscht.  
 Sein Körper ist aus vibrierendem Nebel, kaum sichtbar,  
 doch Luft und Stein zittern, wenn es sich nähert.
 
-Resonanzechos gelten als die _verirrten Atemzüge Saaths_,  
+Nachklang gelten als die _verirrten Atemzüge Saaths_,  
 Splitter des unvollendeten Tons, die sich in die Welt verirrt haben.
 
 ### Merkmale
@@ -122,7 +122,7 @@ Der Kriecher stößt einen kurzen Knacklaut aus.
 Alle Kreaturen in 3 m müssen einen WIS-Save (DC 12) bestehen oder 1 Runde lang benommen sein.
 
 ---
-## **Resonanz-Akolyt (CR 1)**
+## **Akolyt (CR 1)**
 _Medium Aberration, lawful neutral_
 
 **AC:** 14 (Resonanzplatten)  
@@ -139,7 +139,7 @@ _Medium Aberration, lawful neutral_
 **CR:** 1 (200 EP)
 
 ### Beschreibung
-Resonanz-Akolyten sind die niederen Priester der Threnai – Hüter der Klangkammern und Bewahrer der Schwingungsrunen.  
+Akolyten sind die niederen Priester der Threnai – Hüter der Klangkammern und Bewahrer der Schwingungsrunen.  
 Ihre Körper bestehen aus lebendigem Chitin, das bei jedem Atemzug sacht vibriert.  
 Sie sind keine Magier, sondern _Kanalverstärker_: ihre Stimmen sind Werkzeuge der Tiefe.
 
@@ -203,7 +203,7 @@ Alle Kreaturen im 6-m-Radius müssen einen KO-Save (DC 13) ablegen oder 9 (2D8) 
 
 ---
 
-## **Resonanzlarve (CR 2)**
+## **Orgelbrut (CR 2)**
 
 *Medium Aberration, unaligned*
 
@@ -221,7 +221,7 @@ Alle Kreaturen im 6-m-Radius müssen einen KO-Save (DC 13) ablegen oder 9 (2D8) 
 
 ### Beschreibung
 
-Resonanzlarven sind Vorformen der größeren Resonanzkolosse.
+Orgelbrut sind Vorformen der größeren Orgelträger.
 Sie bestehen aus vibrierendem Fleisch und Gestein, das sich unter der Haut bewegt.
 Ihr Atem klingt wie ferne Trommeln.
 
@@ -231,7 +231,7 @@ Ihr Atem klingt wie ferne Trommeln.
 Kreaturen in 4,5 m müssen zu Beginn ihres Zuges einen KO-Save (DC 13) machen oder 4 (1D8) Schallschaden erleiden.
 
 **Schallabsorber.**
-Wenn die Larve Schallschaden erleidet, heilt sie um die Hälfte des Schadens.
+Wenn die Brut Schallschaden erleidet, heilt sie um die Hälfte des Schadens.
 
 ### Aktionen
 
@@ -239,11 +239,11 @@ Wenn die Larve Schallschaden erleidet, heilt sie um die Hälfte des Schadens.
 *Treffer:* 10 (2D8 + 2) Wucht- oder Schallschaden.
 
 **Erdrückender Ton (aufladbar 5–6).**
-Die Larve bläht ihren Körper auf und entlädt eine stehende Welle.
+Die Orgelbrut bläht ihren Körper auf und entlädt eine stehende Welle.
 Alle Kreaturen im 6-m-Kegel müssen einen KO-Save (DC 13) bestehen oder 13 (3D8) Schallschaden erleiden und zu Boden fallen.
 
 ---
-## **Resonanz-Ritter (CR 3)**
+## **Tiefenhüter (CR 3)**
 _Medium Aberration, lawful neutral_
 
 **AC:** 16 (Resonanzkarapax)  
@@ -261,10 +261,9 @@ _Medium Aberration, lawful neutral_
 **CR:** 3 (700 EP)
 
 ### Beschreibung
-Die Resonanz-Ritter sind die Krieger der Tiefe – lebende Klangkörper,  
-deren Speeden so präzise sind, dass selbst der Wind zwischen ihren Schritten rhythmisch weht.  
-Ihre Waffen bestehen aus verdichteter Schwingung;  
-wenn sie zuschlagen, klingt es, als zerspringe Glas unter Wasser.
+Die Tiefenhüter sind die stillen Krieger der Tiefe – Wächter, die nicht im Namen von Macht kämpfen, sondern um die Ordnung des Klangs zu bewahren.  
+Ihre Körper bestehen aus vibrierendem Chitin, das in der Dunkelheit leise pulsiert.  
+Ihre Bewegungen sind so präzise, dass selbst das Echo ihnen gehorcht.
 
 ### Merkmale
 **Harmonisches Schild (aufladbar 6).**  
@@ -287,7 +286,7 @@ Alle Kreaturen seiner Wahl in einem Radius von 6 m müssen einen Stärkewurf (DC
 oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
 
 ---
-## **Resonanzkoloss (CR 4)**
+## **Orgelträger (CR 4)**
 _Large Aberration, neutral evil_
 
 **AC:** 15 (natürliche Rüstung)  
@@ -336,7 +335,7 @@ oder erleiden 21 (6D6) Schallschaden und werden 3 m zurückgeschleudert.
 > _„Ihr Wille ist kein Gedanke, sondern eine Welle.“_
 
 ---
-## **Resonanzhexe (CR 5)**
+## Klangweberin (CR 5)**
 _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 15 (Resonanzgewebe)  
@@ -354,9 +353,9 @@ _Medium Aberration (Threnai), lawful neutral_
 **CR:** 5 (1 800 EP)
 
 ### Beschreibung
-Resonanzhexen sind die Stimmen der Tiefe – Wesen, die den Klang der Architonen durch ihre Körper fließen lassen.  
+Klangweberinen sind die Stimmen der Tiefe – Wesen, die den Klang der Architonen durch ihre Körper fließen lassen.  
 Ihre Haut ist durchsichtig und darunter laufen Schwingungen wie flüssiges Licht.  
-Sie webt die Wirklichkeit durch Ton und Speed: jede Geste eine Formel, jede Silbe ein Gesetz.
+Sie webt die Wirklichkeit durch Ton: jede Geste eine Formel, jede Silbe ein Gesetz.
 
 ### Merkmale
 **Aura der Harmonie.**  
@@ -369,7 +368,7 @@ Die Hexe wirkt ihre Zauber nicht verbal, sondern durch Ton und Körperschwingung
 Zaubergrad 8, Zauberattribut Intelligenz (DC 14, +6 auf Treffer).  
 Bereits vorbereitete Zauber:
 
-- Zaubertricks (immer): _Thaumaturgie, Eldritch Blast, Magierhand_
+- Cantrips (immer): _Thaumaturgie, Eldritch Blast, Magierhand_
     
 - 1. Grad (4 Plätze): _Dissoziieren, Schild, Magisches Geschoss_
         
@@ -389,7 +388,7 @@ Die Hexe schlägt mit ihren Händen in die Luft und erzeugt einen einzigen lautl
 Alle Kreaturen in einem 6-m-Radius müssen einen Konstitutionsrettungswurf (DC 15) bestehen oder 15 (3D10 + 2) Schallschaden erleiden und 1 Minute lang taub werden.
 
 ---
-## **Resonanzpriester (CR 6)**
+## **Litaneier der Tiefe (CR 6)**
 
 *Medium Aberration (Threnai), lawful neutral*
 
@@ -409,7 +408,7 @@ Alle Kreaturen in einem 6-m-Radius müssen einen Konstitutionsrettungswurf (DC 1
 
 ### Beschreibung
 
-Die Resonanzpriester sind Träger der liturgischen Frequenzen – sie singen, was andere sprechen.
+Die Litaneier der Tiefe oder auch Resonanzpriester genannt sind Träger der liturgischen Frequenzen – sie singen, was andere sprechen.
 Ihre Körper sind mit Runen aus vibrierendem Metall tätowiert; ihre Stimmen können Materie in Bewegung versetzen.
 
 > *„Sie beten nicht um Gnade, sondern um Gleichklang.“*
@@ -432,7 +431,7 @@ Der Priester singt einen komplexen Dreiklang.
 Alle feindlichen Kreaturen im 6 m Radius müssen einen WIS-Save (DC 15) ablegen oder sind bis zum Beginn ihres nächsten Zuges verlangsamt.
 
 ---
-## **Resonanzarchitekt (CR 7)**
+## ****Klangarchitekt** (CR 7)**
 _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 16 (Resonanzpanzer)  
@@ -450,7 +449,7 @@ _Medium Aberration (Threnai), lawful neutral_
 **CR:** 7 (2 900 EP)
 
 ### Beschreibung
-Architekten sind die Baumeister der Tiefe.  
+Klangarchitekten sind die Baumeister der Tiefe.  
 Sie formen mit ihren Händen nicht Stein oder Metall, sondern Klang.  
 Unter ihrem Willen erheben sich Bauten aus vibrierender Materie, die gleichzeitig Waffe und Instrument sind.
 
