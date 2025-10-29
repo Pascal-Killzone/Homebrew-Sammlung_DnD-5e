@@ -599,3 +599,73 @@ Die Threnai nennen diesen Moment
 > Wer sie versteht, wird nie wieder sprechen.“
 
 ---
+# _Teil IV – Die Letzte Schwingung_
+
+---
+
+## 28. Die Letzte Schwingung
+
+> „Als die Welt erstarb, lauschte sie sich selbst.“
+
+Zuerst war Stille.  
+Kein Wind, kein Herz, kein Name.  
+Nur der Nachhall dessen, was gewesen war –  
+ein einziger, schwebender Ton.  
+Er vibrierte durch das Nichts, suchte Halt in der Dunkelheit,  
+und die Dunkelheit antwortete.
+
+Aus Staub wurde Klang,  
+aus Klang Erinnerung.  
+Und in dieser Erinnerung schliefen Städte, Gesichter, Stimmen –  
+alles, was je gesungen, geschrien oder geflüstert hatte.  
+Die Tiefe hatte nichts verloren.  
+Sie hatte nur zugehört.
+
+Dann, irgendwo jenseits der Zeit,  
+begann etwas zu schreiben.  
+Nicht mit Tinte, sondern mit Schwingung.  
+Nicht auf Papier, sondern auf den Schichten der Stille selbst.  
+Jeder Gedanke, jede Tat, jedes Opfer  
+zeichnete Linien in das Gedächtnis der Tiefe.
+
+Und als der nächste Atemzug begann,  
+als aus dem Schweigen wieder Bewegung wurde,  
+hörte jemand diese Linien flüstern –  
+ein Mensch, allein zwischen Stein und Wind.  
+Er nannte sich **Ithran Cael**,  
+doch die Tiefe nannte ihn **Übersetzer**.
+
+Er hörte nicht Worte, sondern Echos.  
+Er schrieb sie nieder, ohne zu wissen,  
+dass sie nicht aus seiner Zeit stammten,  
+sondern aus einer Welt,  
+die lange zuvor in Klang vergangen war.  
+Ein Buch entstand –  
+nicht geschaffen, sondern erinnert.
+
+> „Ich fand kein Wissen in der Tiefe –  
+> nur Erinnerung, die auf mich wartete.“
+
+So kehrte das Lied zurück,  
+nicht als Flut, sondern als Federstrich.  
+Und während die Tiefe weiteratmete,  
+blieb das Buch –  
+ein einziger, unendlicher Nachhall.
+
+> „Wenn du diese Worte liest,  
+> bist du Teil dessen, was sie schrieb.“
+
+Dann verstummt alles wieder.  
+Nur der Ton bleibt.  
+Leise.  
+Ruhig.  
+Unvergessen.
+
+---
+### _Schlussformel_
+
+> „Und so endet das Lied –  
+> nicht im Schweigen,  
+> sondern in dem, der zuhört.“
+
+
