@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Das Lied der Tiefe/Das Buch der Tiefe.md",
+                "file": "Das Lied der Tiefe/Das Lied der Tiefe- Kampagne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Buch der Tiefe"
+              "title": "Das Lied der Tiefe- Kampagne"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c77c3982e790f74e",
@@ -219,7 +219,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3e08d380bbc7f56c",
+  "active": "00d8f19bb0b36309",
   "lastOpenFiles": [
     "Temp.md",
     "Das Lied der Tiefe/Bestiarium der Threnai.md",

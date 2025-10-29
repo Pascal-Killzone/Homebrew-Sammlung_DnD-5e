@@ -9,9 +9,7 @@ _Ein langsames Erwachen. Staub, Sonne, und etwas, das die Luft erinnert._
 
 ---
 ## **Kapitel 1 – Ankunft in Tharum**
-
 ---
-
 ### **Szene 1 – Staubstraße & Tor**
 
 _(Ankommen, erster Eindruck)_
@@ -143,9 +141,7 @@ _(Soziale Kontakte, Nacht, leise Unruhe)_
 
 ---
 ## **Kapitel 2 – Spuren der Mine**
-
 ---
-
 ### **Szene 4 – Der falsche Takt**
 
 _(Vom Gerücht zur Spur, beginnender Bruch im Alltag)_
@@ -329,11 +325,8 @@ und lasse die Spieler alles **durch Wahrnehmung und Konsequenz** erfahren.
 Dieses Kapitel soll erstmals klaustrophobisch, leise und körperlich wirken – nicht durch Erklärungen, sondern durch Atmosphäre.
 
 ---
-
 ## **Kapitel 3 – Die unterirdische Wunde**
-
 ---
-
 ### **Szene 7 – Zum alten Schacht**
 
 _(Reise, Stimmung, erste Vorahnung)_
@@ -590,11 +583,8 @@ _Die Wüste ist kein Ort. Sie ist eine Pause._
 > **Meilenstein:** Stufe 4 am Ende des Akts.
 
 ---
-
 ## **Kapitel 1 – Staubstraße nach Sethara**
-
 ---
-
 ### **Szene 1 – Aufbruch**
 
 **Boxtext:**
@@ -666,11 +656,8 @@ _Die Wüste ist kein Ort. Sie ist eine Pause._
     
 
 ---
-
 ## **Kapitel 2 – Der Wüstensturm**
-
 ---
-
 ### **Szene 3 – Das Beben der Luft**
 
 **Boxtext:**
@@ -743,11 +730,8 @@ Sie verlieren 1 Stunde, 1 Stufe Erschöpfung.
         
 
 ---
-
 ## **Kapitel 3 – Die Oase der verlorenen Töne**
-
 ---
-
 ### **Szene 5 – Erste Sicht**
 
 **Boxtext:**
@@ -853,3 +837,844 @@ Sie verlieren 1 Stunde, 1 Stufe Erschöpfung.
 > **Nächster Akt:** _Das versunkene Lied_
 
 ---
+# **Akt III – Das versunkene Lied**
+
+_Was unter dem Sand schläft, ist nicht tot. Es hört nur zu._
+
+---
+## **Kapitel 1 – Der Weg unter den Sonnen**
+---
+### **Szene 1 – Dünenmeer**
+
+> Der Himmel brennt in blassem Gold, und der Horizont scheint nie näher zu kommen.  
+> Jeder Schritt versinkt bis zum Knöchel, der Sand knirscht trocken wie gemahlene Knochen.  
+> Überall flimmert Hitze – eine unsichtbare Haut, die sich über die Welt legt.
+> 
+> Hinter euch liegt Tharum, nur noch ein grauer Fleck in der Dunstlinie.  
+> Vor euch: Wellen aus Sand, so gleichmäßig, dass man nicht weiß,  
+> ob sie von Wind geformt wurden – oder von Geduld.
+> 
+> In dieser Stille hört ihr nichts außer eurem Atem und das gelegentliche Scharren eurer Ausrüstung.  
+> Kein Vogel, kein Insekt, kein Echo.
+
+**Erkundung und Stimmung:**  
+Die Hitze drückt, der Weg zieht sich.
+
+- _Survival DC 13:_ Pfade mit Schatten finden (verhindert Erschöpfung).
+    
+- _Perception DC 14:_ Sandboden vibriert leicht, wenn man still steht.
+    
+- _Arcana/Nature DC 12:_ Boden klingt hohl – als liege Fels darunter.
+    
+
+---
+
+### **💥 Kampf 1 – „Der Sand lebt“**
+
+> Der Boden sackt ein – zuerst unter einem Fuß, dann unter allen.  
+> Eine Düne bricht, als wäre sie dünnes Glas.  
+> Aus der Tiefe schießt ein Skorpionleib, schwarz wie Öl,  
+> sein Panzer glitzert im Sonnenlicht, und jedes Zucken seiner Scheren  
+> wirbelt Sandfontänen in die Luft.
+> 
+> Um euch her kriecht es und zischt: kleine, schemenhafte Gestalten,  
+> halb Insekt, halb Staub. Sie bewegen sich synchron,  
+> wie ein einziger, geduldiger Gedanke des Sandes.
+
+**Gegner:**
+
+- 1 × _Riesenskorpion_ (MM CR 3)
+    
+- 2 × _Klangkriecher_ (Bestiarium CR ½)  
+    → ≈ 1 000 XP = solider Überlebenskampf für Stufe 4.
+    
+
+**Taktik & Atmosphäre:**
+
+- Sicht max. 9 m durch aufgewirbelten Sand.
+    
+- Der Skorpion gräbt sich ständig ein / aus.
+    
+- Klangkriecher nähern sich lautlos über Felsen.
+    
+- Jeder Treffer erzeugt dumpfe Nachklänge,  
+    als würde der Sand selbst zurückschlagen.
+    
+
+Nach dem Sieg: ein handgroßer, glatter Obsidian-Stein mit feinen Linien – späterer Schlüssel.
+
+---
+
+### **Zwischenszene 1.5 – Die singende Senke**
+
+> Der Wind fällt ganz ab.  
+> Über Stunden schiebt sich euer Weg zwischen hohen Dünen,  
+> deren Hänge sich bei jedem Schritt leicht bewegen,  
+> als läge darunter ein schlafender Atem.
+> 
+> Schließlich öffnet sich vor euch eine Senke –  
+> ein Kreis aus schwarzem, feinkörnigem Sand,  
+> in dessen Mitte ein kleiner Obelisk steht, kaum kniehoch.  
+> Seine Oberfläche schimmert, als würde Licht von innen darin gefangen sein.
+> 
+> Als ihr euch nähert, ertönt ein Laut: kein Wort, kein Echo –  
+> eher das tiefe Summen eines Saiteninstruments,  
+> das jemand mit bloßen Fingern berührt.  
+> Jeder Schritt verändert den Ton – tiefer, heller, dann wieder Stille.
+
+**Erkundung:**
+
+- _Arcana/Nature DC 14:_ Der Sand reagiert rhythmisch auf Druck – kein Zufall.
+    
+- _Investigation DC 13:_ Untergrund ist hohl, Luftzug durch feine Spalten.
+    
+- _Perception DC 15:_ Tonfolgen bilden Muster, fast wie Ruf & Antwort.
+    
+
+**Atmosphäre:**  
+Wer summt, spürt das Kribbeln im Boden.  
+Sandfontänen zittern bei jedem Wort.  
+Am fernen Horizont wölbt sich eine Düne –  
+sie hebt und senkt sich im gleichen Rhythmus.
+
+---
+
+### **Szene 2 – Das Tor im Sand**
+
+> Die Senke endet abrupt an einem Spalt aus schwarzem Stein.  
+> Kein Wind erreicht ihn; die Luft dort unten ist schwer und kalt.  
+> An den Kanten glimmen winzige Kristalle,  
+> als hätten sie Sonnenlicht verschluckt und vergessen, es wieder freizugeben.
+> 
+> Im Fels: eine schmale Reihe eingelassener Trittflächen,  
+> jede unterschiedlich groß, jede vibriert leise –  
+> wie Noten auf einer unsichtbaren Tonleiter.
+
+**Rätsel / Abstieg:**
+
+- _Arcana oder Performance DC 15:_ Trittflächen ergeben Tonfolge.
+    
+- Lösung: tiefster → höchster → mittlerer Ton = Schacht öffnet sich.
+    
+- Fehler: „Klangstoß“ 2D8 Schall, KO Save DC 14 halbiert.
+    
+
+**Nach dem Öffnen:**  
+Ein enger Gang führt 30 m abwärts; Wände schimmern,  
+manchmal scheint der Stein zu atmen.  
+Die Luft ist kühl und trocken, jeder Laut hallt doppelt zurück.
+
+---
+## **Kapitel 2 – Der Resonanztempel**
+---
+### **Szene 3 – Die Hallen des Gleichklangs**
+
+> Der Schacht endet in einem Raum, der so alt wirkt,  
+> dass selbst die Dunkelheit hier Staub angesetzt hat.  
+> Die Wände bestehen aus hellem Stein, glatt wie Glas,  
+> durchzogen von Linien, die zu fein sind, um gemeißelt zu sein.
+> 
+> Euer Licht bricht sich auf der Oberfläche und läuft an ihr entlang,  
+> als hätte der Stein selbst beschlossen, zu leuchten.  
+> Überall kleine Vertiefungen, kaum merklich –  
+> doch wer näher tritt, erkennt: Es sind Zeichen. Keine Schrift,  
+> sondern Wellen, eingefroren in Bewegung.
+> 
+> Die Luft ist kühl. Jeder Schritt klingt doppelt –  
+> als käme ein zweiter, leiser nach,  
+> fast zu spät, um wirklich da zu sein.
+
+**Erkundung:**
+
+- _Perception DC 14:_ Schwaches Zittern im Boden, als würde der Stein atmen.
+    
+- _Arcana DC 13:_ Linien reagieren schwach auf Nähe – wie magnetisch.
+    
+- _History DC 15:_ Architektur erinnert an alte Threnai-Strukturen, aber weniger organisch.
+    
+- _Insight DC 13:_ Unangenehme Klarheit – das Gefühl, beobachtet zu werden, aber ohne Blick.
+    
+
+**DM-Hinweis:**  
+Hier begreifen die SC nicht, dass sie bereits im „Resonanztempel“ stehen.  
+Der Raum soll nicht gefährlich wirken – nur **zu präzise**, zu gleichmäßig.
+
+---
+
+### **Szene 4 – Die Flüsternde Halle**
+
+_(Erkundung & optionaler Kampf)_
+
+> Weiter vorn öffnet sich die Kammer in einen hohen Saal.  
+> Säulen steigen aus dem Boden wie versteinertes Wasser,  
+> glatt und durchsichtig, als wären sie aus gefrorenem Licht.
+> 
+> Der Boden ist bedeckt mit feinem Staub,  
+> aber ihr seht keine Fußspuren – weder alte noch eigene.  
+> Jeder Atemzug hallt, als würde die Luft zuhören.
+> 
+> Und dann – leise, kaum hörbar –  
+> ein Ton. Kein Laut, sondern Druck in der Brust.  
+> Als würde etwas sehr weit unten seufzen.
+> 
+> Der Staub bewegt sich.  
+> Erst in Wirbeln, dann in Kreisen, dann zu Formen.  
+> Sie kriechen langsam die Säulen hinauf,  
+> und aus ihren Linien brechen Gestalten –  
+> halb Insekt, halb Schatten,  
+> jede Bewegung zu schnell und zu gleichmäßig.
+
+#### 💥 **Kampf 1 – Die Klangkriecher**
+
+**Gegner:**
+
+- 3 × _Klangkriecher_ (CR ½)
+    
+- 1 × _Schluchtsänger_ (CR 1) – seine Stimme aktiviert den Raum selbst.
+    
+
+> **Gesamt-XP:** 500 (für 4 SC Stufe 4 → mittlerer Kampf)
+
+**Kampfbeschreibung:**
+
+- Klangkriecher bewegen sich an den Säulen entlang,  
+    klammern sich an Decke und Wände.
+    
+- Der Schluchtsänger tritt aus einer Wandnische hervor,  
+    seine Stimme klingt nicht laut, sondern _nah_.
+    
+- Wer ihm zuhört, spürt Traurigkeit, nicht Bedrohung.
+    
+- Er kämpft nicht aus Hass, sondern aus Pflicht.
+    
+
+**Kampfumgebung:**
+
+- 4 Säulen, 3–4 m hoch.
+    
+- Jede Säule kann durch laute Treffer instabil werden (_DC 13 Strength_ um sie zu kippen – verursacht 2D8 Wucht, trifft 1 Ziel).
+    
+- Wer versucht, laut zu sprechen, erhält Nachteil auf WIS-Saves (Störung durch Echo).
+    
+
+**Cinematische Details:**
+
+- Wenn ein Kriecher stirbt, zerfällt er zu Staub, der wie Asche im Licht schwebt.
+    
+- Wenn der Schluchtsänger fällt, stoppt sein Ton abrupt –  
+    die Stille danach ist schmerzhaft körperlich.
+    
+
+**Nach dem Kampf:**  
+Ein leises „Atmen“ hallt durch den Saal,  
+und alle feinen Linien in den Wänden leuchten für einen Moment auf –  
+als hätte jemand die Halle bemerkt.
+
+**Funde:**
+
+- Ein Stück _Resonanzglas_ (nutzen als Spell-Komponente oder Fokus).
+    
+- Wer 10 Min. untersucht (_Arcana DC 14_), entdeckt einen versteckten Schacht nach unten.
+    
+
+---
+
+### **Szene 5 – Der Abstieg in die Kammer der Töne**
+
+
+> Die Treppe führt spiralförmig hinab,  
+> in Gestein, das mit jedem Schritt heller wird.
+> 
+> Die Wände beginnen zu pulsieren –  
+> nicht im Rhythmus eurer Schritte,  
+> sondern in einem eigenen.
+> 
+> Nach wenigen Minuten öffnet sich der Gang in eine Halle,  
+> so groß, dass ihr das Ende nicht sehen könnt.  
+> Der Boden ist spiegelglatt.  
+> In der Mitte schwebt etwas –  
+> eine Kugel aus schwarzem Wasser, still,  
+> ohne Wellen, ohne Bewegung.  
+> Das Licht eurer Fackeln verschluckt sie ganz.
+
+**Erkundung:**
+
+- _Perception DC 14:_ Kein Wind, keine Luftbewegung.
+    
+- _Arcana DC 15:_ Das Wasser ist fest, aber nicht gefroren.
+    
+- _Religion DC 12:_ Spuren eines Rituals (drei Kreise im Boden, ineinander).
+    
+
+**Interaktion:**
+
+- Berührt jemand das Wasser, spürt er Kälte und… Antwort.  
+    Eine kurze, fremde Erinnerung:  
+    Sand, Licht, eine Stimme, die _„Warte“_ sagt.
+    
+
+---
+
+### **Szene 6 – Kampf 2 – Der Hüter des Tons**
+
+> Das Wasser beginnt zu beben.  
+> Tropfen lösen sich, schweben nach oben,  
+> bleiben in der Luft stehen,  
+> werden zu Formen,  
+> werden zu Gliedern.
+> 
+> Eine Kreatur erhebt sich aus dem Spiegel –  
+> halb flüssig, halb aus Licht,  
+> ihr Körper schwingt, als wäre er selbst ein Atem.  
+> Kein Gesicht, nur ein glatter Helm aus schwarzer Oberfläche,  
+> in der sich euer eigener Blick spiegelt.
+
+**Gegner:**
+
+- 1 × _Resonanz-Larve_ (CR 2)
+    
+- 1 × _Akolyt_ (CR 1) – erscheint kurz darauf als „Restbewusstsein“ der Halle.
+    
+
+→ Gesamt ≈ 700 XP → ausgewogener „Wächter“-Kampf.
+
+**Kampfumgebung:**
+
+- Der Boden ist glatt – bei jedem _Dex Save DC 12_ zum Ausweichen,  
+    Fehlschlag = prone.
+    
+- Die Wasser-Kugel reagiert auf Energie:  
+    Bei Schall- oder Feuerschaden (magisch) entlädt sie Wellen → KO Save DC 13, 2D8 Schaden.
+    
+
+**Cinematik:**
+
+- Wenn die Larve stirbt, fällt sie auseinander und zittert noch Sekunden im Staub.
+    
+- Der Akolyt ruft kurz in Threnaic:  
+    _„Nicht jetzt... sie hört noch.“_ – dann zerfällt er.
+    
+
+**Belohnungen:**
+
+- **Fragment der Klangsäule:** +1 Spell-Fokus, kann 1/Tag _Silence_ erzeugen (1 Min).
+    
+- **Splitter aus Obsidian:** dient später als Symbol für Saath (Plot-Gegenstand).
+    
+
+---
+
+### **Szene 7 – Der Nachhall**
+
+
+> Der Kampf endet – aber nichts bewegt sich.  
+> Kein Tropfen fällt.  
+> Kein Echo kehrt zurück.
+> 
+> Dann – langsam –  
+> bildet sich auf der Oberfläche des schwarzen Wassers ein Gesicht.  
+> Nicht klar, nicht wirklich – eher wie eine Erinnerung an ein Gesicht.  
+> Es ist eures.
+> 
+> Lippen bewegen sich, kein Laut,  
+> doch ihr versteht die Worte:  
+> „Bleibt falsch.“
+> 
+> Und dann reißt der Spiegel.
+> 
+> Der Schacht über euch bricht in gleißendes Licht,  
+> ein heißer Wind schießt nach oben –  
+> und die Halle atmet aus.
+
+---
+
+### **Szene 8 – Rückkehr**
+
+
+> Der Weg zurück führt durch stillen Staub.  
+> Der Sand über euch wirkt fester, als hielte er etwas zurück.
+> 
+> Als ihr an die Oberfläche tretet,  
+> steht die Sonne tief über der Wüste.  
+> Ihr erkennt den Obelisk wieder –  
+> aber er ist zerbrochen.
+> 
+> Der Wind hat wieder angefangen zu wehen.  
+> Doch er klingt anders.
+> 
+> Im Norden, jenseits der Dünen,  
+> liegt Tharum –  
+> und über der Stadt steht kein Rauch mehr.  
+> Nur Licht.  
+> Blasses, gleichmäßiges Licht.
+
+---
+
+### 🕯️ **Ende von Akt III – Das versunkene Lied**
+
+> _„Unter dem Sand habt ihr etwas gehört,  
+> das euch nicht gerufen hat –  
+> und dennoch gewartet hat, dass ihr kommt.“_
+
+> **Meilenstein:** Stufe 5  
+> **Nächster Akt:** _IV – Stimmen im Stein_  
+> (Rückkehr nach Tharum, wo die Welt langsam anfängt, im Gleichmaß zu atmen.)
+
+---
+# **Akt IV – Stimmen im Stein**
+
+> _„Die Stadt hat sich nicht verändert. Nur das, was in ihr schweigt.“_
+
+---
+## **Kapitel 1 – Rückkehr nach Tharum**
+
+---
+
+### **Szene 1 – Am Rand der Stadt**
+
+
+> Der Wind trägt den Geruch von heißem Staub, als ihr die letzten Dünen überquert.  
+> Tharum liegt vor euch wie gemalt – dieselben Mauern, dieselben Türme, dieselben Felder aus hellem Stein.  
+> Aber kein Rauch steigt auf. Kein Hammer klingt. Keine Stimme ruft.  
+> Nur das Flirren der Luft über den Dächern, wie eine unsichtbare Haut, die alles abschließt.
+> 
+> Selbst die Sonne scheint hier leiser zu scheinen.  
+> Für einen Moment glaubt ihr, dass ihr euch geirrt habt,  
+> dass dies nicht Tharum ist, sondern eine Erinnerung an Tharum,  
+> eingefangen in der Hitze.
+
+**Erkundung:**
+
+- _Perception DC 13:_ Kein Insekt, kein Vogel – absolute Windstille im Umkreis von 200 m.
+    
+- _Insight DC 14:_ Die Stadt wirkt nicht verlassen, sondern wartet.
+    
+- _Arcana DC 12:_ Fels unter dem Sand fühlt sich warm und pulsierend an, wie ein Herzschlag.
+    
+
+---
+
+### **Szene 2 – Die stillen Straßen**
+
+
+> Innerhalb der Mauern riecht es nach altem Metall und Öl.  
+> Türen stehen offen, als hätten die Bewohner sie in Eile verlassen –  
+> aber in jedem Haus liegen Werkzeuge ordentlich nebeneinander,  
+> Teller sind gespült, Betten gemacht.
+> 
+> Auf dem Markt stehen Früchte, vertrocknet, aber sauber angeordnet.  
+> Ein Stück Brot ist halb gegessen – daneben ein Messer, blank.
+> 
+> Nichts wirkt zerstört. Nichts gestohlen. Nur angehalten.
+> 
+> Aus der Ferne erklingt ein einzelnes Klopfen, regelmäßig, langsam –  
+> nicht laut, aber eindringlich.  
+> Es kommt aus der Richtung des Rathauses.
+
+**Was geschieht:**  
+Die Spieler erkunden Tharum frei.
+
+- _Investigation DC 14:_ Alle Uhren (Sanduhren, Tropfuhren) sind auf denselben Moment erstarrt.
+    
+- _Religion oder Arcana DC 13:_ Die Stille fühlt sich geordnet an, nicht chaotisch.
+    
+- _Perception DC 15:_ Leise Stimmen unter dem Pflasterstein, kaum wahrnehmbar – wie ein Flüstern durch Gestein.
+    
+
+---
+
+### **Szene 3 – Das Rathaus**
+
+
+> Die Tür steht offen, der Saal ist kühl.  
+> Staub schwebt in der Luft wie Nebel.  
+> Am großen Tisch sitzen Menschen – drei, vielleicht vier –  
+> reglos, Hände gefaltet, Köpfe gesenkt.  
+> Ihre Haut ist bleich, aber lebendig; man sieht das Zittern der Adern unter der Oberfläche.
+> 
+> Vor ihnen, auf dem Tisch, steht eine kleine Glocke aus schwarzem Metall.  
+> Bei jedem Laut eurer Schritte vibriert sie kaum merklich.
+> 
+> Einer der Männer hebt den Kopf.  
+> Seine Augen sind trüb, aber klar genug, euch zu erkennen.
+> 
+> „Ihr seid spät“, sagt er.  
+> Dann, nach einer Pause:  
+> „Sie hat gewartet.“
+
+**Sozialer Konflikt:**  
+Diese Menschen sind keine Gegner – sie sprechen langsam, als würden sie einem fremden Takt folgen.  
+Sie erklären, dass die „Stimme“ in der Erde sie leitet.  
+Wenn die SC versuchen, sie zu überzeugen oder zu retten,
+
+> _Persuasion DC 15_ oder _Insight DC 13:_ Sie wollen nicht erlöst werden.
+
+Wenn man die Glocke berührt → kurzer Schock, wie ein Echo durch den Kopf:  
+Ein einziger Gedanke flüstert: _„Saath hört zu.“_
+
+---
+## **Kapitel 2 – Unter der Stadt**
+
+---
+
+### **Szene 4 – Die alte Förderhalle**
+
+
+> Hinter dem Rathaus führt ein Tunnel abwärts – der alte Versorgungsstollen, der einst zur Mine führte.  
+> Die Wände sind feucht, das Wasser riecht metallisch.  
+> Fackeln brennen hier unten nicht gut; der Rauch sammelt sich unter der Decke wie schwarzer Dunst.
+> 
+> Weiter unten hallt euer Atem, als käme er aus einem anderen Mund zurück.
+> 
+> Dann, plötzlich, Bewegung:  
+> Zwischen verrosteten Wagen huschen Schatten – klein, gebückt, zu schnell für Menschen.  
+> Augen glühen kurz im Licht, verschwinden wieder.
+
+#### 💥 **Kampf 1 – Die Suchenden**
+
+**Gegner:**
+
+- 2 × _Schluchtsänger_ (CR 1) – verstört, halb menschlich, halb Threnai.
+    
+- 3 × _Nachklang_ (CR ¼) – körperlose Echos, die den Ton der Stimmen aufnehmen.
+    
+
+> **Gesamt-XP:** ca. 850 → Medium Encounter für Stufe 5.
+
+**Atmosphäre & Mechanik:**
+
+- Dunkelheit, enge Gänge (Bewegung halbiert).
+    
+- Schluchtsänger singen Fragmente alter Gebete.
+    
+- Nachklänge spiegeln die Worte der Spieler (psychischer Schaden, wenn sie sprechen).
+    
+
+**Kampfende:**  
+Ein Nachklang bricht in Flüstern zusammen:
+
+> _„Unten wartet sie – unter dem Brunnen.“_
+
+---
+
+### **Szene 5 – Der Brunnen von Tharum**
+
+
+> Der alte Stadtbrunnen liegt im Zentrum des Marktplatzes.  
+> Sein Rand ist eingestürzt, Wasser läuft schwarz über den Stein.  
+> Im Schacht darunter glimmt ein schwaches Licht – wie Nebel, der atmet.
+> 
+> Als ihr hinabsteigt, wird die Luft kühl.  
+> Der Brunnen führt in eine gewaltige Kammer,  
+> deren Wände aus glänzendem Fels bestehen, durchzogen von Adern, die leuchten,  
+> langsam, im Rhythmus eines Herzschlags.
+> 
+> Im Zentrum steht eine Gestalt.  
+> Nicht Threnai, nicht Mensch – ein Übergang.  
+> Ihre Haut durchsichtig, Augen leer,  
+> die Stimme kaum ein Flüstern:  
+> „Ich wollte sie aufhalten. Aber sie hört mich jetzt auch.“
+
+#### 💥 **Kampf 2 – Die Stimme von Tharum**
+
+**Gegner:**
+
+- 1 × _Klangweberin_ (CR 5) – „Verkünderin“ Saaths, noch halb bewusst.
+    
+
+> **Gesamt-XP:** 1 800 → Hard Encounter, Endkampf des Akts.
+
+**Taktik & Atmosphäre:**
+
+- Sie nutzt Zauber _Silence_, _Confusion_, _Hypnotic Pattern_.
+    
+- Arena: kreisförmig, 9 m Radius, Lichtadern flackern bei jeder Aktion.
+    
+- Wenn sie unter 0 HP fällt,
+    
+    > die Halle zittert, und ein flüsterndes Echo erfüllt die Luft:  
+    > _„Ihr habt sie geweckt. Ihr müsst zuhören.“_
+    
+
+**Belohnungen:**
+
+- **Splitter der Glocke:** Magisches Fokusobjekt (+1 Spell Save DC gegen Schallzauber).
+    
+- **Vision:** kurze Erinnerung – Saaths Schatten über einer Stadt aus Licht und Wasser.
+    
+
+---
+## **Kapitel 3 – Nachklang**
+
+---
+
+### **Szene 6 – Die erwachende Stadt**
+
+
+> Als ihr an die Oberfläche zurückkehrt, dämmert es.  
+> Der Himmel ist klar, kein Wind, keine Vögel.
+> 
+> Auf den Straßen stehen Menschen.  
+> Sie reden nicht. Sie sehen euch an.  
+> Ihre Augen sind ruhig, nicht leer.  
+> Und einer nach dem anderen beginnen sie, gleichzeitig zu atmen.
+> 
+> Kein Laut, keine Bewegung – nur dieser gemeinsame Atem,  
+> der sich über die Stadt legt wie Nebel.
+> 
+> Dann, aus der Ferne, erklingt ein Ton –  
+> nicht laut, aber tief.  
+> Die Steine unter euren Füßen vibrieren,  
+> und irgendwo weit unten antwortet etwas.
+
+---
+### 🕯️ **Ende von Akt IV – Stimmen im Stein**
+
+> _„Sie kamen, um Stille zu finden.  
+> Und fanden sich selbst, in ihr widerhallend.“_
+
+> **Meilenstein:** Stufe 6  
+> **Nächster Akt:** _V – Die Linie der Suchenden_  
+> (Reise in die gläsernen Täler Saaths, wo Erinnerung und Traum ununterscheidbar werden.)
+
+---
+
+
+## **Kleiner Orgelträger (CR 4)**
+
+_Large Aberration, unaligned_
+
+**AC:** 15 (mineralisierte Haut)  
+**HP:** 114 (12D10 + 48)  
+**Speed:** 9 m
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|18 (+4)|8 (–1)|18 (+4)|5 (–3)|12 (+1)|9 (–1)|
+
+**Rettungswürfe:** CON +6, WIS +3  
+**Schadensresistenzen:** Schall, Strahl; Wucht (nichtmagisch)  
+**Verwundbarkeiten:** Psychisch  
+**Zustandsimmunitäten:** Verängstigt, bezaubert, taub  
+**Sinne:** Tremorsinn 18 m, passiver Wahrnehmungswert 11  
+**Sprachen:** – (nur vibrierende Kommunikation)  
+**CR:** 4 (1 100 EP)
+
+### Beschreibung
+
+Ein wanderndes Fragment vergangener Tempel, kaum größer als ein Haus,  
+dessen Inneres leise Orgelklänge von sich gibt.  
+Seine Bewegungen sind ruckartig, fast tastend –  
+als würde es im Sand nach dem Rest eines verlorenen Liedes suchen.
+
+### Merkmale
+
+**Resonante Form.**  
+Der Körper besteht aus versteinertem Fleisch, Metall und Orgelpfeifen.  
+Wenn der Orgelträger sich innerhalb von 3 m einer lauten Geräuschquelle befindet,  
+hat er bis zum Ende seines nächsten Zuges Vorteil auf seinen nächsten Angriffswurf.
+
+**Langsamer Marsch.**  
+Der Orgelträger kann keine Dash-Aktion ausführen.  
+Am Ende seines Zuges bewegt er sich automatisch 3 m in Richtung des lautesten Geräusches, das er wahrnimmt.
+
+**Aura der Vibration (3 m).**  
+Kreaturen, die ihren Zug in der Aura beginnen,  
+müssen einen KO-Rettungswurf (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden  
+und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
+
+### Aktionen
+
+**Multiattack.** Der Orgelträger führt zwei _Glockenfäuste_ aus.
+
+**Glockenfaust.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 3 m, ein Ziel.  
+_Treffer:_ 14 (2D10 + 3) Wuchtschaden + 4 (1D8) Schallschaden.
+
+**Dissonanter Stoß (aufladbar 5–6).**  
+Der Orgelträger stößt einen tonalen Druck aus.  
+Alle Kreaturen in einem 4,5-m-Kegel müssen einen KO-Save (DC 14) machen.  
+Bei Misserfolg: 13 (3D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden, kein Effekt.  
+Nach dieser Aktion bewegt sich der Orgelträger 3 m rückwärts.
+
+---
+
+## **Orgelträger (CR 6)**
+
+_Huge Aberration, unaligned_
+
+**AC:** 16 (mineralisierte Haut, metallene Rippen)  
+**HP:** 189 (18D12 + 72)  
+**Speed:** 9 m
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|22 (+6)|8 (–1)|19 (+4)|6 (–2)|13 (+1)|10 (0)|
+
+**Rettungswürfe:** CON +7, WIS +4  
+**Fertigkeiten:** Wahrnehmung +4  
+**Schadensresistenzen:** Schall, Strahl, Kälte; Wucht (nichtmagisch)  
+**Verwundbarkeiten:** Psychisch  
+**Zustandsimmunitäten:** Verängstigt, bezaubert, taub, liegend  
+**Sinne:** Tremorsinn 27 m, Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
+**Sprachen:** – (nur harmonische Vibration)  
+**CR:** 6 (2 300 EP)
+
+### Beschreibung
+
+Ein wandelndes Mausoleum, das Klang in Stein gebunden trägt.  
+Seine Haut ist ein Flickwerk aus Fels, Metall und verwachsenen Pfeifen,  
+seine Schritte erzeugen Druckwellen, die Landschaften verändern können.  
+Es kämpft nicht aus Zorn, sondern aus Erinnerung –  
+jeder Schlag ein Akkord, jeder Atemzug ein Gebet.
+
+### Merkmale
+
+**Massive Struktur.**  
+Der Orgelträger ist ein belebtes Bauwerk.  
+Kritische Treffer verursachen nur normalen Schaden.  
+Er kann keine Öffnungen passieren, die kleiner als 4,5 m sind.
+
+**Klangträger.**  
+Immer wenn der Orgelträger in einer Runde 20 oder mehr Schaden erleidet,  
+stößt er einen automatischen Resonanzimpuls aus:  
+Alle Kreaturen im Umkreis von 6 m müssen einen KO-Save (DC 15) bestehen  
+oder bis zum Ende ihres nächsten Zuges _taub_ sein.
+
+**Aura der Resonanz (6 m).**  
+Am Beginn jedes Zuges muss jede Kreatur in der Aura  
+einen KO-Save (DC 15) ablegen oder 4 (1D8) Schallschaden nehmen  
+und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
+
+**Unaufhaltsamer Gang.**  
+Der Orgelträger ignoriert schwieriges Gelände  
+und zerstört jede nichtmagische Struktur mit AC 15 oder niedriger, wenn er sich hindurchbewegt.
+
+### Aktionen
+
+**Multiattack.** Der Orgelträger führt zwei _Orgelhiebe_ aus.
+
+**Orgelhieb.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 4,5 m, ein Ziel.  
+_Treffer:_ 21 (3D10 + 5) Wuchtschaden + 7 (2D6) Schallschaden.
+
+**Kanonischer Stoß (aufladbar 5–6).**  
+Der Orgelträger entlädt einen Klangstoß in einem 9-m-Kegel.  
+Alle Kreaturen müssen einen KO-Save (DC 15) machen.  
+Bei Misserfolg: 27 (6D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden.  
+Objekte im Bereich erleiden doppelten Schaden.
+
+**Stille des Steins (1/Tag).**  
+Der Orgelträger stoppt plötzlich alle Geräusche.  
+In einem Radius von 9 m herrscht 1 Minute lang _magische Stille_.  
+Währenddessen regeneriert er zu Beginn seines Zuges 10 TP.  
+Erleidet er Feuerschaden, endet der Effekt sofort.
+
+### Legendäre Aktion (optional für Bosskämpfe)
+
+**Tiefer Tritt (1 Aktion).**  
+Der Orgelträger stampft auf den Boden;  
+alle Kreaturen innerhalb 3 m müssen einen GE-Save (DC 15) machen  
+oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
+
+---
+
+## **Gebrochener Orgelträger (CR 9)**
+
+_Gargantuan Aberration, unaligned_
+
+**AC:** 17 (felsgehärtete Außenhaut)  
+**HP:** 290 (20D20 + 100)  
+**Speed:** 9 m
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|26 (+8)|6 (–2)|20 (+5)|7 (–2)|14 (+2)|11 (0)|
+
+**Rettungswürfe:** CON +9, WIS +6  
+**Fertigkeiten:** Wahrnehmung +6  
+**Schadensresistenzen:** Schall, Strahl, Feuer, Kälte; Wucht und Schnitt (nichtmagisch)  
+**Verwundbarkeiten:** Psychisch  
+**Zustandsimmunitäten:** Verängstigt, taub, gelähmt, liegend, bezaubert  
+**Sinne:** Tremorsinn 36 m, Dunkelsicht 36 m, passiver Wahrnehmungswert 16  
+**Sprachen:** – (Resonantes Bewusstsein)  
+**CR:** 9 (5 000 EP)
+
+### Beschreibung
+
+Ein Koloss aus Glas, Fels und Fleisch,  
+dessen Inneres von Lichtadern durchzogen ist.  
+Jeder Schritt lässt die Erde vibrieren,  
+jeder Atemzug flutet den Boden mit Schall.  
+Aus seinen Pfeifen erklingen gebrochene Akkorde –  
+kein Lied, sondern das Echo eines Tempels,  
+der sich selbst vergessen hat.
+
+### Merkmale
+
+**Massive Architektur.**  
+Der Gebrochene Orgelträger ist ein halbzerfallenes Bauwerk auf Beinen.  
+Er gilt als unüberwindbares Terrain für Kreaturen kleiner als _Large_  
+und kann pro Zug Strukturen von bis zu 9 m Höhe zerstören, indem er sie überrollt.  
+Kritische Treffer verursachen nur normalen Schaden.
+
+**Aura der Disharmonie (9 m).**  
+Die Luft pulsiert in unregelmäßigen Druckwellen.  
+Kreaturen, die ihren Zug in der Aura beginnen,  
+müssen einen KO-Save (DC 16) machen.  
+Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
+
+**Verfallene Resonanz.**  
+Wenn der Orgelträger Schall- oder Strahlenschaden erleidet,  
+brechen Stücke seiner Pfeifen ab.  
+Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben  
+und zufällige Worte wiederholen, die sie hören.
+
+**Klangverzerrung.**  
+Zauber, die Schall oder Sprache erfordern, haben innerhalb 18 m eine 50%-Chance,  
+fehlzuschlagen (W100 = 11+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt,  
+das den Caster als Ziel hat).
+
+**Unerschütterlich.**  
+Immun gegen _Silence_, _Shatter_, _Calm Emotions_ und Effekte,  
+die Schall unterdrücken.
+
+### Aktionen
+
+**Multiattack.** Der Orgelträger führt zwei _Pfeifenstöße_ aus.
+
+**Pfeifenstoß.** _Nahkampfangriff:_ +10 auf Treffer, Reichweite 6 m, ein Ziel.  
+_Treffer:_ 30 (4D10 + 8) Wuchtschaden + 9 (2D8) Schallschaden.
+
+**Kanonischer Resonanzstoß (aufladbar 5–6).**  
+Der Orgelträger entlädt eine zerstörerische Welle aus Klang.  
+Kreaturen in einem 12-m-Kegel müssen einen KO-Save (DC 16) ablegen.  
+Bei Misserfolg: 45 (10D8) Schallschaden, _liegend_ und _taub_ (1 Minute, KO-Save am Ende jeder Runde zur Aufhebung).  
+Bei Erfolg: halber Schaden.  
+Strukturen im Bereich erleiden doppelten Schaden.
+
+**Gravestep (1/Tag).**  
+Der Orgelträger hebt einen Fuß und setzt ihn mit monumentaler Wucht nieder.  
+Alle Kreaturen im Umkreis von 18 m müssen einen GE-Save (DC 17) ablegen.  
+Bei Misserfolg: 27 (6D8) Wuchtschaden und _restrained_ (durch Schutt);  
+bei Erfolg: halber Schaden, kein Effekt.  
+Das Gelände innerhalb 9 m wird zu schwierigem Terrain.
+
+### Legendäre Aktionen
+
+Der Gebrochene Orgelträger kann 3 legendäre Aktionen ausführen, eine pro Runde am Ende anderer Züge.
+
+**Schritt des Echos.** (1 Aktion)  
+Er bewegt sich bis zu 6 m ohne Gelegenheitsangriffe.  
+Kreaturen, an denen er vorbeigeht, müssen einen KO-Save (DC 15) machen oder 4 (1D10) Schallschaden erleiden.
+
+**Zerspringen (2 Aktionen).**  
+Ein Riss öffnet sich in seiner Haut; Splitter fliegen 6 m weit.  
+Kreaturen im Bereich müssen einen GE-Save (DC 15) bestehen oder 14 (4D6) Stichschaden erleiden.
+
+**Resonanzruf (3 Aktionen).**  
+Der Orgelträger ruft den Nachhall seiner Art.  
+Bis zu zwei _Orgelbruten_ (CR 2) manifestieren sich im Umkreis von 9 m  
+und bestehen 3 Runden, bevor sie zu Staub zerfallen.
+
+---
+
+

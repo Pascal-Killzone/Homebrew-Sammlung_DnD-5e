@@ -286,48 +286,241 @@ Alle Kreaturen seiner Wahl in einem Radius von 6 m müssen einen Stärkewurf (DC
 oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
 
 ---
-## **Orgelträger (CR 4)**
-_Large Aberration, neutral evil_
+## **Kleiner Orgelträger (CR 4)**
 
-**AC:** 15 (natürliche Rüstung)  
-**HP:** 85 (9D10 + 36)  
-**Speed:** 12 m
+_Large Aberration, unaligned_
 
-|   STR    |   DEX    |   CON    |   INT   |   WIS    |   CHA   |
-| :-----: | :-----: | :-----: | :----: | :-----: | :----: |
-| 18 (+4) | 10 (+0) | 18 (+4) | 7 (-2) | 10 (+0) | 9 (-1) |
+**AC:** 15 (mineralisierte Haut)  
+**HP:** 114 (12D10 + 48)  
+**Speed:** 9 m
 
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 10  
-**Sprachen:** versteht Threnaic, kann aber nicht sprechen  
-**CR:** 4 (1.100 EP)
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|18 (+4)|8 (–1)|18 (+4)|5 (–3)|12 (+1)|9 (–1)|
+
+**Rettungswürfe:** CON +6, WIS +3  
+**Schadensresistenzen:** Schall, Strahl; Wucht (nichtmagisch)  
+**Verwundbarkeiten:** Psychisch  
+**Zustandsimmunitäten:** Verängstigt, bezaubert, taub  
+**Sinne:** Tremorsinn 18 m, passiver Wahrnehmungswert 11  
+**Sprachen:** – (nur vibrierende Kommunikation)  
+**CR:** 4 (1 100 EP)
 
 ### Beschreibung
-Der Resonanzkoloss ist ein wandelndes Instrument der Tiefe –  
-ein massiver Körper aus Knochengestein und vibrierendem Chitin.  
-Sein Brustkorb ist hohl und hallt bei jedem Atemzug wie ein Gong.  
-Diese Kreaturen werden oft als „die Orgeln der Tiefe“ bezeichnet:  
-Wesen, deren Herzschlag selbst Runen in den Fels brennt.
 
-Sie dienen den Architekten der Threnai als lebende Werkzeuge,  
-um Ruinen zu „stimmen“ oder ganze Städte auf eine gemeinsame Frequenz zu bringen.
+Ein wanderndes Fragment vergangener Tempel, kaum größer als ein Haus,  
+dessen Inneres leise Orgelklänge von sich gibt.  
+Seine Bewegungen sind ruckartig, fast tastend –  
+als würde es im Sand nach dem Rest eines verlorenen Liedes suchen.
 
 ### Merkmale
-**Aura der Dissonanz.**  
-Alle Kreaturen in einem Radius von 4,5 m müssen zu Beginn ihres Zuges einen Konstitutionsrettungswurf (DC 14) ablegen  
-oder erhalten 4 (1D8) Schallschaden durch die vibrierende Luft.
 
-**Massive Resonanz.**  
-Wenn der Koloss Schaden durch Wucht oder Hieb erleidet,  
-wird der Angreifer mit derselben Frequenz getroffen und erleidet 3 (1D6) psychischen Schaden.
+**Resonante Form.**  
+Der Körper besteht aus versteinertem Fleisch, Metall und Orgelpfeifen.  
+Wenn der Orgelträger sich innerhalb von 3 m einer lauten Geräuschquelle befindet,  
+hat er bis zum Ende seines nächsten Zuges Vorteil auf seinen nächsten Angriffswurf.
+
+**Langsamer Marsch.**  
+Der Orgelträger kann keine Dash-Aktion ausführen.  
+Am Ende seines Zuges bewegt er sich automatisch 3 m in Richtung des lautesten Geräusches, das er wahrnimmt.
+
+**Aura der Vibration (3 m).**  
+Kreaturen, die ihren Zug in der Aura beginnen,  
+müssen einen KO-Rettungswurf (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden  
+und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
 
 ### Aktionen
-**Schwingungshieb.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 3 m, ein Ziel.  
-_Treffer:_ 13 (2D8 + 4) Wucht- oder Schallschaden.
+
+**Multiattack.** Der Orgelträger führt zwei _Glockenfäuste_ aus.
+
+**Glockenfaust.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 3 m, ein Ziel.  
+_Treffer:_ 14 (2D10 + 3) Wuchtschaden + 4 (1D8) Schallschaden.
+
+**Dissonanter Stoß (aufladbar 5–6).**  
+Der Orgelträger stößt einen tonalen Druck aus.  
+Alle Kreaturen in einem 4,5-m-Kegel müssen einen KO-Save (DC 14) machen.  
+Bei Misserfolg: 13 (3D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden, kein Effekt.  
+Nach dieser Aktion bewegt sich der Orgelträger 3 m rückwärts.
+
+---
+
+## **Orgelträger (CR 6)**
+
+_Huge Aberration, unaligned_
+
+**AC:** 16 (mineralisierte Haut, metallene Rippen)  
+**HP:** 189 (18D12 + 72)  
+**Speed:** 9 m
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|22 (+6)|8 (–1)|19 (+4)|6 (–2)|13 (+1)|10 (0)|
+
+**Rettungswürfe:** CON +7, WIS +4  
+**Fertigkeiten:** Wahrnehmung +4  
+**Schadensresistenzen:** Schall, Strahl, Kälte; Wucht (nichtmagisch)  
+**Verwundbarkeiten:** Psychisch  
+**Zustandsimmunitäten:** Verängstigt, bezaubert, taub, liegend  
+**Sinne:** Tremorsinn 27 m, Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
+**Sprachen:** – (nur harmonische Vibration)  
+**CR:** 6 (2 300 EP)
+
+### Beschreibung
+
+Ein wandelndes Mausoleum, das Klang in Stein gebunden trägt.  
+Seine Haut ist ein Flickwerk aus Fels, Metall und verwachsenen Pfeifen,  
+seine Schritte erzeugen Druckwellen, die Landschaften verändern können.  
+Es kämpft nicht aus Zorn, sondern aus Erinnerung –  
+jeder Schlag ein Akkord, jeder Atemzug ein Gebet.
+
+### Merkmale
+
+**Massive Struktur.**  
+Der Orgelträger ist ein belebtes Bauwerk.  
+Kritische Treffer verursachen nur normalen Schaden.  
+Er kann keine Öffnungen passieren, die kleiner als 4,5 m sind.
+
+**Klangträger.**  
+Immer wenn der Orgelträger in einer Runde 20 oder mehr Schaden erleidet,  
+stößt er einen automatischen Resonanzimpuls aus:  
+Alle Kreaturen im Umkreis von 6 m müssen einen KO-Save (DC 15) bestehen  
+oder bis zum Ende ihres nächsten Zuges _taub_ sein.
+
+**Aura der Resonanz (6 m).**  
+Am Beginn jedes Zuges muss jede Kreatur in der Aura  
+einen KO-Save (DC 15) ablegen oder 4 (1D8) Schallschaden nehmen  
+und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
+
+**Unaufhaltsamer Gang.**  
+Der Orgelträger ignoriert schwieriges Gelände  
+und zerstört jede nichtmagische Struktur mit AC 15 oder niedriger, wenn er sich hindurchbewegt.
+
+### Aktionen
+
+**Multiattack.** Der Orgelträger führt zwei _Orgelhiebe_ aus.
+
+**Orgelhieb.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 4,5 m, ein Ziel.  
+_Treffer:_ 21 (3D10 + 5) Wuchtschaden + 7 (2D6) Schallschaden.
 
 **Kanonischer Stoß (aufladbar 5–6).**  
-Der Koloss entlädt die gesammelte Energie aus seinem Brustraum.  
-Alle Kreaturen in einem 6-m-Kegel müssen einen Konstitutionsrettungswurf (DC 14) bestehen  
-oder erleiden 21 (6D6) Schallschaden und werden 3 m zurückgeschleudert.
+Der Orgelträger entlädt einen Klangstoß in einem 9-m-Kegel.  
+Alle Kreaturen müssen einen KO-Save (DC 15) machen.  
+Bei Misserfolg: 27 (6D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden.  
+Objekte im Bereich erleiden doppelten Schaden.
+
+**Stille des Steins (1/Tag).**  
+Der Orgelträger stoppt plötzlich alle Geräusche.  
+In einem Radius von 9 m herrscht 1 Minute lang _magische Stille_.  
+Währenddessen regeneriert er zu Beginn seines Zuges 10 TP.  
+Erleidet er Feuerschaden, endet der Effekt sofort.
+
+### Legendäre Aktion (optional für Bosskämpfe)
+
+**Tiefer Tritt (1 Aktion).**  
+Der Orgelträger stampft auf den Boden;  
+alle Kreaturen innerhalb 3 m müssen einen GE-Save (DC 15) machen  
+oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
+
+---
+
+## **Gebrochener Orgelträger (CR 9)**
+
+_Gargantuan Aberration, unaligned_
+
+**AC:** 17 (felsgehärtete Außenhaut)  
+**HP:** 290 (20D20 + 100)  
+**Speed:** 9 m
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|26 (+8)|6 (–2)|20 (+5)|7 (–2)|14 (+2)|11 (0)|
+
+**Rettungswürfe:** CON +9, WIS +6  
+**Fertigkeiten:** Wahrnehmung +6  
+**Schadensresistenzen:** Schall, Strahl, Feuer, Kälte; Wucht und Schnitt (nichtmagisch)  
+**Verwundbarkeiten:** Psychisch  
+**Zustandsimmunitäten:** Verängstigt, taub, gelähmt, liegend, bezaubert  
+**Sinne:** Tremorsinn 36 m, Dunkelsicht 36 m, passiver Wahrnehmungswert 16  
+**Sprachen:** – (Resonantes Bewusstsein)  
+**CR:** 9 (5 000 EP)
+
+### Beschreibung
+
+Ein Koloss aus Glas, Fels und Fleisch,  
+dessen Inneres von Lichtadern durchzogen ist.  
+Jeder Schritt lässt die Erde vibrieren,  
+jeder Atemzug flutet den Boden mit Schall.  
+Aus seinen Pfeifen erklingen gebrochene Akkorde –  
+kein Lied, sondern das Echo eines Tempels,  
+der sich selbst vergessen hat.
+
+### Merkmale
+
+**Massive Architektur.**  
+Der Gebrochene Orgelträger ist ein halbzerfallenes Bauwerk auf Beinen.  
+Er gilt als unüberwindbares Terrain für Kreaturen kleiner als _Large_  
+und kann pro Zug Strukturen von bis zu 9 m Höhe zerstören, indem er sie überrollt.  
+Kritische Treffer verursachen nur normalen Schaden.
+
+**Aura der Disharmonie (9 m).**  
+Die Luft pulsiert in unregelmäßigen Druckwellen.  
+Kreaturen, die ihren Zug in der Aura beginnen,  
+müssen einen KO-Save (DC 16) machen.  
+Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
+
+**Verfallene Resonanz.**  
+Wenn der Orgelträger Schall- oder Strahlenschaden erleidet,  
+brechen Stücke seiner Pfeifen ab.  
+Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben  
+und zufällige Worte wiederholen, die sie hören.
+
+**Klangverzerrung.**  
+Zauber, die Schall oder Sprache erfordern, haben innerhalb 18 m eine 50%-Chance,  
+fehlzuschlagen (W100 = 11+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt,  
+das den Caster als Ziel hat).
+
+**Unerschütterlich.**  
+Immun gegen _Silence_, _Shatter_, _Calm Emotions_ und Effekte,  
+die Schall unterdrücken.
+
+### Aktionen
+
+**Multiattack.** Der Orgelträger führt zwei _Pfeifenstöße_ aus.
+
+**Pfeifenstoß.** _Nahkampfangriff:_ +10 auf Treffer, Reichweite 6 m, ein Ziel.  
+_Treffer:_ 30 (4D10 + 8) Wuchtschaden + 9 (2D8) Schallschaden.
+
+**Kanonischer Resonanzstoß (aufladbar 5–6).**  
+Der Orgelträger entlädt eine zerstörerische Welle aus Klang.  
+Kreaturen in einem 12-m-Kegel müssen einen KO-Save (DC 16) ablegen.  
+Bei Misserfolg: 45 (10D8) Schallschaden, _liegend_ und _taub_ (1 Minute, KO-Save am Ende jeder Runde zur Aufhebung).  
+Bei Erfolg: halber Schaden.  
+Strukturen im Bereich erleiden doppelten Schaden.
+
+**Gravestep (1/Tag).**  
+Der Orgelträger hebt einen Fuß und setzt ihn mit monumentaler Wucht nieder.  
+Alle Kreaturen im Umkreis von 18 m müssen einen GE-Save (DC 17) ablegen.  
+Bei Misserfolg: 27 (6D8) Wuchtschaden und _restrained_ (durch Schutt);  
+bei Erfolg: halber Schaden, kein Effekt.  
+Das Gelände innerhalb 9 m wird zu schwierigem Terrain.
+
+### Legendäre Aktionen
+
+Der Gebrochene Orgelträger kann 3 legendäre Aktionen ausführen, eine pro Runde am Ende anderer Züge.
+
+**Schritt des Echos.** (1 Aktion)  
+Er bewegt sich bis zu 6 m ohne Gelegenheitsangriffe.  
+Kreaturen, an denen er vorbeigeht, müssen einen KO-Save (DC 15) machen oder 4 (1D10) Schallschaden erleiden.
+
+**Zerspringen (2 Aktionen).**  
+Ein Riss öffnet sich in seiner Haut; Splitter fliegen 6 m weit.  
+Kreaturen im Bereich müssen einen GE-Save (DC 15) bestehen oder 14 (4D6) Stichschaden erleiden.
+
+**Resonanzruf (3 Aktionen).**  
+Der Orgelträger ruft den Nachhall seiner Art.  
+Bis zu zwei _Orgelbruten_ (CR 2) manifestieren sich im Umkreis von 9 m  
+und bestehen 3 Runden, bevor sie zu Staub zerfallen.
+
 
 ---
 # _Höhere Resonanzwesen und Diener der Architonen_
@@ -335,7 +528,7 @@ oder erleiden 21 (6D6) Schallschaden und werden 3 m zurückgeschleudert.
 > _„Ihr Wille ist kein Gedanke, sondern eine Welle.“_
 
 ---
-## Klangweberin (CR 5)**
+## **Klangweberin (CR 5)**
 _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 15 (Resonanzgewebe)  
