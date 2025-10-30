@@ -1057,7 +1057,7 @@ Das Ziel muss einen Weisheitsrettungswurf (DC 16) bestehen
 oder verliert bis zum Ende seines nächsten Zuges die Fähigkeit zu sprechen.
 
 ---
-## **Dreiklang der Reinen (CR 10, Mythic)**
+## **Dreiklang der Reinen (CR 16, Mythic)**
 
 _Large Aberration (Threnai), true neutral_
 
@@ -1076,7 +1076,7 @@ _Large Aberration (Threnai), true neutral_
 **Zustandsimmunitäten:** Verängstigt, Verwirrt, Ergriffen, Liegend  
 **Sinne:** Dunkelsicht 36 m, Tremorsinn 9 m, passive Wahrnehmung 16  
 **Sprachen:** alle, Telepathie 60 m  
-**Herausforderungsgrad:** 10 (5 900 EP)  
+**Herausforderungsgrad:** 16 (25 000 EP)  
 **Mythischer Rang:** 1 (Mythic Actions freigeschaltet, siehe unten)
 
 ### **Beschreibung**

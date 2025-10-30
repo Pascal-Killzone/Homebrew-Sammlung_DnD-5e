@@ -1968,7 +1968,6 @@ der im Takt eurer Herzschläge pulsiert.
 Er öffnet den Weg in das **Herz Saaths**.
 
 ---
-
 ## **Kapitel 4 – Die Linie**
 
 ---
@@ -2038,5 +2037,275 @@ Sie trägt jetzt Spuren seiner Frequenz (Plotrelevante Mutation / Gabe).
 > 
 > **Nächster Akt:** _VII – Die Letzte Schwingung_  
 > (Das Finale: Entscheidung zwischen Klang und Stille.)
+
+---
+Perfekt.  
+Ich schreibe dir jetzt den **vollständig überarbeiteten Akt VII – „Die Letzte Schwingung“**,  
+im gleichen Format wie alle vorherigen Akte (Akt → Kapitel → Szenen),  
+und auf Basis deines _aktuellen Bestiariums_.
+
+Hier ist der dramaturgische Aufbau:
+
+---
+
+# **Akt VII – Die Letzte Schwingung**
+
+> _„Wenn Klang Vollkommenheit erreicht, bleibt kein Raum mehr für Leben.“_
+
+---
+## **Kapitel 1 – Der Ruf der Tiefe**
+---
+
+### **Szene 1 – Wenn die Welt horcht**
+
+
+> Kein Himmel. Kein Boden. Nur Licht, das atmet.  
+> Aus den Tiefen der Täler steigt ein einziger Ton empor – so tief,  
+> dass er nicht gehört, nur gespürt werden kann.
+> 
+> Die Täler beben. Glas zerbricht lautlos.  
+> Drei Linien aus Licht durchziehen den Horizont – weiß, silber, blau.
+> 
+> Saath spricht nicht, doch jeder von euch hört dieselben Worte in Gedanken:
+> 
+> _„Eirach. Kharox. Saath. Das Lied ist fast vollendet.“_
+
+Die drei Linien markieren die Orte der Prüfungen.  
+Jede Begegnung schwächt das Siegel, das den **Dreiklang der Reinen** zurückhält.
+
+---
+## **Kapitel 2 – Die Drei Prüfungen**
+---
+
+### **Szene 2 – Die Halle aus Stein**
+
+
+> Ihr steigt hinab in ein Becken aus grauem Licht.  
+> Der Boden ist glatt wie Glas,  
+> und zwischen den Felsen ruht etwas Unbewegtes –  
+> eine Gestalt aus Stein, knieend,  
+> die Hände im Staub verschränkt.
+> 
+> Keine Luft regt sich.  
+> Selbst euer Herzschlag klingt gedämpft,  
+> als lausche die Welt einem Gebet, das nie gesprochen wurde.
+
+💥 **Kampf 1 – Eirachs Erbe, der Stumme Titan (CR 6)**
+
+**Mechanik:**
+
+- **Aura der Stille (9 m)** – verbale Zauber scheitern automatisch.
+    
+- Wenn er 50 % HP erreicht, bricht der Boden auf,  
+    und ein Lichtstrahl zieht sich gen Himmel – der Titan löst sich in Staub aus Klang auf.  
+    Die Erde vibriert, als wäre etwas erwacht.
+    
+
+> _„Eirach – Stille. Erste Note.“_
+
+Die Linie Eirachs wird aktiv.
+
+### **Szene 3 – Der Takt des Steins**
+
+
+> Eine Ebene aus metallischem Staub.  
+> Der Boden pulsiert,  
+> jeder Schritt antwortet mit einem Echo.
+> 
+> Am Horizont marschiert eine Gestalt aus Glas und Licht.  
+> Vier Arme, jeder in Bewegung,  
+> der Körper im Gleichmaß –  
+> ein Metronom in menschlicher Form.
+
+💥 **Kampf 2 – Kharox’ Linie, der Rhythmische Wächter (CR 7)**
+
+**Mechanik:**
+
+- **Aura des Takts (9 m)** – Wesen müssen DC 15 WIS-Save schaffen oder ihre letzte Aktion wiederholen.
+    
+- Bei 50 % HP erzeugt der Wächter eine Schockwelle, ruft den Satz:  
+    _„Alles, was sich wiederholt, besteht.“_  
+    Dann zerbricht er zu Lichtsplittern, die gen Zentrum strömen.
+    
+
+> _„Kharox – Takt. Zweite Note.“_
+
+### **Szene 4 – Das Meer der Spiegel**
+
+
+> Eine Ebene aus stillem Wasser.  
+> Jeder Tropfen spiegelt euch –  
+> doch leicht versetzt,  
+> als käme das Bild aus einem späteren Augenblick.
+> 
+> Aus der Oberfläche steigt ein Körper aus Glas,  
+> flüssig, wandelnd,  
+> und spricht mit eurer eigenen Stimme:  
+> _„Wenn du mich besiegst,  
+> wirst du vergessen, wer gekämpft hat.“_
+
+💥 **Kampf 3 – Saaths Linie, der Flüsternde Spiegel (CR 8)**
+
+**Mechanik:**
+
+- **Spiegel der Seele:** DC 16 CHA-Save oder 1 Runde verzögerte Reaktion.
+    
+- Bei 50 % HP verflüssigt sich der Spiegel,  
+    drei Abbilder steigen auf,  
+    flüstern synchron:  
+    _„Alles, was sich erinnert, kehrt heim.“_  
+    Dann brechen sie zu Staub und werden eingesogen.
+    
+
+> _„Saath – Sehnsucht. Dritte Note.“_
+
+Die drei Linien sind vereint.  
+Die Welt bebt.
+
+---
+
+## **Kapitel 3 – Die Beschwörung des Dreiklangs**
+---
+### **Szene 5 – Der Kreis aus Licht**
+
+
+> Drei Säulen aus Licht treffen im Zentrum der Täler aufeinander.  
+> Der Boden hebt sich,  
+> zerbricht,  
+> und darunter liegt eine Ebene aus Resonanzglas –  
+> die Luft pulsiert wie ein Atemzug.
+> 
+> Aus den Linien treten Schatten:  
+> der Titan, der Wächter, der Spiegel – halb Licht, halb Erinnerung.  
+> Sie verbeugen sich voreinander.
+> 
+> Ein einziger, reiner Ton erklingt –  
+> und die Welt steht still.
+
+Das Licht verschmilzt.  
+Der **Dreiklang der Reinen** erwacht.
+
+### **Szene 6 – Der Akkord**
+
+
+> Drei Körper, ein Herz.  
+> Glas, Stein und Wasser rotieren umeinander,  
+> bis sie zu einem einzigen Wesen verschmelzen –  
+> der Ton manifestiert sich in Fleisch.
+> 
+> Kein Klang mehr – nur Vibration.
+> 
+> Über euch öffnet sich die Tiefe selbst,  
+> und ihr fühlt,  
+> wie die Welt eure Schritte mitzählt.
+
+💥 **Endkampf – Dreiklang der Reinen (CR 10, Mythisch)**
+
+**Phasenstruktur:**
+
+1. Der Dreiklang nutzt nacheinander die Aspekte Eirach, Kharox, Saath.
+    
+    - Jede Phase dauert 2–3 Runden.
+        
+2. Wenn 0 HP erreicht werden → **Mythische Phase** beginnt  
+    (siehe deine gegebene Narrative).
+    
+
+---
+
+### **Mythische Phase – „Der Klang der Tiefe selbst“**
+
+> Der Boden zittert.  
+> Nicht vom Gewicht des Körpers vor euch —  
+> sondern von etwas Tieferem, das durch ihn hindurch atmet.
+> 
+> Die drei Stimmen, die sich im Dreiklang vermischen, beginnen sich zu lösen.  
+> Der Ton wird zu Licht.  
+> Das Licht wird zu Druck.  
+> Und dann — **reißt die Welt.**
+> 
+> Die Luft zerbricht in Linien aus Klang.  
+> Jede Farbe wird weiß, jeder Schatten fällt nach innen.  
+> Eure Körper fühlen sich schwerelos an, doch jedes Herz schlägt im gleichen Takt.
+> 
+> Ihr hört keine Geräusche mehr.  
+> Stattdessen _fühlt ihr sie_ —  
+> als würden eure Knochen die Welt hören.
+> 
+> Über euch schwebt der Dreiklang — kein Körper mehr,  
+> sondern ein sphärischer Sturm aus Licht, Stein und Wasser,  
+> in dessen Mitte ein stilles Auge pulsiert.
+> 
+> Drei Stimmen sprechen gleichzeitig, aber in euch, nicht außerhalb:
+> 
+> > **Eirach:** „Alles, was sich bewegt, irrt.“  
+> > **Kharox:** „Alles, was sich wiederholt, besteht.“  
+> > **Saath:** „Alles, was sich erinnert, kehrt heim.“
+> 
+> Der Ton verschmilzt, und die Resonanz trifft euch wie eine Welle.  
+> Die Arena selbst antwortet.  
+> Stein, Staub und Luft beginnen, im Takt eures Atems zu vibrieren.
+> 
+> Ihr steht nicht mehr _in_ der Tiefe —  
+> ihr steht **im Klang der Tiefe selbst.**
+> 
+> **Die zweite Phase beginnt.**
+> 
+> - Die Arena wird zu einer Dimension aus schwebenden Fragmenten.
+>     
+> - Zauber mit Sprache scheitern; _Silence_ ist Schutz.
+>     
+> - Der Dreiklang nimmt keine Form mehr an – nur noch Schwingung.
+>     
+> 
+> Und im Zentrum erklingt ein letzter Gedanke:
+> 
+> > _„Ihr habt versucht, das Lied zu verstehen.  
+> > Jetzt müsst ihr entscheiden, ob ihr mitsingt.“_
+
+**Mythische Effekte:**
+
+- **Aura des Gleichklangs** (DC 17 WIS) – Wiederholung der letzten Aktion.
+    
+- **Hymne der Urresonanz (aufladbar 6)** – Trance für alle Kreaturen (DC 18 WIS).
+    
+- **Unisono (Mythische Aktion)** – 1 Runde handlungsunfähig für alle (DC 18 WIS).
+    
+
+---
+
+## **Kapitel 4 – Nachhall**
+---
+### **Szene 7 – Der Entscheid**
+
+
+> Das Licht erlischt.  
+> Der Ton fällt in sich zusammen.
+> 
+> Über den Tälern liegt Stille – nicht leer,  
+> sondern voll.
+> 
+> Vor euch schwebt ein Splitter aus Licht,  
+> pulsierend wie ein Herzschlag.  
+> Eine Stimme – Saath, sanft, allgegenwärtig:
+> 
+> _„Klang ist Ordnung.  
+> Stille ist Frieden.  
+> Was wählt ihr?“_
+
+### **Mögliche Enden**
+
+1. **Der Bruch:** Splitter zerstören → Welt lebt, aber Resonanz versiegt.
+    
+2. **Der Einklang:** Splitter annehmen → SC werden Teil des neuen Tons.
+    
+3. **Der Mittlere Ton:** Splitter stimmen → Balance zwischen Klang und Stille.
+    
+
+---
+
+### 🕯️ **Ende von Akt VII – Die Letzte Schwingung**
+
+> _„Als der letzte Ton verklang, lauschte selbst die Ewigkeit.“_
 
 ---
