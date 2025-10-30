@@ -10,13 +10,13 @@
 
 **AC:** 11
 **HP:** 5 (2D4)
-**Speed:** 3 m, fliegen 9 m
+**Speed:** 10 ft, fliegen 30 ft
 
 |   STR  |   DEX   |   CON   |   INT  |   WIS   |   CHA  |
 | :----: | :-----: | :-----: | :----: | :-----: | :----: |
 | 3 (–4) | 13 (+1) | 10 (+0) | 2 (–4) | 12 (+1) | 5 (–3) |
 
-**Sinne:** Dunkelsicht 9 m, passiver Wahrnehmungswert 11
+**Sinne:** Dunkelsicht 30 ft, passiver Wahrnehmungswert 11
 **Sprachen:** –
 **CR:** ⅛ (25 EP)
 
@@ -29,16 +29,16 @@ Ihre Flügel schlagen im Rhythmus der Stille.
 ### Merkmale
 
 **Empfindlich gegen Schall.**
-Wenn die Motte Schallschaden erleidet, muss sie einen KO-Save (DC 10) bestehen oder stirbt sofort.
+Wenn die Motte Schallschaden erleidet, muss sie einen CON-Save (DC 10) bestehen oder stirbt sofort.
 
 **Schwarminstinkt.**
-Wenn sich mindestens drei Resonanzmotten innerhalb 3 m befinden, erhalten sie +2 AC.
+Wenn sich mindestens drei Resonanzmotten innerhalb 10ft. befinden, erhalten sie +2 AC.
 
 ### Aktionen
 
-**Schallstaub.** *Fernkampfangriff:* +3 auf Treffer, Reichweite 3 m, ein Ziel.
+**Schallstaub.** *Fernkampfangriff:* +3 auf Treffer, Reichweite 10ft., ein Ziel.
 *Treffer:* 3 (1D6) psychischer Schaden.
-Das Ziel muss einen WEI-Save (DC 10) bestehen oder 1 Runde lang taub sein.
+Das Ziel muss einen WIS-Save (DC 10) bestehen oder 1 Runde lang taub sein.
 
 ---
 ## **Nachklang (CR ¼)**
@@ -46,13 +46,13 @@ _Kleine Aberration, neutral_
 
 **AC:** 12  
 **HP:** 13 (3D6 + 3)  
-**Speed:** 9 m (30 ft)
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |8 (-1)|14 (+2)|12 (+1)|5 (-3)|10 (+0)|6 (-2)|
 
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 10  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 10  
 **Sprachen:** versteht Threnaic, kann aber nicht sprechen  
 **CR:** ¼ (50 EP)
 
@@ -71,11 +71,10 @@ Das Echo kann sich durch jede Öffnung bewegen, die mindestens 2,5 cm breit ist,
 ohne sich zu zwängen. Es kann nicht sprechen, aber ein leises Summen erfüllt stets die Luft um es herum.
 
 **Instinkt der Schwingung.**  
-Wenn eine Kreatur in einem Radius von 9 m spricht oder einen Zauber mit verbaler Komponente wirkt,  
-bewegt sich das Echo als Reaktion bis zu 3 m auf sie zu.
+Wenn eine Kreatur in einem Radius von 30 ft spricht oder einen Zauber mit verbaler Komponente wirkt, bewegt sich das Echo als Reaktion bis zu 10 ft auf sie zu.
 
 ### Aktionen
-**Resonanzstoß.** _Nahkampfangriff mit Zauber:_ +4 auf Treffer, Reichweite 1,5 m, ein Ziel.  
+**Resonanzstoß.** _Nahkampfangriff mit Zauber:_ +4 auf Treffer, Reichweite 3 ft, ein Ziel.  
 _Treffer:_ 6 (1D8 + 2) psychischer Schaden.  
 Wenn das Ziel in dieser Runde gesprochen oder gesungen hat,  
 erleidet es zusätzlich 2 (1D4) psychischen Schaden.
@@ -150,9 +149,7 @@ müssen einen Konstitutionsrettungswurf (DC 12) ablegen oder der Zauber hallt in
 Er entfaltet seine Wirkung erst zu Beginn ihres nächsten Zuges.
 
 **Echo des Willens.**  
-Wenn der Akolyt 0 HP erreicht,  
-entlädt sich ein letzter Ton.  
-Alle Kreaturen im Umkreis von 3 m müssen einen Weisheitsrettungswurf (DC 11) bestehen oder sind 1 Minute lang taub.
+Wenn der Akolyt 0 HP erreicht, entlädt sich ein letzter Ton. Alle Kreaturen im Umkreis von 3 m müssen einen Weisheitsrettungswurf (DC 11) bestehen oder sind 1 Minute lang taub.
 
 ### Aktionen
 **Klanglanze.** _Nah- oder Fernkampfangriff:_ +4 auf Treffer, Reichweite 1,5 m oder 9/27 m, ein Ziel.  
@@ -227,11 +224,11 @@ Ihr Atem klingt wie ferne Trommeln.
 
 ### Merkmale
 
-**Aura der Dissonanz.**
+**Aura der Dissonanz (Recharge 5-6)**
 Kreaturen in 4,5 m müssen zu Beginn ihres Zuges einen KO-Save (DC 13) machen oder 4 (1D8) Schallschaden erleiden.
 
 **Schallabsorber.**
-Wenn die Brut Schallschaden erleidet, heilt sie um die Hälfte des Schadens.
+Wenn die Brut Schallschaden erleiden würde, heile sie stattdessen um die Hälfte des Schadens.
 
 ### Aktionen
 
@@ -268,7 +265,7 @@ Ihre Bewegungen sind so präzise, dass selbst das Echo ihnen gehorcht.
 ### Merkmale
 **Harmonisches Schild (aufladbar 6).**  
 Wenn der Ritter getroffen wird, kann er als Reaktion seinen Körper auf die Frequenz des Angriffs abstimmen.  
-Er erhält +2 RK bis zum Beginn seines nächsten Zuges.
+Er erhält +2 AC bis zum Beginn seines nächsten Zuges.
 
 **Bindung der Ordnung.**  
 Wenn ein verbündeter Threnai innerhalb von 9 m Schaden erleidet,  
@@ -278,11 +275,11 @@ kann der Ritter 5 dieses Schadens übernehmen.
 **Resonanzklinge.** _Nahkampfangriff:_ +5 auf Treffer, Reichweite 1,5 m, ein Ziel.  
 _Treffer:_ 10 (2D6 + 3) psychischer Schaden.  
 Wenn der Ritter dasselbe Ziel zweimal hintereinander trifft,  
-muss dieses einen Konstitutionsrettungswurf (DC 13) bestehen oder ist 1 Minute lang taub.
+muss dieses einen CON-Save DC 13 bestehen oder ist 1 Minute lang taub.
 
 **Stoß der Ordnung (aufladbar 5–6).**  
 Der Ritter schlägt seine Waffe in den Boden.  
-Alle Kreaturen seiner Wahl in einem Radius von 6 m müssen einen Stärkewurf (DC 13) bestehen  
+Alle Kreaturen seiner Wahl in einem Radius von 6 m müssen einen STR-Save DC 13 bestehen  
 oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
 
 ---
@@ -324,10 +321,8 @@ hat er bis zum Ende seines nächsten Zuges Vorteil auf seinen nächsten Angriffs
 Der Orgelträger kann keine Dash-Aktion ausführen.  
 Am Ende seines Zuges bewegt er sich automatisch 3 m in Richtung des lautesten Geräusches, das er wahrnimmt.
 
-**Aura der Vibration (3 m).**  
-Kreaturen, die ihren Zug in der Aura beginnen,  
-müssen einen KO-Rettungswurf (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden  
-und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
+**Aura der Vibration (Recharge 6).**  
+Kreaturen in einem 15ft. Umkreis müssen einen CON-Save (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
 
 ### Aktionen
 
@@ -338,7 +333,7 @@ _Treffer:_ 14 (2D10 + 3) Wuchtschaden + 4 (1D8) Schallschaden.
 
 **Dissonanter Stoß (aufladbar 5–6).**  
 Der Orgelträger stößt einen tonalen Druck aus.  
-Alle Kreaturen in einem 4,5-m-Kegel müssen einen KO-Save (DC 14) machen.  
+Alle Kreaturen in einem 15ft. Kegel müssen einen CON-Save (DC 14) machen.  
 Bei Misserfolg: 13 (3D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden, kein Effekt.  
 Nach dieser Aktion bewegt sich der Orgelträger 3 m rückwärts.
 
