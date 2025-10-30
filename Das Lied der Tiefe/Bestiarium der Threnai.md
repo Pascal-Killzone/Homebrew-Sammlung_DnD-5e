@@ -87,7 +87,7 @@ erleidet es zusätzlich 2 (1D4) psychischen Schaden.
 *Small Aberration, neutral*
 
 **AC:** 13 (natürliche Rüstung)
-**HP:** 18 (4D6 + 4)
+**HP:** 22 (4D6 + 8)
 **Speed:** 9 m, klettern 9 m
 
 |   STR   |   DEX   |   CON   |   INT  |   WIS   |   CHA  |
@@ -165,7 +165,7 @@ oder erleiden 9 (2D8) Schallschaden, halber Schaden bei Erfolg.
 
 ---
 
-## **Schluchtsänger (CR 1)**
+## **Schluchtsänger (CR 2)**
 
 *Medium Aberration, chaotic neutral*
 
@@ -180,7 +180,7 @@ oder erleiden 9 (2D8) Schallschaden, halber Schaden bei Erfolg.
 **Fertigkeiten:** Performance +4, Wahrnehmung +3
 **Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 13
 **Sprachen:** versteht Threnaic, singt unwillkürlich
-**CR:** 1 (200 EP)
+**CR:** 2 (450 EP)
 
 ### Beschreibung
 
@@ -203,7 +203,7 @@ Alle Kreaturen im 6-m-Radius müssen einen KO-Save (DC 13) ablegen oder 9 (2D8) 
 
 ---
 
-## **Orgelbrut (CR 2)**
+## **Orgelbrut (CR 3)**
 
 *Medium Aberration, unaligned*
 
@@ -217,7 +217,7 @@ Alle Kreaturen im 6-m-Radius müssen einen KO-Save (DC 13) ablegen oder 9 (2D8) 
 
 **Sinne:** Dunkelsicht 18 m, Tremorsinn 9 m, passiver Wahrnehmungswert 10
 **Sprachen:** –
-**CR:** 2 (450 EP)
+**CR:** 3 (700 EP)
 
 ### Beschreibung
 
@@ -291,7 +291,7 @@ oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
 _Large Aberration, unaligned_
 
 **AC:** 15 (mineralisierte Haut)  
-**HP:** 114 (12D10 + 48)  
+**HP:** 104 (12D10 + 38)  
 **Speed:** 9 m
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -299,7 +299,7 @@ _Large Aberration, unaligned_
 |18 (+4)|8 (–1)|18 (+4)|5 (–3)|12 (+1)|9 (–1)|
 
 **Rettungswürfe:** CON +6, WIS +3  
-**Schadensresistenzen:** Schall, Strahl; Wucht (nichtmagisch)  
+**Schadensresistenzen:** Schall, Raidiant; Wucht (nichtmagisch)  
 **Verwundbarkeiten:** Psychisch  
 **Zustandsimmunitäten:** Verängstigt, bezaubert, taub  
 **Sinne:** Tremorsinn 18 m, passiver Wahrnehmungswert 11  
@@ -344,7 +344,7 @@ Nach dieser Aktion bewegt sich der Orgelträger 3 m rückwärts.
 
 ---
 
-## **Orgelträger (CR 6)**
+## **Orgelträger (CR 7)**
 
 _Huge Aberration, unaligned_
 
@@ -358,12 +358,12 @@ _Huge Aberration, unaligned_
 
 **Rettungswürfe:** CON +7, WIS +4  
 **Fertigkeiten:** Wahrnehmung +4  
-**Schadensresistenzen:** Schall, Strahl, Kälte; Wucht (nichtmagisch)  
+**Schadensresistenzen:** Schall, Raidiantnt, Kälte; Wucht (nichtmagisch)  
 **Verwundbarkeiten:** Psychisch  
 **Zustandsimmunitäten:** Verängstigt, bezaubert, taub, liegend  
 **Sinne:** Tremorsinn 27 m, Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
 **Sprachen:** – (nur harmonische Vibration)  
-**CR:** 6 (2 300 EP)
+**CR:** 6 (2 900 EP)
 
 ### Beschreibung
 
@@ -437,7 +437,7 @@ _Gargantuan Aberration, unaligned_
 
 **Rettungswürfe:** CON +9, WIS +6  
 **Fertigkeiten:** Wahrnehmung +6  
-**Schadensresistenzen:** Schall, Strahl, Feuer, Kälte; Wucht und Schnitt (nichtmagisch)  
+**Schadensresistenzen:** Schall, Raidiant, Feuer, Kälte; Wucht und Schnitt (nichtmagisch)  
 **Verwundbarkeiten:** Psychisch  
 **Zustandsimmunitäten:** Verängstigt, taub, gelähmt, liegend, bezaubert  
 **Sinne:** Tremorsinn 36 m, Dunkelsicht 36 m, passiver Wahrnehmungswert 16  
@@ -469,7 +469,7 @@ müssen einen KO-Save (DC 16) machen.
 Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
 
 **Verfallene Resonanz.**  
-Wenn der Orgelträger Schall- oder Strahlenschaden erleidet,  
+Wenn der Orgelträger Schall- oder Raidiantenschaden erleidet,  
 brechen Stücke seiner Pfeifen ab.  
 Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben  
 und zufällige Worte wiederholen, die sie hören.
@@ -892,7 +892,7 @@ Alle Kreaturen in 15 m erleiden 27 (6D8) Schallschaden (KEIN Rettungswurf).
 _Treffer:_ 17 (2D10 + 6) Wucht- und psychischer Schaden.
 
 **Welle des Fundaments (aufladbar 6).**  
-Das Avatar entlädt eine stehende Welle reiner Resonanz.  
+Der Avatar der Resonanz entlädt eine stehende Welle reiner Resonanz.  
 Alle Kreaturen in einem 12-m-Kegel müssen einen Konstitutionsrettungswurf (DC 17) ablegen oder 31 (7D8) Schallschaden erleiden und 1 Minute lang taub sein.
 
 ---
