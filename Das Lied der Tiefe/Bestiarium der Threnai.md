@@ -624,7 +624,7 @@ Der Priester singt einen komplexen Dreiklang.
 Alle feindlichen Kreaturen im 6 m Radius müssen einen WIS-Save (DC 15) ablegen oder sind bis zum Beginn ihres nächsten Zuges verlangsamt.
 
 ---
-## ****Klangarchitekt** (CR 7)**
+## **Klangarchitekt (CR 7)**
 _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 16 (Resonanzpanzer)  
@@ -769,7 +769,7 @@ Alle Kreaturen seiner Wahl innerhalb von 9 m müssen einen Weisheitsrettungswurf
 
 ### **Beschreibung**
 
-Die Resonanzrichter sind die ausführende Hand der Tiefe – lebende Gleichrichter des Tons.
+Die Richter der Tiefe sind die ausführende Hand der Tiefe – lebende Gleichrichter des Tons.
 Sie wachen über die Reinheit der Schwingung und verurteilen Abweichung ohne Zorn.
 Ihr Blick sieht nicht Gestalt, sondern Frequenz, und ihre Stimme trägt das Gewicht der Wahrheit.
 
@@ -1065,9 +1065,9 @@ _Large Aberration (Threnai), true neutral_
 **HP:** 210 (20D10 + 100)  
 **Speed:** 9 m, fliegen 12 m (schwebend)
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|20 (+5)|14 (+2)|20 (+5)|16 (+3)|16 (+3)|18 (+4)|
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 20 (+5) | 14 (+2) | 20 (+5) | 16 (+3) | 16 (+3) | 18 (+4) |
 
 **Rettungswürfe:** CON +8, WIS +6, CHA +7  
 **Fertigkeiten:** Arcana +6, Performance +7, Insight +6  
@@ -1134,11 +1134,3 @@ Der Dreiklang kann 3 legendäre Aktionen pro Runde nutzen (je 1 pro Phase am End
 - **Unisono (3 Aktionen):** Alle Kreaturen im 30-m-Radius müssen einen WIS-Rettungswurf (DC 18) machen oder sind 1 Runde handlungsunfähig, verloren im Gleichklang.
     
 
-### **Taktischer Einsatz**
-
-- Ideal als finaler oder visionärer Boss im Mittelteil der Kampagne (z. B. Akt V–VI).
-    
-- Die mythische Phase ändert Ton und Umgebung komplett – etwa von physischem Kampf zu reiner Resonanzebene.
-    
-- Er funktioniert gleichzeitig als metaphysische Prüfung und Gefahr.
-    

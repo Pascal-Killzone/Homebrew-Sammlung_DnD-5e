@@ -1434,247 +1434,609 @@ Ein Nachklang bricht in Flüstern zusammen:
 > Und fanden sich selbst, in ihr widerhallend.“_
 
 > **Meilenstein:** Stufe 6  
-> **Nächster Akt:** _V – Die Linie der Suchenden_  
-> (Reise in die gläsernen Täler Saaths, wo Erinnerung und Traum ununterscheidbar werden.)
+> **Nächster Akt:** _V – Der Weg aus Glas_  
+> (Der Weg zu den Gläsernen Tälern)
+
+
+---
+# **Akt V – Der Weg aus Glas**
+
+> _„Je weiter sie gingen, desto leiser wurde die Welt –  
+> nicht, weil sie verstummte,  
+> sondern weil sie zuhörte.“_
 
 ---
 
-
-## **Kleiner Orgelträger (CR 4)**
-
-_Large Aberration, unaligned_
-
-**AC:** 15 (mineralisierte Haut)  
-**HP:** 114 (12D10 + 48)  
-**Speed:** 9 m
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|18 (+4)|8 (–1)|18 (+4)|5 (–3)|12 (+1)|9 (–1)|
-
-**Rettungswürfe:** CON +6, WIS +3  
-**Schadensresistenzen:** Schall, Strahl; Wucht (nichtmagisch)  
-**Verwundbarkeiten:** Psychisch  
-**Zustandsimmunitäten:** Verängstigt, bezaubert, taub  
-**Sinne:** Tremorsinn 18 m, passiver Wahrnehmungswert 11  
-**Sprachen:** – (nur vibrierende Kommunikation)  
-**CR:** 4 (1 100 EP)
-
-### Beschreibung
-
-Ein wanderndes Fragment vergangener Tempel, kaum größer als ein Haus,  
-dessen Inneres leise Orgelklänge von sich gibt.  
-Seine Bewegungen sind ruckartig, fast tastend –  
-als würde es im Sand nach dem Rest eines verlorenen Liedes suchen.
-
-### Merkmale
-
-**Resonante Form.**  
-Der Körper besteht aus versteinertem Fleisch, Metall und Orgelpfeifen.  
-Wenn der Orgelträger sich innerhalb von 3 m einer lauten Geräuschquelle befindet,  
-hat er bis zum Ende seines nächsten Zuges Vorteil auf seinen nächsten Angriffswurf.
-
-**Langsamer Marsch.**  
-Der Orgelträger kann keine Dash-Aktion ausführen.  
-Am Ende seines Zuges bewegt er sich automatisch 3 m in Richtung des lautesten Geräusches, das er wahrnimmt.
-
-**Aura der Vibration (3 m).**  
-Kreaturen, die ihren Zug in der Aura beginnen,  
-müssen einen KO-Rettungswurf (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden  
-und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
-
-### Aktionen
-
-**Multiattack.** Der Orgelträger führt zwei _Glockenfäuste_ aus.
-
-**Glockenfaust.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 3 m, ein Ziel.  
-_Treffer:_ 14 (2D10 + 3) Wuchtschaden + 4 (1D8) Schallschaden.
-
-**Dissonanter Stoß (aufladbar 5–6).**  
-Der Orgelträger stößt einen tonalen Druck aus.  
-Alle Kreaturen in einem 4,5-m-Kegel müssen einen KO-Save (DC 14) machen.  
-Bei Misserfolg: 13 (3D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden, kein Effekt.  
-Nach dieser Aktion bewegt sich der Orgelträger 3 m rückwärts.
+## **Kapitel 1 – Die Straße aus Staub**
 
 ---
 
-## **Orgelträger (CR 6)**
+### **Szene 1 – Karawane auf der Steppe**
 
-_Huge Aberration, unaligned_
 
-**AC:** 16 (mineralisierte Haut, metallene Rippen)  
-**HP:** 189 (18D12 + 72)  
-**Speed:** 9 m
+> Die Sonne hängt wie ein goldener Splitter über der Welt.  
+> Der Himmel brennt, der Boden atmet Hitze.  
+> Die Straße nach Süden ist nur noch eine Spur aus Stein und Staub.  
+> In der Ferne glitzert Bewegung –  
+> Wagen, Tiere, Fahnen im Wind.
+> 
+> Eine Karawane zieht langsam über den Horizont,  
+> und ihr hört das leise Rasseln von Metall,  
+> das sich mit dem Knirschen von Sand mischt.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 (+6)|8 (–1)|19 (+4)|6 (–2)|13 (+1)|10 (0)|
+**Erkundung & Soziales Spiel:**
 
-**Rettungswürfe:** CON +7, WIS +4  
-**Fertigkeiten:** Wahrnehmung +4  
-**Schadensresistenzen:** Schall, Strahl, Kälte; Wucht (nichtmagisch)  
-**Verwundbarkeiten:** Psychisch  
-**Zustandsimmunitäten:** Verängstigt, bezaubert, taub, liegend  
-**Sinne:** Tremorsinn 27 m, Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
-**Sprachen:** – (nur harmonische Vibration)  
-**CR:** 6 (2 300 EP)
+- _Persuasion DC 13:_ Die Händler nehmen euch auf.
+    
+- _Insight DC 12:_ Unruhe in den Gesichtern – sie sprechen nicht gern über Tharum.
+    
+- _History DC 11:_ Dies ist die alte Route der Klangminen, heute nur noch halb begehbar.
+    
 
-### Beschreibung
+**Dialogfragmente:**
 
-Ein wandelndes Mausoleum, das Klang in Stein gebunden trägt.  
-Seine Haut ist ein Flickwerk aus Fels, Metall und verwachsenen Pfeifen,  
-seine Schritte erzeugen Druckwellen, die Landschaften verändern können.  
-Es kämpft nicht aus Zorn, sondern aus Erinnerung –  
-jeder Schlag ein Akkord, jeder Atemzug ein Gebet.
+> „In Tharum… sie sagen, die Leute dort reden wieder. Aber alle mit der gleichen Stimme.“
+> 
+> „Nach Süden? Dann sucht ihr die Täler. Die, die dort waren, kamen nie ganz zurück.“
 
-### Merkmale
-
-**Massive Struktur.**  
-Der Orgelträger ist ein belebtes Bauwerk.  
-Kritische Treffer verursachen nur normalen Schaden.  
-Er kann keine Öffnungen passieren, die kleiner als 4,5 m sind.
-
-**Klangträger.**  
-Immer wenn der Orgelträger in einer Runde 20 oder mehr Schaden erleidet,  
-stößt er einen automatischen Resonanzimpuls aus:  
-Alle Kreaturen im Umkreis von 6 m müssen einen KO-Save (DC 15) bestehen  
-oder bis zum Ende ihres nächsten Zuges _taub_ sein.
-
-**Aura der Resonanz (6 m).**  
-Am Beginn jedes Zuges muss jede Kreatur in der Aura  
-einen KO-Save (DC 15) ablegen oder 4 (1D8) Schallschaden nehmen  
-und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
-
-**Unaufhaltsamer Gang.**  
-Der Orgelträger ignoriert schwieriges Gelände  
-und zerstört jede nichtmagische Struktur mit AC 15 oder niedriger, wenn er sich hindurchbewegt.
-
-### Aktionen
-
-**Multiattack.** Der Orgelträger führt zwei _Orgelhiebe_ aus.
-
-**Orgelhieb.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 4,5 m, ein Ziel.  
-_Treffer:_ 21 (3D10 + 5) Wuchtschaden + 7 (2D6) Schallschaden.
-
-**Kanonischer Stoß (aufladbar 5–6).**  
-Der Orgelträger entlädt einen Klangstoß in einem 9-m-Kegel.  
-Alle Kreaturen müssen einen KO-Save (DC 15) machen.  
-Bei Misserfolg: 27 (6D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden.  
-Objekte im Bereich erleiden doppelten Schaden.
-
-**Stille des Steins (1/Tag).**  
-Der Orgelträger stoppt plötzlich alle Geräusche.  
-In einem Radius von 9 m herrscht 1 Minute lang _magische Stille_.  
-Währenddessen regeneriert er zu Beginn seines Zuges 10 TP.  
-Erleidet er Feuerschaden, endet der Effekt sofort.
-
-### Legendäre Aktion (optional für Bosskämpfe)
-
-**Tiefer Tritt (1 Aktion).**  
-Der Orgelträger stampft auf den Boden;  
-alle Kreaturen innerhalb 3 m müssen einen GE-Save (DC 15) machen  
-oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
+**DM-Hinweis:**  
+Szene 1 soll sich wie normales Reisen anfühlen.  
+Die Welt wirkt echt, weit, heiß – kein unmittelbarer Horror, nur erste Dissonanzen.
 
 ---
 
-## **Gebrochener Orgelträger (CR 9)**
+### **Szene 2 – Nachtlager am Salzsee**
 
-_Gargantuan Aberration, unaligned_
 
-**AC:** 17 (felsgehärtete Außenhaut)  
-**HP:** 290 (20D20 + 100)  
-**Speed:** 9 m
+> Das Lager brennt im Licht der Feuerstellen.  
+> Flammen tanzen über Metallgeschirr,  
+> das Funkeln spiegelt sich in den Augen der Tiere.  
+> Über euch liegt ein Himmel aus Sternen –  
+> zu viele, zu klar, zu nah.
+> 
+> Für einen Moment glaubt ihr,  
+> der Wind trage eine Melodie mit sich:  
+> ein kurzes, silbernes Summen,  
+> das nirgends beginnt und nirgends endet.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|26 (+8)|6 (–2)|20 (+5)|7 (–2)|14 (+2)|11 (0)|
+**Beobachtungen:**
 
-**Rettungswürfe:** CON +9, WIS +6  
-**Fertigkeiten:** Wahrnehmung +6  
-**Schadensresistenzen:** Schall, Strahl, Feuer, Kälte; Wucht und Schnitt (nichtmagisch)  
-**Verwundbarkeiten:** Psychisch  
-**Zustandsimmunitäten:** Verängstigt, taub, gelähmt, liegend, bezaubert  
-**Sinne:** Tremorsinn 36 m, Dunkelsicht 36 m, passiver Wahrnehmungswert 16  
-**Sprachen:** – (Resonantes Bewusstsein)  
-**CR:** 9 (5 000 EP)
+- _Perception DC 14:_ Der Ton kommt aus dem Boden, nicht aus der Luft.
+    
+- _Arcana DC 13:_ Keine Magie; seismische Schwingung, als läge tief etwas Riesiges.
+    
+- _Insight DC 12:_ Tiere reagieren nervös, dann wieder völlig ruhig.
+    
 
-### Beschreibung
+**DM-Hinweis:**  
+Erster subtiler Bruch. Der Klang darf rätselhaft, aber nicht bedrohlich wirken.
 
-Ein Koloss aus Glas, Fels und Fleisch,  
-dessen Inneres von Lichtadern durchzogen ist.  
-Jeder Schritt lässt die Erde vibrieren,  
-jeder Atemzug flutet den Boden mit Schall.  
-Aus seinen Pfeifen erklingen gebrochene Akkorde –  
-kein Lied, sondern das Echo eines Tempels,  
-der sich selbst vergessen hat.
-
-### Merkmale
-
-**Massive Architektur.**  
-Der Gebrochene Orgelträger ist ein halbzerfallenes Bauwerk auf Beinen.  
-Er gilt als unüberwindbares Terrain für Kreaturen kleiner als _Large_  
-und kann pro Zug Strukturen von bis zu 9 m Höhe zerstören, indem er sie überrollt.  
-Kritische Treffer verursachen nur normalen Schaden.
-
-**Aura der Disharmonie (9 m).**  
-Die Luft pulsiert in unregelmäßigen Druckwellen.  
-Kreaturen, die ihren Zug in der Aura beginnen,  
-müssen einen KO-Save (DC 16) machen.  
-Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
-
-**Verfallene Resonanz.**  
-Wenn der Orgelträger Schall- oder Strahlenschaden erleidet,  
-brechen Stücke seiner Pfeifen ab.  
-Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben  
-und zufällige Worte wiederholen, die sie hören.
-
-**Klangverzerrung.**  
-Zauber, die Schall oder Sprache erfordern, haben innerhalb 18 m eine 50%-Chance,  
-fehlzuschlagen (W100 = 11+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt,  
-das den Caster als Ziel hat).
-
-**Unerschütterlich.**  
-Immun gegen _Silence_, _Shatter_, _Calm Emotions_ und Effekte,  
-die Schall unterdrücken.
-
-### Aktionen
-
-**Multiattack.** Der Orgelträger führt zwei _Pfeifenstöße_ aus.
-
-**Pfeifenstoß.** _Nahkampfangriff:_ +10 auf Treffer, Reichweite 6 m, ein Ziel.  
-_Treffer:_ 30 (4D10 + 8) Wuchtschaden + 9 (2D8) Schallschaden.
-
-**Kanonischer Resonanzstoß (aufladbar 5–6).**  
-Der Orgelträger entlädt eine zerstörerische Welle aus Klang.  
-Kreaturen in einem 12-m-Kegel müssen einen KO-Save (DC 16) ablegen.  
-Bei Misserfolg: 45 (10D8) Schallschaden, _liegend_ und _taub_ (1 Minute, KO-Save am Ende jeder Runde zur Aufhebung).  
-Bei Erfolg: halber Schaden.  
-Strukturen im Bereich erleiden doppelten Schaden.
-
-**Gravestep (1/Tag).**  
-Der Orgelträger hebt einen Fuß und setzt ihn mit monumentaler Wucht nieder.  
-Alle Kreaturen im Umkreis von 18 m müssen einen GE-Save (DC 17) ablegen.  
-Bei Misserfolg: 27 (6D8) Wuchtschaden und _restrained_ (durch Schutt);  
-bei Erfolg: halber Schaden, kein Effekt.  
-Das Gelände innerhalb 9 m wird zu schwierigem Terrain.
-
-### Legendäre Aktionen
-
-Der Gebrochene Orgelträger kann 3 legendäre Aktionen ausführen, eine pro Runde am Ende anderer Züge.
-
-**Schritt des Echos.** (1 Aktion)  
-Er bewegt sich bis zu 6 m ohne Gelegenheitsangriffe.  
-Kreaturen, an denen er vorbeigeht, müssen einen KO-Save (DC 15) machen oder 4 (1D10) Schallschaden erleiden.
-
-**Zerspringen (2 Aktionen).**  
-Ein Riss öffnet sich in seiner Haut; Splitter fliegen 6 m weit.  
-Kreaturen im Bereich müssen einen GE-Save (DC 15) bestehen oder 14 (4D6) Stichschaden erleiden.
-
-**Resonanzruf (3 Aktionen).**  
-Der Orgelträger ruft den Nachhall seiner Art.  
-Bis zu zwei _Orgelbruten_ (CR 2) manifestieren sich im Umkreis von 9 m  
-und bestehen 3 Runden, bevor sie zu Staub zerfallen.
+---
+## **Kapitel 2 – Das Lager der Träumer**
 
 ---
 
+### **Szene 3 – Das Tal der Zelte**
 
+
+> Die Landschaft wird steiniger,  
+> Felsen werfen lange Schatten über den Weg.  
+> Zwischen ihnen spannt sich ein Meer aus weißen Zelten,  
+> wie zurückgelassene Haut.
+> 
+> Menschen sitzen davor, reglos.  
+> Ihre Augen geschlossen, ihre Lippen bewegen sich kaum merklich.  
+> Jeder flüstert ein anderes Wort,  
+> aber die Laute klingen,  
+> als gehörten sie zu demselben Satz.
+
+**Erkundung:**
+
+- _Medicine DC 14:_ Körperfunktionen stabil, Puls ungewöhnlich gleichmäßig.
+    
+- _Arcana DC 15:_ Resonanzfeld schwach, vergleichbar mit Schwingung eines Tempelraums.
+    
+- _Religion DC 12:_ Ritualzustand, kein Fluch.
+    
+
+**Interaktion:**  
+Berührt jemand einen Träumer:  
+eine kurze Vision – gläserne Wasserflächen, Stimmen unter der Oberfläche,  
+eine Hand aus Licht, die schweigend winkt.
+
+---
+
+### **Szene 4 – Abschied vom Lager**
+
+
+> Beim Aufbruch bewegen sich die Schlafenden gleichzeitig,  
+> legen die Hände an die Brust,  
+> und flüstern einen einzigen Ton,  
+> tief, warm, kaum hörbar.
+> 
+> Der Wind trägt ihn fort.  
+> Danach ist die Wüste still,  
+> wie nach einem Gebet, das niemand verstanden hat.
+
+**DM-Hinweis:**  
+Ab hier beginnt die Realität, leicht zu kippen:  
+Farben verlieren Wärme, Geräusche werden kristallklar,  
+Schatten bewegen sich etwas zu langsam.
+
+---
+## **Kapitel 3 – Der gesprungene Obelisk**
+
+---
+
+### **Szene 5 – Ruine aus Licht**
+
+
+> Aus dem Sand ragen Splitter aus Glasstein –  
+> wie eingefrorene Wellen.  
+> Dazwischen steht ein schräg geneigter Obelisk,  
+> halb zerbrochen, halb schwebend.  
+> Licht rinnt über seine Oberfläche,  
+> als folge es einer unsichtbaren Schwerkraft.
+> 
+> Die Luft um ihn riecht nach Regen,  
+> obwohl seit Wochen kein Tropfen gefallen ist.
+
+**Erkundung:**
+
+- _Investigation DC 14:_ Glyphen auf den Splittern nur im Spiegel sichtbar.
+    
+- _Arcana DC 15:_ Alte Threnai-Bauweise, gespeicherter Klang.
+    
+- _Insight DC 13:_ Der Ort scheint „aufzuwachen“, wenn man ihn beobachtet.
+    
+
+**Mini-Rätsel:**  
+Richtet man drei Splitter korrekt aus (_Intelligence DC 14_),  
+bündelt sich Licht zu einem Strahl, der nach Südosten weist –  
+Richtung der Gläsernen Täler.
+
+---
+
+### **Szene 6 – Echo im Staub**
+
+
+> Als der Strahl verlischt,  
+> schwebt Staub in der Luft –  
+> jeder Partikel glüht wie eine Note im Licht.  
+> Für einen Atemzug  
+> scheint die Zeit selbst zu halten.  
+> Dann hört ihr euch sprechen,  
+> doch niemand hat den Mund geöffnet.
+
+**DM-Hinweis:**  
+Zweiter Grad der Surrealität:  
+Zeit- und Sinnesverzerrungen, aber keine physische Gefahr.
+
+---
+
+## **Kapitel 4 – Die Splitter der Tiefe**
+
+---
+
+### **Szene 7 – Die Salzebene**
+
+
+> Der Sand geht in Salz über –  
+> eine glitzernde Fläche,  
+> flach wie ein gefrorener See.
+> 
+> Jeder Schritt hallt.  
+> Der Himmel scheint sich darin zu spiegeln,  
+> und manchmal seht ihr im Weiß Schatten,  
+> die sich bewegen, obwohl nichts da ist.
+> 
+> Dann bebt der Boden –  
+> kein Erdbeben, eher ein tiefes Atmen.
+
+---
+
+### **Szene 8 – Kampf: Die Orgelträger**
+
+
+> Risse öffnen sich,  
+> und etwas steigt empor – langsam, schwer,  
+> wie eine Kathedrale, die beschlossen hat zu gehen.
+> 
+> Zwei gewaltige Wesen,  
+> halb Bauwerk, halb Fleisch,  
+> mit metallenen Rippen, aus denen Klang atmet.
+> 
+> Bei jedem Schritt bebt die Ebene,  
+> und in der Luft erklingt ein einziger,  
+> uralter Akkord.
+
+**Gegner:**
+
+- 2 × **Orgelträger** (Huge aberration, CR 6)
+    
+
+> Gesamt-XP ≈ 4 600 → Hard Encounter für Stufe 7.
+
+**Umgebung:**
+
+- Ebene aus Salz und Glas (Difficult Terrain).
+    
+- Bei jedem Treffer mit Schall- oder Wucht-Schaden:  
+    Staubwolken → _Con Save DC 15_ oder blinded (1 Round).
+    
+
+**Taktik:**  
+Die Träger bewegen sich langsam, aber koordinieren ihre Klangstöße.  
+Alle 2 Runden vereinen sie ihre Resonanz:  
+_DC 15 Con Save_, bei Fail 3D8 thunder damage + prone.
+
+**Cinematik:**  
+Der Kampf ist monumental, nicht hektisch –  
+mehr ein Ringen gegen Gewicht und Schwingung als gegen Wut.
+
+**Nach dem Kampf:**  
+Ein einziger Ton bleibt in der Luft hängen.  
+Dann bricht der Boden auf –  
+ein Abstieg aus Glas, der in blasses Licht führt.
+
+---
+
+## **Kapitel 5 – Der Rand der Täler**
+
+---
+
+### **Szene 9 – Der Aufstieg**
+
+
+> Der Weg wird glasig.  
+> Unter euren Füßen spiegelt sich der Himmel,  
+> über euch liegt derselbe –  
+> zwei Welten, die sich gegenseitig betrachten.
+> 
+> Kein Wind, kein Laut.  
+> Nur das Klirren eurer Schritte,  
+> das viel zu weit trägt.
+
+**Proben:**
+
+- _Wis Save DC 14:_ Wer scheitert, erlebt Déjà-vu-Erscheinungen der eigenen Vergangenheit.
+    
+
+---
+
+### **Szene 10 – Der Blick in die Gläsernen Täler**
+
+
+> Der Pfad endet an einer Klippe aus transparentem Stein.  
+> Unter euch liegt ein Meer aus Glas,  
+> in dem ganze Städte schimmern –  
+> lebendig, aber bewegungslos.
+> 
+> Flüsse aus Licht durchziehen das Tal,  
+> Berge spiegeln sich in sich selbst.
+> 
+> Für einen Moment  
+> seht ihr euer eigenes Spiegelbild dort unten stehen.  
+> Es sieht zu euch hinauf –  
+> und hebt die Hand.
+
+**Abschluss:**  
+Ein sanfter Ton erfüllt die Luft.  
+Nicht laut, aber unausweichlich.  
+Die Täler rufen.
+
+---
+
+### 🕯️ **Ende von Akt V – Der Weg aus Glas**
+
+> _„Sie wanderten durch Staub und Salz,  
+> und fanden unter ihren Füßen den Himmel.“_
+> 
+> **Meilenstein:** Stufe 7
+> 
+> **Nächster Akt:** _VI – Die Linie der Suchenden_  
+> (Die Gläsernen Täler – wo Erinnerung, Traum und Klang eins werden.)
+
+---
+
+Perfekt. 🜂  
+Dann folgt jetzt der **vollständig ausgearbeitete Akt VI – _Die Linie der Suchenden_**,  
+im selben Stil und Format wie die bisherigen Akte:  
+**Akt → Kapitel → Szenen**, mit ausführlichen, filmisch-narrativen Boxtexten,  
+organischer Eskalation des Surrealen, und zwei logischen Kämpfen mit Gegnern  
+aus dem aktualisierten _Bestiarium der Threnai_.
+
+Dieser Akt markiert den Eintritt in **die Gläsernen Täler Saaths** —  
+den Ort, an dem Klang, Erinnerung und Bewusstsein nicht mehr trennbar sind.  
+Die Welt hier ist nicht mehr „falsch“, sie ist **zu richtig** – so perfekt geordnet,  
+dass das Leben selbst darin keinen Platz mehr hat.
+
+---
+
+# **Akt VI – Die Linie der Suchenden**
+
+> _„Dort, wo Erinnerung in Klang übergeht,  
+> verliert das Herz den Unterschied zwischen Traum und Wahrheit.“_
+
+---
+## **Kapitel 1 – Der Eintritt**
+
+---
+
+### **Szene 1 – Der Abstieg ins Licht**
+
+
+> Das Licht verschluckt alles.  
+> Es ist nicht hell – es _ist_.  
+> Kein Schatten, kein Wind, kein Klang.  
+> Nur euer eigener Atem,  
+> der wie eine Störung im Gleichgewicht wirkt.
+> 
+> Der Boden unter euch ist glatt und durchsichtig,  
+> als würdet ihr auf Wasser stehen,  
+> das vergessen hat, sich zu bewegen.
+> 
+> Unter euch –  
+> die Spiegelung eurer selbst,  
+> leicht versetzt,  
+> wie ein Gedanke,  
+> der nicht ganz euer eigener ist.
+
+**Mechanik:**
+
+- _Wis Save DC 14:_ Wer scheitert, verliert kurz Orientierung (Nachteil auf nächsten Wurf).
+    
+- _Arcana DC 15:_ Erkennt, dass das Licht auf Schwingungen reagiert, nicht auf Sicht.
+    
+
+**DM-Hinweis:**  
+Der Einstieg soll ehrfürchtig und verstörend zugleich wirken.  
+Keine Feinde, nur Raumwahrnehmung.
+
+---
+
+### **Szene 2 – Der Pfad der Spiegelflüsse**
+
+
+> Der Weg führt entlang eines Flusses aus flüssigem Licht.  
+> Sein Rauschen klingt wie Atmen,  
+> und jedes Mal, wenn ihr hineinblickt,  
+> seht ihr Gesichter,  
+> die ihr kennt – aber nicht erinnern könnt, woher.
+> 
+> Manche lächeln.  
+> Manche weinen.  
+> Und alle scheinen zu singen,  
+> aber ohne Ton.
+
+**Erkundung:**
+
+- _Perception DC 14:_ Wer den Fluss zu lange betrachtet,  
+    sieht sein eigenes Spiegelbild darin,  
+    das den Kopf schüttelt.
+    
+- _Arcana DC 16:_ Das Wasser ist verdichtete Erinnerung –  
+    Kontakt löst Halluzinationen aus.
+    
+- _Wis Save DC 15 (beim Berühren):_  
+    Kurze Vision: Man sieht sich selbst, wie man stirbt,  
+    aber friedlich, als wäre es eine Erfüllung.
+    
+
+**DM-Hinweis:**  
+Diese Szene ist rein erzählerisch – sie soll die Verlorenheit und Ordnung der Täler etablieren.
+
+---
+
+## **Kapitel 2 – Die Hallen der Suchenden**
+
+---
+
+### **Szene 3 – Die Stadt aus Glas**
+
+
+> Hinter einer Anhöhe breitet sich eine Stadt aus,  
+> errichtet aus halbtransparentem Stein,  
+> jede Mauer aus Klang geformt.  
+> Die Häuser vibrieren leise,  
+> als würde die Luft sie spielen.
+> 
+> Straßen führen spiralförmig abwärts,  
+> und in jeder Gasse stehen Gestalten –  
+> Menschen, oder das, was davon blieb.  
+> Ihre Körper sind makellos,  
+> ihre Gesichter leer,  
+> und ihre Stimmen sprechen gleichzeitig:
+> 
+> _„Wir suchen uns selbst.“_
+
+**Erkundung & Interaktion:**
+
+- _Persuasion DC 14:_ Die Suchenden reagieren freundlich, aber distanziert.
+    
+- _Arcana DC 13:_ Ihre Körper bestehen aus kristallinem Material,  
+    das auf Sprache reagiert – jedes Wort hinterlässt Schwingungen.
+    
+- _Insight DC 15:_ Sie sind Fragmente einer kollektiven Erinnerung,  
+    nicht eigenständig, aber leidenschaftlich neugierig auf „Fremde“.
+    
+
+---
+
+### **Szene 4 – Begegnung: Der Resonanzrichter**
+
+
+> Im Zentrum der Stadt steht ein Platz aus reinen Spiegelplatten.
+> 
+> Dort wartet eine Gestalt in silbernem Mantel,  
+> Gesicht maskenhaft,  
+> Hände gefaltet, als bete sie.
+> 
+> „Ihr seid weit gekommen“, sagt sie,  
+> und ihre Stimme klingt wie drei Töne gleichzeitig.  
+> „Aber die Tiefe prüft jeden,  
+> der sich selbst hören will.“
+
+#### 💥 **Kampf 1 – Der Resonanzrichter**
+
+**Gegner:**
+
+- 1 × **Richter der Tiefe** (CR 10, aus Bestiarium)  
+    → Schwieriger Bosskampf, aber zentral für den Akt.
+    
+
+**Umgebung:**
+
+- Der Platz reflektiert alle Geräusche doppelt → jeder Schallangriff wiederholt 1 Runde später (halber Schaden, zufälliges Ziel).
+    
+- Boden reagiert auf Zauberenergie – bei misslungenem Save entstehen _Nachklänge_ (1 HP, 1 Runde).
+    
+
+**Taktik:**  
+Der Richter bewegt sich kaum.  
+Er „spiegelt“ Angriffe – 1/Tag kann er einen Zauber zurückwerfen.  
+Wenn er 50 % HP verliert, ruft er:
+
+> _„Ihr hallt, aber ihr klingt nicht!“_  
+> Dann spaltet sich der Boden, und das Licht flutet von unten.
+
+**Nach dem Sieg:**  
+Der Richter zerspringt in Lichtsplitter,  
+die einen Pfad tiefer in die Stadt öffnen.  
+Wer einen Splitter aufhebt,  
+hört flüchtig seine eigene Stimme flüstern:  
+_„Es ist noch nicht dein Ton.“_
+
+---
+
+## **Kapitel 3 – Der Kern der Täler**
+
+---
+
+### **Szene 5 – Die Schwebenden Kathedralen**
+
+
+> Über euch hängen Bauwerke aus Licht,  
+> an keinen Felsen gebunden,  
+> wie schlafende Türme über einem Meer aus Glas.
+> 
+> In ihnen erklingen leise Klänge –  
+> melancholische Intervalle,  
+> die wie Atemzüge der Welt selbst wirken.
+> 
+> Eine dieser Kathedralen senkt sich langsam.  
+> Ihr Inneres flackert.  
+> Etwas lebt dort,  
+> oder erinnert sich daran, lebendig gewesen zu sein.
+
+---
+
+### **Szene 6 – Kampf: Die Stimme der Kathedrale**
+
+
+> Aus der schwebenden Struktur gleitet Licht –  
+> kein Strahl, sondern Gestalt:  
+> eine Frau aus Schwingung,  
+> Haut aus Glas, Stimme aus Wellen.
+> 
+> Sie flüstert kein Wort,  
+> aber jeder Laut aus ihrem Mund  
+> lässt euch spüren, wie der Boden unter euch pulsiert.
+
+**Gegner:**
+
+- 1 × **Stimmenwirkerin** (CR 8, aus Bestiarium – überarbeitet als „Kathedralenstimme“)  
+    → Thematisch als Wächterin der Täler, nicht bösartig, sondern prüfend.
+    
+
+**Kampfumgebung:**
+
+- Schwebeplattformen aus Klang (können zerbrechen).
+    
+- Wer fällt, wird 3 Runden später in einem anderen Teil des Raumes „wiederklanglich“ materialisiert (1W10 psychic).
+    
+
+**Taktik:**  
+Sie nutzt _Counterspell_, _Dissonant Whispers_, _Shatter_.  
+Ab 50 % HP wechselt sie auf „Ton der Wahrheit“ →  
+Wis Save DC 15 oder Spieler verlieren 1 Runde in Stase (Hören einer Vision).
+
+**Nach dem Kampf:**  
+Ihr Körper zerfällt in Klang.  
+Zurück bleibt ein einzelner Kristall,  
+der im Takt eurer Herzschläge pulsiert.  
+Er öffnet den Weg in das **Herz Saaths**.
+
+---
+
+## **Kapitel 4 – Die Linie**
+
+---
+
+### **Szene 7 – Das Herz der Tiefe**
+
+
+> Der letzte Tunnel ist kein Raum,  
+> sondern ein Gedanke.  
+> Ihr schreitet durch Licht,  
+> das euch wie Wasser umfließt.
+> 
+> Vor euch –  
+> ein endloser Kreis aus Glas und Schatten.
+> 
+> In seiner Mitte steht niemand.  
+> Und doch hört ihr alle dieselbe Stimme,  
+> in verschiedenen Tonhöhen,  
+> wie ein Chor eurer eigenen Gedanken:
+> 
+> _„Ihr habt euch gesucht.  
+> Nun hört, was ihr seid.“_
+
+**Interaktion / Erkenntnis:**  
+Hier endet der Akt nicht in einem Kampf,  
+sondern in einer Begegnung mit Saath selbst –  
+nicht als Wesen, sondern als **Klangbewusstsein**.
+
+- _Wis Save DC 16:_ Wer besteht, erkennt eine Vision seiner wahren Form (kosmisches Echo).
+    
+- _Arcana DC 15:_ Der Raum ist eine stehende Welle; wer sie stört, verändert Realität.
+    
+
+Wenn ein SC in den Kreis tritt,  
+flutet Klang in ihn –  
+er sieht vergangene Leben, alte Welten,  
+und begreift, dass Saath kein Gott ist,  
+sondern Erinnerung an Vollkommenheit.
+
+---
+
+### **Szene 8 – Der Nachhall**
+
+
+> Als das Licht erlischt,  
+> steht ihr wieder auf festem Boden.
+> 
+> Der Himmel über euch ist Glas.
+> 
+> Die Welt ist still.  
+> Nicht leer – still,  
+> als lausche sie darauf,  
+> ob ihr euren eigenen Ton wiederfindet.
+
+**Ergebnis:**  
+Die Gruppe hat Saaths Bewusstsein berührt.  
+Sie trägt jetzt Spuren seiner Frequenz (Plotrelevante Mutation / Gabe).
+
+---
+
+### 🕯️ **Ende von Akt VI – Die Linie der Suchenden**
+
+> _„Sie fanden, wonach sie suchten –  
+> und verloren, was sie waren.“_
+> 
+> **Meilenstein:** Stufe 8
+> 
+> **Nächster Akt:** _VII – Die Letzte Schwingung_  
+> (Das Finale: Entscheidung zwischen Klang und Stille.)
+
+---
