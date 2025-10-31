@@ -74,7 +74,7 @@ ohne sich zu zwängen. Es kann nicht sprechen, aber ein leises Summen erfüllt s
 Wenn eine Kreatur in einem Radius von 30 ft spricht oder einen Zauber mit verbaler Komponente wirkt, bewegt sich das Echo als Reaktion bis zu 10 ft auf sie zu.
 
 ### Aktionen
-**Resonanzstoß.** _Nahkampfangriff mit Zauber:_ +4 auf Treffer, Reichweite 3 ft, ein Ziel.  
+**Resonanzstoß.** _Nahkampfangriff mit Zauber:_ +4 auf Treffer, Reichweite 5 ft, ein Ziel.  
 _Treffer:_ 6 (1D8 + 2) psychischer Schaden.  
 Wenn das Ziel in dieser Runde gesprochen oder gesungen hat,  
 erleidet es zusätzlich 2 (1D4) psychischen Schaden.
@@ -87,13 +87,13 @@ erleidet es zusätzlich 2 (1D4) psychischen Schaden.
 
 **AC:** 13 (natürliche Rüstung)
 **HP:** 22 (4D6 + 8)
-**Speed:** 9 m, klettern 9 m
+**Speed:** 30 ft, klettern 30 ft
 
 |   STR   |   DEX   |   CON   |   INT  |   WIS   |   CHA  |
 | :-----: | :-----: | :-----: | :----: | :-----: | :----: |
 | 10 (+0) | 14 (+2) | 12 (+1) | 3 (–4) | 12 (+1) | 5 (–3) |
 
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 11
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 11
 **Sprachen:** –
 **CR:** ½ (100 EP)
 
@@ -106,19 +106,19 @@ Ihre Beine erzeugen beim Gehen eine leise Perkussion – das Echo alter Gebete.
 ### Merkmale
 
 **Vibrationsempfindung.**
-Der Kriecher spürt Bewegungen auf bis zu 9 m Entfernung, auch in Dunkelheit.
+Der Kriecher spürt Bewegungen auf bis zu 30 ft Entfernung, auch in Dunkelheit.
 
 **Schallflucht.**
-Wenn er Schallschaden erleidet, kann er sich als Reaktion bis zu 4,5 m wegbewegen.
+Wenn er Schallschaden erleidet, kann er sich als Reaktion bis zu 15 ft wegbewegen.
 
 ### Aktionen
 
-**Biss.** *Nahkampfangriff:* +4 auf Treffer, Reichweite 1,5 m, ein Ziel.
+**Biss.** *Nahkampfangriff:* +4 auf Treffer, Reichweite 5 ft, ein Ziel.
 *Treffer:* 6 (1D8 + 2) durchbohrend + 2 (1D4) psychischer Schaden.
 
 **Nachhallstoß (aufladbar 6).**
 Der Kriecher stößt einen kurzen Knacklaut aus.
-Alle Kreaturen in 3 m müssen einen WIS-Save (DC 12) bestehen oder 1 Runde lang benommen sein.
+Alle Kreaturen in 10 ft müssen einen WIS-Save (DC 12) bestehen oder 1 Runde lang benommen sein.
 
 ---
 ## **Akolyt (CR 1)**
@@ -126,14 +126,14 @@ _Medium Aberration, lawful neutral_
 
 **AC:** 14 (Resonanzplatten)  
 **HP:** 27 (5D8 + 5)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |12 (+1)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 
-**Fertigkeiten:** Arkane Kunde +2, Wahrnehmung +2  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 12  
+**Fertigkeiten:** Arcana +2, Perception +2  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 12  
 **Sprachen:** Threnaic, versteht Gemeinsprache  
 **CR:** 1 (200 EP)
 
@@ -144,20 +144,20 @@ Sie sind keine Magier, sondern _Kanalverstärker_: ihre Stimmen sind Werkzeuge d
 
 ### Merkmale
 **Aura der Frequenz.**  
-Kreaturen im Umkreis von 3 m, die einen Zauber wirken,  
-müssen einen Konstitutionsrettungswurf (DC 12) ablegen oder der Zauber hallt in ihnen nach:  
+Kreaturen im Umkreis von 10 ft, die einen Zauber wirken,  
+müssen einen CON-Save (DC 12) ablegen oder der Zauber hallt in ihnen nach:  
 Er entfaltet seine Wirkung erst zu Beginn ihres nächsten Zuges.
 
 **Echo des Willens.**  
-Wenn der Akolyt 0 HP erreicht, entlädt sich ein letzter Ton. Alle Kreaturen im Umkreis von 3 m müssen einen Weisheitsrettungswurf (DC 11) bestehen oder sind 1 Minute lang taub.
+Wenn der Akolyt 0 HP erreicht, entlädt sich ein letzter Ton. Alle Kreaturen im Umkreis von 3 m müssen einen WIS-Save (DC 11) bestehen oder sind 1 Minute lang taub.
 
 ### Aktionen
-**Klanglanze.** _Nah- oder Fernkampfangriff:_ +4 auf Treffer, Reichweite 1,5 m oder 9/27 m, ein Ziel.  
+**Klanglanze.** _Nah- oder Fernkampfangriff:_ +4 auf Treffer, Reichweite 5 ft oder 30-90 ft, ein Ziel.  
 _Treffer:_ 7 (1D10 + 2) psychischer Schaden.
 
 **Dissonanter Impuls (aufladbar 5–6).**  
 Der Akolyt stößt eine Welle aus chaotischem Klang aus.  
-Alle Kreaturen in einem 4,5-m-Radius müssen einen Konstitutionsrettungswurf (DC 12) bestehen  
+Alle Kreaturen in einem 5-ft-Radius müssen einen CON-Save (DC 12) bestehen  
 oder erleiden 9 (2D8) Schallschaden, halber Schaden bei Erfolg.
 
 ---
@@ -168,14 +168,14 @@ oder erleiden 9 (2D8) Schallschaden, halber Schaden bei Erfolg.
 
 **AC:** 12
 **HP:** 27 (6D8)
-**Speed:** 6 m
+**Speed:** 20 ft
 
 |   STR  |   DEX   |   CON   |   INT  |   WIS   |   CHA   |
 | :----: | :-----: | :-----: | :----: | :-----: | :-----: |
 | 9 (–1) | 13 (+1) | 10 (+0) | 8 (–1) | 12 (+1) | 15 (+2) |
 
 **Fertigkeiten:** Performance +4, Wahrnehmung +3
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 13
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 13
 **Sprachen:** versteht Threnaic, singt unwillkürlich
 **CR:** 2 (450 EP)
 
@@ -188,15 +188,15 @@ Sie sind keine Jäger, sondern Resonanzträger, die von Emotion leben.
 ### Merkmale
 
 **Echohafte Präsenz.**
-Kreaturen, die den Gesang hören, müssen einen WEI-Save (DC 13) bestehen oder 1 Minute lang von Trauer überwältigt werden (Nachteil auf Angriffs- und Rettungswürfe).
+Kreaturen, die den Gesang hören, müssen einen WIS-Save (DC 13) bestehen oder 1 Minute lang von Trauer überwältigt werden (Nachteil auf Angriffs- und Rettungswürfe).
 
 **Klangbindung.**
-Wenn zwei Schluchtsänger sich innerhalb 18 m sehen, haben sie gegenseitig +2 auf Angriff und Rettungswürfe.
+Wenn zwei Schluchtsänger sich innerhalb 60 ft sehen, haben sie gegenseitig +2 auf Angriff und Rettungswürfe.
 
 ### Aktionen
 
 **Klagender Schrei (aufladbar 5–6).**
-Alle Kreaturen im 6-m-Radius müssen einen KO-Save (DC 13) ablegen oder 9 (2D8) Schallschaden erleiden und taub werden (1 Minute).
+Alle Kreaturen im 20-ft-Radius müssen einen CON-Save (DC 13) ablegen oder 9 (2D8) Schallschaden erleiden und taub werden (1 Minute).
 
 ---
 
@@ -206,13 +206,13 @@ Alle Kreaturen im 6-m-Radius müssen einen KO-Save (DC 13) ablegen oder 9 (2D8) 
 
 **AC:** 14 (natürliche Rüstung)
 **HP:** 45 (6D8 + 18)
-**Speed:** 6 m, graben 3 m
+**Speed:** 20 ft, graben 10 ft
 
 |   STR   |   DEX   |   CON   |   INT  |   WIS   |   CHA  |
 | :-----: | :-----: | :-----: | :----: | :-----: | :----: |
 | 14 (+2) | 10 (+0) | 16 (+3) | 3 (–4) | 10 (+0) | 5 (–3) |
 
-**Sinne:** Dunkelsicht 18 m, Tremorsinn 9 m, passiver Wahrnehmungswert 10
+**Sinne:** Dunkelsicht 60 ft, Tremorsinn 30 ft, passiver Wahrnehmungswert 10
 **Sprachen:** –
 **CR:** 3 (700 EP)
 
@@ -225,19 +225,19 @@ Ihr Atem klingt wie ferne Trommeln.
 ### Merkmale
 
 **Aura der Dissonanz (Recharge 5-6)**
-Kreaturen in 4,5 m müssen zu Beginn ihres Zuges einen KO-Save (DC 13) machen oder 4 (1D8) Schallschaden erleiden.
+Orgelbrut kann als Bonusaktion Aura der Dissonanz aktivieren. Kreaturen in 15 ft müssen einen CON-Save (DC 13) machen oder 4 (1D8) Schallschaden erleiden.
 
 **Schallabsorber.**
 Wenn die Brut Schallschaden erleiden würde, heile sie stattdessen um die Hälfte des Schadens.
 
 ### Aktionen
 
-**Resonanzstoß.** *Nahkampfangriff:* +4 auf Treffer, Reichweite 1,5 m, ein Ziel.
+**Resonanzstoß.** *Nahkampfangriff:* +4 auf Treffer, Reichweite 5 ft, ein Ziel.
 *Treffer:* 10 (2D8 + 2) Wucht- oder Schallschaden.
 
 **Erdrückender Ton (aufladbar 5–6).**
 Die Orgelbrut bläht ihren Körper auf und entlädt eine stehende Welle.
-Alle Kreaturen im 6-m-Kegel müssen einen KO-Save (DC 13) bestehen oder 13 (3D8) Schallschaden erleiden und zu Boden fallen.
+Alle Kreaturen im 20-ft-Kegel müssen einen CON-Save (DC 13) bestehen oder 13 (3D8) Schallschaden erleiden und zu Boden fallen.
 
 ---
 ## **Tiefenhüter (CR 3)**
@@ -245,7 +245,7 @@ _Medium Aberration, lawful neutral_
 
 **AC:** 16 (Resonanzkarapax)  
 **HP:** 60 (8D8 + 24)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -253,7 +253,7 @@ _Medium Aberration, lawful neutral_
 
 **Rettungswürfe:** CON +5, WIS +3  
 **Fertigkeiten:** Athletik +5, Einschüchtern +2  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 11  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 11  
 **Sprachen:** Threnaic  
 **CR:** 3 (700 EP)
 
@@ -268,18 +268,18 @@ Wenn der Ritter getroffen wird, kann er als Reaktion seinen Körper auf die Freq
 Er erhält +2 AC bis zum Beginn seines nächsten Zuges.
 
 **Bindung der Ordnung.**  
-Wenn ein verbündeter Threnai innerhalb von 9 m Schaden erleidet,  
+Wenn ein verbündeter Threnai innerhalb von 30 ft Schaden erleidet,  
 kann der Ritter 5 dieses Schadens übernehmen.
 
 ### Aktionen
-**Resonanzklinge.** _Nahkampfangriff:_ +5 auf Treffer, Reichweite 1,5 m, ein Ziel.  
+**Resonanzklinge.** _Nahkampfangriff:_ +5 auf Treffer, Reichweite 5 ft, ein Ziel.  
 _Treffer:_ 10 (2D6 + 3) psychischer Schaden.  
 Wenn der Ritter dasselbe Ziel zweimal hintereinander trifft,  
 muss dieses einen CON-Save DC 13 bestehen oder ist 1 Minute lang taub.
 
 **Stoß der Ordnung (aufladbar 5–6).**  
 Der Ritter schlägt seine Waffe in den Boden.  
-Alle Kreaturen seiner Wahl in einem Radius von 6 m müssen einen STR-Save DC 13 bestehen  
+Alle Kreaturen seiner Wahl in einem Radius von 20 ft müssen einen STR-Save DC 13 bestehen  
 oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
 
 ---
@@ -289,7 +289,7 @@ _Large Aberration, unaligned_
 
 **AC:** 15 (mineralisierte Haut)  
 **HP:** 104 (12D10 + 38)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -299,7 +299,7 @@ _Large Aberration, unaligned_
 **Schadensresistenzen:** Schall, Raidiant; Wucht (nichtmagisch)  
 **Verwundbarkeiten:** Psychisch  
 **Zustandsimmunitäten:** Verängstigt, bezaubert, taub  
-**Sinne:** Tremorsinn 18 m, passiver Wahrnehmungswert 11  
+**Sinne:** Tremorsinn 60 ft, passiver Wahrnehmungswert 11  
 **Sprachen:** – (nur vibrierende Kommunikation)  
 **CR:** 4 (1 100 EP)
 
@@ -314,12 +314,12 @@ als würde es im Sand nach dem Rest eines verlorenen Liedes suchen.
 
 **Resonante Form.**  
 Der Körper besteht aus versteinertem Fleisch, Metall und Orgelpfeifen.  
-Wenn der Orgelträger sich innerhalb von 3 m einer lauten Geräuschquelle befindet,  
+Wenn der Orgelträger sich innerhalb von 10 ft einer lauten Geräuschquelle befindet,  
 hat er bis zum Ende seines nächsten Zuges Vorteil auf seinen nächsten Angriffswurf.
 
 **Langsamer Marsch.**  
 Der Orgelträger kann keine Dash-Aktion ausführen.  
-Am Ende seines Zuges bewegt er sich automatisch 3 m in Richtung des lautesten Geräusches, das er wahrnimmt.
+Am Ende seines Zuges bewegt er sich automatisch 10 ft in Richtung des lautesten Geräusches, das er wahrnimmt.
 
 **Aura der Vibration (Recharge 6).**  
 Kreaturen in einem 15ft. Umkreis müssen einen CON-Save (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
@@ -328,14 +328,14 @@ Kreaturen in einem 15ft. Umkreis müssen einen CON-Save (DC 14) ablegen oder 4 (
 
 **Multiattack.** Der Orgelträger führt zwei _Glockenfäuste_ aus.
 
-**Glockenfaust.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 3 m, ein Ziel.  
+**Glockenfaust.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 10 ft, ein Ziel.  
 _Treffer:_ 14 (2D10 + 3) Wuchtschaden + 4 (1D8) Schallschaden.
 
 **Dissonanter Stoß (aufladbar 5–6).**  
 Der Orgelträger stößt einen tonalen Druck aus.  
 Alle Kreaturen in einem 15ft. Kegel müssen einen CON-Save (DC 14) machen.  
 Bei Misserfolg: 13 (3D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden, kein Effekt.  
-Nach dieser Aktion bewegt sich der Orgelträger 3 m rückwärts.
+Nach dieser Aktion bewegt sich der Orgelträger 10 ft rückwärts.
 
 ---
 
@@ -345,7 +345,7 @@ _Huge Aberration, unaligned_
 
 **AC:** 16 (mineralisierte Haut, metallene Rippen)  
 **HP:** 189 (18D12 + 72)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -356,7 +356,7 @@ _Huge Aberration, unaligned_
 **Schadensresistenzen:** Schall, Raidiantnt, Kälte; Wucht (nichtmagisch)  
 **Verwundbarkeiten:** Psychisch  
 **Zustandsimmunitäten:** Verängstigt, bezaubert, taub, liegend  
-**Sinne:** Tremorsinn 27 m, Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
+**Sinne:** Tremorsinn 90 ft Dunkelsicht 60 ft, passiver Wahrnehmungswert 14  
 **Sprachen:** – (nur harmonische Vibration)  
 **CR:** 6 (2 900 EP)
 
@@ -373,48 +373,43 @@ jeder Schlag ein Akkord, jeder Atemzug ein Gebet.
 **Massive Struktur.**  
 Der Orgelträger ist ein belebtes Bauwerk.  
 Kritische Treffer verursachen nur normalen Schaden.  
-Er kann keine Öffnungen passieren, die kleiner als 4,5 m sind.
+Er kann keine Öffnungen passieren, die kleiner als 15 ft sind.
 
 **Klangträger.**  
-Immer wenn der Orgelträger in einer Runde 20 oder mehr Schaden erleidet,  
-stößt er einen automatischen Resonanzimpuls aus:  
-Alle Kreaturen im Umkreis von 6 m müssen einen KO-Save (DC 15) bestehen  
-oder bis zum Ende ihres nächsten Zuges _taub_ sein.
-
-**Aura der Resonanz (6 m).**  
-Am Beginn jedes Zuges muss jede Kreatur in der Aura  
-einen KO-Save (DC 15) ablegen oder 4 (1D8) Schallschaden nehmen  
-und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
+Immer wenn der Orgelträger in einer Runde 20 oder mehr Schaden erleidet, stößt er einen automatischen Resonanzimpuls aus: 
+Alle Kreaturen im Umkreis von 20 ft müssen einen CON-Save (DC 15) bestehen oder bis zum Ende ihres nächsten Zuges _taub_ sein.
 
 **Unaufhaltsamer Gang.**  
-Der Orgelträger ignoriert schwieriges Gelände  
-und zerstört jede nichtmagische Struktur mit AC 15 oder niedriger, wenn er sich hindurchbewegt.
+Der Orgelträger ignoriert schwieriges Gelände und zerstört jede nichtmagische Struktur mit AC 15 oder niedriger, wenn er sich hindurchbewegt.
+
+**Aura der Resonanz (Recharge 5-6).**  
+Als Bonusaktion kann der Orgelträger Aura der Resonanz aktivieren. 
+Jede Kreatur im Umkreis von 20 ft muss einen CON-Save (DC 15) ablegen oder 4 (1D8) Schallschaden nehmen und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
 
 ### Aktionen
 
 **Multiattack.** Der Orgelträger führt zwei _Orgelhiebe_ aus.
 
-**Orgelhieb.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 4,5 m, ein Ziel.  
+**Orgelhieb.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 15 ft, ein Ziel.  
 _Treffer:_ 21 (3D10 + 5) Wuchtschaden + 7 (2D6) Schallschaden.
 
 **Kanonischer Stoß (aufladbar 5–6).**  
-Der Orgelträger entlädt einen Klangstoß in einem 9-m-Kegel.  
-Alle Kreaturen müssen einen KO-Save (DC 15) machen.  
+Der Orgelträger entlädt einen Klangstoß in einem 30-ft-Kegel.  
+Alle Kreaturen müssen einen CON-Save (DC 15) machen.  
 Bei Misserfolg: 27 (6D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden.  
 Objekte im Bereich erleiden doppelten Schaden.
 
 **Stille des Steins (1/Tag).**  
 Der Orgelträger stoppt plötzlich alle Geräusche.  
-In einem Radius von 9 m herrscht 1 Minute lang _magische Stille_.  
-Währenddessen regeneriert er zu Beginn seines Zuges 10 TP.  
+In einem Radius von 30 ft herrscht 1 Minute lang _magische Stille_.  
+Währenddessen regeneriert er zu Beginn seines Zuges 10 HP.  
 Erleidet er Feuerschaden, endet der Effekt sofort.
 
 ### Legendäre Aktion (optional für Bosskämpfe)
 
 **Tiefer Tritt (1 Aktion).**  
 Der Orgelträger stampft auf den Boden;  
-alle Kreaturen innerhalb 3 m müssen einen GE-Save (DC 15) machen  
-oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
+alle Kreaturen innerhalb 10 ft müssen einen DEX-Save (DC 15) machen oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
 
 ---
 
@@ -424,7 +419,7 @@ _Gargantuan Aberration, unaligned_
 
 **AC:** 17 (felsgehärtete Außenhaut)  
 **HP:** 290 (20D20 + 100)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -435,86 +430,60 @@ _Gargantuan Aberration, unaligned_
 **Schadensresistenzen:** Schall, Raidiant, Feuer, Kälte; Wucht und Schnitt (nichtmagisch)  
 **Verwundbarkeiten:** Psychisch  
 **Zustandsimmunitäten:** Verängstigt, taub, gelähmt, liegend, bezaubert  
-**Sinne:** Tremorsinn 36 m, Dunkelsicht 36 m, passiver Wahrnehmungswert 16  
+**Sinne:** Tremorsinn 120 ft, Dunkelsicht 120 ft, passiver Wahrnehmungswert 16  
 **Sprachen:** – (Resonantes Bewusstsein)  
 **CR:** 9 (5 000 EP)
 
 ### Beschreibung
 
-Ein Koloss aus Glas, Fels und Fleisch,  
-dessen Inneres von Lichtadern durchzogen ist.  
-Jeder Schritt lässt die Erde vibrieren,  
-jeder Atemzug flutet den Boden mit Schall.  
-Aus seinen Pfeifen erklingen gebrochene Akkorde –  
-kein Lied, sondern das Echo eines Tempels,  
-der sich selbst vergessen hat.
+Ein Koloss aus Glas, Fels und Fleisch, dessen Inneres von Lichtadern durchzogen ist.  
+Jeder Schritt lässt die Erde vibrieren, jeder Atemzug flutet den Boden mit Schall. Aus seinen Pfeifen erklingen gebrochene Akkorde – kein Lied, sondern das Echo eines Tempels, der sich selbst vergessen hat.
 
 ### Merkmale
 
 **Massive Architektur.**  
-Der Gebrochene Orgelträger ist ein halbzerfallenes Bauwerk auf Beinen.  
-Er gilt als unüberwindbares Terrain für Kreaturen kleiner als _Large_  
-und kann pro Zug Strukturen von bis zu 9 m Höhe zerstören, indem er sie überrollt.  
-Kritische Treffer verursachen nur normalen Schaden.
+Der Gebrochene Orgelträger ist ein halbzerfallenes Bauwerk auf Beinen. Er gilt als unüberwindbares Terrain für Kreaturen kleiner als _Large_ und kann pro Zug Strukturen von bis zu 
+30 ft Höhe zerstören, indem er sie überrollt. Kritische Treffer verursachen nur normalen Schaden.
 
-**Aura der Disharmonie (9 m).**  
-Die Luft pulsiert in unregelmäßigen Druckwellen.  
-Kreaturen, die ihren Zug in der Aura beginnen,  
-müssen einen KO-Save (DC 16) machen.  
-Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
+**Aura der Disharmonie (30 ft).**  
+Die Luft pulsiert in unregelmäßigen Druckwellen. Kreaturen, die ihren Zug in der Aura beginnen,  
+müssen einen CON-Save (DC 16) machen. Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
 
 **Verfallene Resonanz.**  
-Wenn der Orgelträger Schall- oder Raidiantenschaden erleidet,  
-brechen Stücke seiner Pfeifen ab.  
-Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben  
-und zufällige Worte wiederholen, die sie hören.
+Wenn der Orgelträger Schall- oder Raidiantenschaden erleidet, brechen Stücke seiner Pfeifen ab.  
+Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben und zufällige Worte wiederholen, die sie hören.
 
 **Klangverzerrung.**  
-Zauber, die Schall oder Sprache erfordern, haben innerhalb 18 m eine 50%-Chance,  
-fehlzuschlagen (W100 = 11+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt,  
-das den Caster als Ziel hat).
+Zauber, die Schall oder Sprache erfordern, haben innerhalb 30 ft eine 50%-Chance, fehlzuschlagen (D100 = 11+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt, das den Caster als Ziel hat).
 
 **Unerschütterlich.**  
-Immun gegen _Silence_, _Shatter_, _Calm Emotions_ und Effekte,  
-die Schall unterdrücken.
+Immun gegen _Silence_, _Shatter_, _Calm Emotions_ und Effekte, die Schall unterdrücken.
 
 ### Aktionen
 
 **Multiattack.** Der Orgelträger führt zwei _Pfeifenstöße_ aus.
 
-**Pfeifenstoß.** _Nahkampfangriff:_ +10 auf Treffer, Reichweite 6 m, ein Ziel.  
+**Pfeifenstoß.** _Nahkampfangriff:_ +10 auf Treffer, Reichweite 20 ft, ein Ziel.  
 _Treffer:_ 30 (4D10 + 8) Wuchtschaden + 9 (2D8) Schallschaden.
 
 **Kanonischer Resonanzstoß (aufladbar 5–6).**  
-Der Orgelträger entlädt eine zerstörerische Welle aus Klang.  
-Kreaturen in einem 12-m-Kegel müssen einen KO-Save (DC 16) ablegen.  
-Bei Misserfolg: 45 (10D8) Schallschaden, _liegend_ und _taub_ (1 Minute, KO-Save am Ende jeder Runde zur Aufhebung).  
-Bei Erfolg: halber Schaden.  
-Strukturen im Bereich erleiden doppelten Schaden.
+Der Orgelträger entlädt eine zerstörerische Welle aus Klang. Kreaturen in einem 40-ft-Kegel müssen einen CON-Save (DC 16) ablegen. Bei Misserfolg: 45 (10D8) Schallschaden, _liegend_ und _taub_ (1 Minute, CON-Save am Ende jeder Runde zur Aufhebung). Bei Erfolg: halber Schaden. Strukturen im Bereich erleiden doppelten Schaden.
 
 **Gravestep (1/Tag).**  
-Der Orgelträger hebt einen Fuß und setzt ihn mit monumentaler Wucht nieder.  
-Alle Kreaturen im Umkreis von 18 m müssen einen GE-Save (DC 17) ablegen.  
-Bei Misserfolg: 27 (6D8) Wuchtschaden und _restrained_ (durch Schutt);  
-bei Erfolg: halber Schaden, kein Effekt.  
-Das Gelände innerhalb 9 m wird zu schwierigem Terrain.
+Der Orgelträger hebt einen Fuß und setzt ihn mit monumentaler Wucht nieder.  Alle Kreaturen im Umkreis von 60 ft müssen einen DEX-Save (DC 17) ablegen. Bei Misserfolg: 27 (6D8) Wuchtschaden und _restrained_ (durch Schutt); bei Erfolg: halber Schaden, kein Effekt. Das Gelände innerhalb 30 ft wird zu schwierigem Terrain.
 
 ### Legendäre Aktionen
 
 Der Gebrochene Orgelträger kann 3 legendäre Aktionen ausführen, eine pro Runde am Ende anderer Züge.
 
 **Schritt des Echos.** (1 Aktion)  
-Er bewegt sich bis zu 6 m ohne Gelegenheitsangriffe.  
-Kreaturen, an denen er vorbeigeht, müssen einen KO-Save (DC 15) machen oder 4 (1D10) Schallschaden erleiden.
+Er bewegt sich bis zu 20 ft ohne Gelegenheitsangriffe. Kreaturen, an denen er vorbeigeht, müssen einen CON-Save (DC 15) machen oder 4 (1D10) Schallschaden erleiden.
 
 **Zerspringen (2 Aktionen).**  
-Ein Riss öffnet sich in seiner Haut; Splitter fliegen 6 m weit.  
-Kreaturen im Bereich müssen einen GE-Save (DC 15) bestehen oder 14 (4D6) Stichschaden erleiden.
+Ein Riss öffnet sich in seiner Haut; Splitter fliegen 20 ft weit. Kreaturen im Bereich müssen einen DEX-Save (DC 15) bestehen oder 14 (4D6) Stichschaden erleiden.
 
 **Resonanzruf (3 Aktionen).**  
-Der Orgelträger ruft den Nachhall seiner Art.  
-Bis zu zwei _Orgelbruten_ (CR 2) manifestieren sich im Umkreis von 9 m  
-und bestehen 3 Runden, bevor sie zu Staub zerfallen.
+Der Orgelträger ruft den Nachhall seiner Art. Bis zu zwei _Orgelbruten_ (CR 2) manifestieren sich im Umkreis von 30 ft und bestehen 3 Runden, bevor sie zu Staub zerfallen.
 
 
 ---
@@ -528,7 +497,7 @@ _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 15 (Resonanzgewebe)  
 **HP:** 82 (11D8 + 33)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -536,7 +505,7 @@ _Medium Aberration (Threnai), lawful neutral_
 
 **Rettungswürfe:** INT +6, WIS +4  
 **Fertigkeiten:** Arkane Kunde +6, Wahrnehmung +4  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 14  
 **Sprachen:** Threnaic, Gemeinsprache  
 **CR:** 5 (1 800 EP)
 
@@ -547,7 +516,7 @@ Sie webt die Wirklichkeit durch Ton: jede Geste eine Formel, jede Silbe ein Gese
 
 ### Merkmale
 **Aura der Harmonie.**  
-Kreaturen im Umkreis von 6 m müssen zu Beginn ihres Zuges einen Weisheitsrettungswurf (DC 14) ablegen oder bis zum Ende ihres Zuges verlangsamt werden, als würden sie dem Takt der Hexe folgen.
+Kreaturen im Umkreis von 20 ft müssen zu Beginn ihres Zuges einen WIS-Save (DC 14) ablegen oder bis zum Ende ihres Zuges verlangsamt werden, als würden sie dem Takt der Hexe folgen.
 
 **Magische Resonanz.**  
 Die Hexe wirkt ihre Zauber nicht verbal, sondern durch Ton und Körperschwingung; Zauberstille beeinträchtigt sie nicht.
@@ -568,12 +537,12 @@ Bereits vorbereitete Zauber:
         
 
 ### Aktionen
-**Klangstoß.** _Nah- oder Fernkampfangriff mit Zauber:_ +6 auf Treffer, Reichweite 9 m, ein Ziel.  
+**Klangstoß.** _Nah- oder Fernkampfangriff mit Zauber:_ +6 auf Treffer, Reichweite 30 ft, ein Ziel.  
 _Treffer:_ 13 (3D8 + 2) psychischer Schaden.
 
 **Resonanzbrecher (aufladbar 5–6).**  
 Die Hexe schlägt mit ihren Händen in die Luft und erzeugt einen einzigen lautlosen Ton.  
-Alle Kreaturen in einem 6-m-Radius müssen einen Konstitutionsrettungswurf (DC 15) bestehen oder 15 (3D10 + 2) Schallschaden erleiden und 1 Minute lang taub werden.
+Alle Kreaturen in einem 20-ft-Radius müssen einen CON-Save (DC 15) bestehen oder 15 (3D10 + 2) Schallschaden erleiden und 1 Minute lang taub werden.
 
 ---
 ## **Litaneier der Tiefe (CR 6)**
@@ -582,7 +551,7 @@ Alle Kreaturen in einem 6-m-Radius müssen einen Konstitutionsrettungswurf (DC 1
 
 **AC:** 15 (Resonanzgewebe)
 **HP:** 95 (10D8 + 50)
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -590,33 +559,31 @@ Alle Kreaturen in einem 6-m-Radius müssen einen Konstitutionsrettungswurf (DC 1
 
 **Rettungswürfe:** CON +8, WIS +6
 **Fertigkeiten:** Religion +6, Performance +5
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 13
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 13
 **Sprachen:** Threnaic, Gemeinsprache
 **CR:** 6 (2 300 EP)
 
 ### Beschreibung
 
-Die Litaneier der Tiefe oder auch Resonanzpriester genannt sind Träger der liturgischen Frequenzen – sie singen, was andere sprechen.
-Ihre Körper sind mit Runen aus vibrierendem Metall tätowiert; ihre Stimmen können Materie in Bewegung versetzen.
+Die Litaneier der Tiefe oder auch Resonanzpriester genannt sind Träger der liturgischen Frequenzen – sie singen, was andere sprechen. Ihre Körper sind mit Runen aus vibrierendem Metall tätowiert; ihre Stimmen können Materie in Bewegung versetzen.
 
 > *„Sie beten nicht um Gnade, sondern um Gleichklang.“*
 
 ### Merkmale
 
 **Chor der Stabilität.**
-Verbündete Threnai im 6 m Radius erhalten +1 auf Angriff und Rettungswürfe, solange der Priester konzentriert ist (keine Aktion erforderlich).
+Verbündete Threnai im 20 ft Radius erhalten +1 auf Angriff und Rettungswürfe, solange der Priester konzentriert ist (keine Aktion erforderlich).
 
 **Heilender Ton (1/Tag).**
-Alle verbündeten Kreaturen im 9 m Radius regenerieren 10 (3D6 + 3) Trefferpunkte, wenn der Priester eine vollständige Runde lang singt (keine anderen Aktionen möglich).
+Alle verbündeten Kreaturen im 30 ft Radius regenerieren 10 (3D6 + 3) Trefferpunkte, wenn der Priester eine vollständige Runde lang singt (keine anderen Aktionen möglich).
 
 ### Aktionen
 
-**Klangstab.** *Nahkampfangriff:* +6 auf Treffer, Reichweite 1,5 m, ein Ziel.
+**Klangstab.** *Nahkampfangriff:* +6 auf Treffer, Reichweite 5 ft, ein Ziel.
 *Treffer:* 11 (2D8 + 2) psychischer Schaden.
 
 **Resonanzlitanei (aufladbar 5–6).**
-Der Priester singt einen komplexen Dreiklang.
-Alle feindlichen Kreaturen im 6 m Radius müssen einen WIS-Save (DC 15) ablegen oder sind bis zum Beginn ihres nächsten Zuges verlangsamt.
+Der Priester singt einen komplexen Dreiklang. Alle feindlichen Kreaturen im 20 ft Radius müssen einen WIS-Save (DC 15) ablegen oder sind bis zum Beginn ihres nächsten Zuges verlangsamt.
 
 ---
 ## **Klangarchitekt (CR 7)**
@@ -624,7 +591,7 @@ _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 16 (Resonanzpanzer)  
 **HP:** 127 (15D8 + 60)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -632,31 +599,27 @@ _Medium Aberration (Threnai), lawful neutral_
 
 **Rettungswürfe:** CON +7, INT +7  
 **Fertigkeiten:** Arkane Kunde +7, Handwerk (Resonanz) +6  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 13  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 13  
 **Sprachen:** Threnaic, Gemeinsprache  
 **CR:** 7 (2 900 EP)
 
 ### Beschreibung
-Klangarchitekten sind die Baumeister der Tiefe.  
-Sie formen mit ihren Händen nicht Stein oder Metall, sondern Klang.  
-Unter ihrem Willen erheben sich Bauten aus vibrierender Materie, die gleichzeitig Waffe und Instrument sind.
+Klangarchitekten sind die Baumeister der Tiefe. Sie formen mit ihren Händen nicht Stein oder Metall, sondern Klang. Unter ihrem Willen erheben sich Bauten aus vibrierender Materie, die gleichzeitig Waffe und Instrument sind.
 
 ### Merkmale
-**Feld der Resonanz.**  
-Einmal pro Tag kann der Architekt ein 20 ft großes Gebiet innerhalb von 18 m „stimmen“.  
-Kreaturen, die sich darin bewegen, müssen einen DC 15 Geschicklichkeitswurf ablegen oder fallen prone, da der Boden schwingt.
+**Feld der Resonanz (1/Tag).**  
+Einmal pro Tag kann der Architekt als Bonusaktion ein 20 ft großes Gebiet innerhalb von 60 ft „stimmen“. Kreaturen, die sich darin bewegen, müssen einen DEX-Save DC 15 ablegen oder fallen _prone_, da der Boden schwingt.
 
 **Baumeister der Klangmaterie.**  
-Der Architekt kann einmal pro Runde als Bonusaktion einen Resonanz-Knoten erschaffen (AC 12, 10 TP).  
-Wenn der Knoten zerstört wird, explodiert er und verursacht 11 (2D10) Schallschaden in einem 3-m-Radius.
+Der Architekt kann einmal pro Runde als Bonusaktion einen Resonanz-Knoten erschaffen (AC 12, 10 TP). Wenn der Knoten zerstört wird, explodiert er und verursacht 11 (2D10) Schallschaden in einem 10-ft-Radius.
 
 ### Aktionen
-**Vibrationshieb.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 1,5 m, ein Ziel.  
+**Vibrationshieb.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 5 ft, ein Ziel.  
 _Treffer:_ 12 (2D8 + 3) Wucht- oder Schallschaden.
 
 **Klangdomäne (aufladbar 6).**  
 Der Architekt ruft ein Netz aus stehenden Wellen herbei.  
-Alle Kreaturen in einem Radius von 6 m müssen einen Konstitutionsrettungswurf (DC 15) bestehen oder bis zum Beginn ihres nächsten Zuges betäubt werden.
+Alle Kreaturen in einem Radius von 20 ft müssen einen CON-Save (DC 15) bestehen oder bis zum Beginn ihres nächsten Zuges betäubt werden.
 
 ---
 
@@ -666,7 +629,7 @@ Alle Kreaturen in einem Radius von 6 m müssen einen Konstitutionsrettungswurf (
 
 **AC:** 17 (natürliche Rüstung)
 **HP:** 136 (13D10 + 65)
-**Speed:** 12 m, fliegen 15 m
+**Speed:** 40 ft, fliegen 50 ft
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -674,8 +637,8 @@ Alle Kreaturen in einem Radius von 6 m müssen einen Konstitutionsrettungswurf (
 
 **Rettungswürfe:** INT +6, WIS +5
 **Fertigkeiten:** Arkane Kunde +6, Wahrnehmung +5
-**Sinne:** Dunkelsicht 36 m, passiver Wahrnehmungswert 15
-**Sprachen:** Threnaic, Telepathie 36 m
+**Sinne:** Dunkelsicht 120 ft, passiver Wahrnehmungswert 15
+**Sprachen:** Threnaic, Telepathie 120 ft
 **CR:** 8 (3 900 EP)
 
 ### Beschreibung
@@ -688,18 +651,18 @@ Ihre Flügel bestehen aus Membranen, die in bestimmten Tönen flirren. Sie bewac
 ### Merkmale
 
 **Aura des Rätsels.**
-Kreaturen im 9 m Radius müssen zu Beginn ihres Zuges einen INT-Save (DC 16) bestehen oder erleiden Nachteil auf alle WIS und INT Proben bis zum Ende ihres Zuges.
+Kreaturen im 30 ft Radius müssen zu Beginn ihres Zuges einen INT-Save (DC 16) bestehen oder erleiden Nachteil auf alle WIS und INT Proben bis zum Ende ihres Zuges.
 
 **Wächter der Worte.**
-Zauber der Stufe 3 oder niedriger, die Schall oder Sprache beinhalten, werden automatisch neutralisiert (innerhalb von 9 m).
+Zauber der Stufe 3 oder niedriger, die Schall oder Sprache beinhalten, werden automatisch neutralisiert (innerhalb von 30 ft).
 
 ### Aktionen
 
-**Klauen.** *Nahkampfangriff:* +7 auf Treffer, Reichweite 1,5 m.
+**Klauen.** *Nahkampfangriff:* +7 auf Treffer, Reichweite 5 ft.
 *Treffer:* 15 (2D8 + 4) Hiebschaden.
 
 **Echo der Frage (aufladbar 5–6).**
-Die Sphinx stellt eine Frage in reiner Frequenz. Alle Kreaturen im 6 m Radius müssen einen WIS-Save (DC 16) ablegen oder sind 1 Minute lang verwirrt (wie unter dem Zauber *Confusion*).
+Die Sphinx stellt eine Frage in reiner Frequenz. Alle Kreaturen im 20 ft Radius müssen einen WIS-Save (DC 16) ablegen oder sind 1 Minute lang verwirrt (wie unter dem Zauber *Confusion*).
 
 ---
 ## **General der Tiefe (CR 9)**
@@ -707,7 +670,7 @@ _Medium Aberration (Threnai), lawful neutral_
 
 **AC:** 17 (Resonanzrüstung)  
 **HP:** 150 (20D8 + 60)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -715,8 +678,8 @@ _Medium Aberration (Threnai), lawful neutral_
 
 **Rettungswürfe:** INT +7, CHA +7  
 **Fertigkeiten:** Performance +7, Überzeugen +7, Arkane Kunde +6  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
-**Sprachen:** Threnaic, Gemeinsprache, Telepathie 36 m  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 14  
+**Sprachen:** Threnaic, Gemeinsprache, Telepathie 120 ft  
 **CR:** 9 (5 000 EP)
 
 ### Beschreibung
@@ -726,19 +689,18 @@ Ein Dirigent ist kein Herrscher, sondern eine Funktion der Harmonie.
 
 ### Merkmale
 **Symphonie der Gefolgschaft.**  
-Alle Threnai innerhalb von 18 m haben +1 auf Angriffs- und Rettungswürfe.
+Alle Threnai innerhalb von 60 ft haben +1 auf Angriffs- und Rettungswürfe.
 
 **Resonanznetz.**  
-Der Dirigent kann als Bonusaktion bis zu drei verbündete Threnai innerhalb von 18 m „verbinden“.  
+Der Dirigent kann als Bonusaktion bis zu drei verbündete Threnai innerhalb von 60 ft „verbinden“.  
 Diese teilen sich HP: Wenn einer Schaden erleidet, kann er bis zu 10 davon auf einen anderen übertragen.
 
 ### Aktionen
-**Resonanzschlag.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 1,5 m, ein Ziel.  
+**Resonanzschlag.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 5 ft, ein Ziel.  
 _Treffer:_ 14 (3D8 + 2) psychischer Schaden.
 
-**Befehl des Akkords (aufladbar 5–6).**  
-Der Dirigent ruft den Ton von Kharox an.  
-Alle Kreaturen seiner Wahl innerhalb von 9 m müssen einen Weisheitsrettungswurf (DC 15) bestehen oder werden 1 Minute lang von ihm fasziniert und folgen seinen Befehlen wie einem Zauber „Beherrschen“.
+**Befehl des Akkords (aufladbar 6).**  
+Der Dirigent ruft den Ton von Kharox an. Alle Kreaturen seiner Wahl innerhalb von 30 ft müssen einen WIS-Save (DC 15) bestehen oder werden 1 Minute lang von ihm fasziniert und folgen seinen Befehlen wie einem Zauber „Beherrschen“.
 
 ---
 
@@ -748,7 +710,7 @@ Alle Kreaturen seiner Wahl innerhalb von 9 m müssen einen Weisheitsrettungswurf
 
 **AC:** 18 (Resonanzpanzer)
 **HP:** 172 (23D8 + 69)
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -757,8 +719,8 @@ Alle Kreaturen seiner Wahl innerhalb von 9 m müssen einen Weisheitsrettungswurf
 **Rettungswürfe:** WIS +8, CHA +7
 **Fertigkeiten:** Einsicht +8, Wahrnehmung +8, Arkane Kunde +6, Überzeugen +7
 **Schadensresistenzen:** Psychisch, Schall; Wucht, Hieb und Stich (nichtmagisch)
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 18
-**Sprachen:** Threnaic, Gemeinsprache, Telepathie 36 m
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 18
+**Sprachen:** Threnaic, Gemeinsprache, Telepathie 120 ft
 **CR:** 10 (5 900 EP)
 
 
@@ -773,16 +735,14 @@ Ihr Blick sieht nicht Gestalt, sondern Frequenz, und ihre Stimme trägt das Gewi
 
 ### **Merkmale**
 
-**Aura des Urteils.**
-Kreaturen im Umkreis von 9 m müssen zu Beginn ihres Zuges einen Weisheitsrettungswurf (DC 17) ablegen
-oder erleiden 9 (2D8) psychischen Schaden und haben Nachteil auf Angriffe bis zum Beginn ihres nächsten Zuges.
+**Aura des Urteils (Recharge 5-6)**
+Der Richter der Tiefe kann als Bonusaktion Aura des Urteils aktivieren. Kreaturen im Umkreis von 30 ft müssen einen WIS-Save (DC 17) ablegen oder erleiden 9 (2D8) psychischen Schaden und haben Nachteil auf Angriffe bis zum Beginn ihres nächsten Zuges.
 
 **Wahrheitsresonanz.**
-Eine Kreatur, die innerhalb von 9 m des Richters lügt, muss einen Konstitutionsrettungswurf (DC 16) bestehen oder 5 (1D10) Schallschaden erleiden.
+Eine Kreatur, die innerhalb von 30 ft des Richters lügt, muss einen CON-Save (DC 16) bestehen oder 5 (1D10) Schallschaden erleiden.
 
 **Schwingung des Gleichgewichts (1/Tag).**
-Wenn der Richter unter 50 % seiner Trefferpunkte fällt, erzeugt er eine Welle aus stabilisierendem Klang.
-Alle feindlichen Kreaturen im 12-m-Radius müssen einen KO-Save (DC 17) ablegen
+Wenn der Richter unter 50 % seiner Trefferpunkte fällt, erzeugt er eine Welle aus stabilisierendem Klang. Alle feindlichen Kreaturen im 40-ft-Radius müssen einen CON-Save (DC 17) ablegen
 oder werden zu Boden geworfen und für 1 Runde stumm (wie durch *Silence*).
 
 
@@ -791,14 +751,10 @@ oder werden zu Boden geworfen und für 1 Runde stumm (wie durch *Silence*).
 **Multiattack.**
 Der Resonanzrichter führt zwei Angriffe mit seinem *Klanghammer* aus.
 
-**Klanghammer.** *Nahkampfangriff:* +8 auf Treffer, Reichweite 1,5 m, ein Ziel.
-*Treffer:* 20 (3D10 + 3) Wucht- oder Schallschaden.
+**Klanghammer.** *Nahkampfangriff:* +8 auf Treffer, Reichweite 5 ft, ein Ziel. *Treffer:* 20 (3D10 + 3) Wucht- oder Schallschaden.
 
 **Urteil der Tiefe (aufladbar 5–6).**
-Der Richter stößt eine konzentrierte Schwingung reiner Wahrheit aus.
-Alle Kreaturen in einem 15 m Kegel müssen einen KO-Save (DC 17) bestehen
-oder 29 (6D8 + 3) Schallschaden erleiden und zu Boden geworfen werden.
-Bei Erfolg halber Schaden und nicht gestürzt.
+Der Richter stößt eine konzentrierte Schwingung reiner Wahrheit aus. Alle Kreaturen in einem 50 ft Kegel müssen einen CON-Save (DC 17) bestehen oder 29 (6D8 + 3) Schallschaden erleiden und zu Boden geworfen werden. Bei Erfolg halber Schaden und nicht gestürzt.
 
 ---
 
@@ -808,7 +764,7 @@ Bei Erfolg halber Schaden und nicht gestürzt.
 
 **AC:** 18 (Resonanzhaut)
 **HP:** 195 (23D8 + 92)
-**Speed:** 9 m, fliegen 9 m (schwebend)
+**Speed:** 30 ft, fliegen 30 ft (schwebend)
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -817,35 +773,31 @@ Bei Erfolg halber Schaden und nicht gestürzt.
 **Rettungswürfe:** INT +7, CHA +8
 **Fertigkeiten:** Performance +8, Überzeugen +8, Arkane Kunde +7
 **Schadensresistenzen:** Psychisch, Schall
-**Sinne:** Dunkelsicht 36 m, passiver Wahrnehmungswert 16
-**Sprachen:** alle, Telepathie 60 m
+**Sinne:** Dunkelsicht 120 ft, passiver Wahrnehmungswert 16
+**Sprachen:** alle, Telepathie 200 ft
 **CR:** 11 (7 200 EP)
 
 ### Beschreibung
 
-Die Herolde der Tiefe sind Boten zwischen den Architonen und der Welt. Sie verkünden nicht Worte, sondern Gefühle, die in Klang gekleidet sind.
-Wenn sie erscheinen, verstummt der Wind, und jede Seele im Umkreis fühlt den gleichen Rhythmus.
+Die Herolde der Tiefe sind Boten zwischen den Architonen und der Welt. Sie verkünden nicht Worte, sondern Gefühle, die in Klang gekleidet sind. Wenn sie erscheinen, verstummt der Wind, und jede Seele im Umkreis fühlt den gleichen Rhythmus.
 
 > *„Er spricht nicht zu dir. Er spricht durch dich.“*
 
 ### Merkmale
 
-**Aura der Botschaft.**
-Kreaturen im 12 m Radius müssen zu Beginn ihres Zuges einen WIS-Save (DC 17) bestehen oder sind 1 Runde lang *fasziniert* (als unter *Hypnotisches Muster*).
+**Aura der Botschaft (Recharge 5-6)**
+Der Resonanzbote kann Aura der Botschaft als Bonusaktion einsetzten. Kreaturen im 40-ft-Radius müssen einen WIS-Save (DC 17) bestehen oder sind 1 Runde lang *fasziniert* (als unter *Hypnotisches Muster*).
 
 **Klangverbindung.**
-Der Bote kann bis zu 3 Kreaturen innerhalb 18 m mit sich verbinden.
-Solange die Verbindung besteht, teilen sie Trefferpunkte (Verlust einer Kreatur kann auf andere verteilt werden, max. 10 pro Runde).
+Der Bote kann bis zu 3 Kreaturen innerhalb 60 ft mit sich verbinden. Solange die Verbindung besteht, teilen sie Trefferpunkte (Verlust einer Kreatur kann auf andere verteilt werden, max. 10 pro Runde).
 
 ### Aktionen
 
-**Harmonischer Schlag.** *Nahkampfangriff:* +8 auf Treffer, Reichweite 1,5 m, ein Ziel.
+**Harmonischer Schlag.** *Nahkampfangriff:* +8 auf Treffer, Reichweite 5 ft, ein Ziel.
 *Treffer:* 20 (3D10 + 3) psychischer Schaden.
 
 **Wort der Tiefe (aufladbar 6).**
-Der Bote spricht den *Namen einer Wahrheit*.
-Alle feindlichen Kreaturen im 12 m Radius müssen einen WIS-Save (DC 18) ablegen oder 1 Minute lang paralysiert werden.
-Kreaturen, die den Save bestehen, erleiden halben Schaden (22 [4D10] psychisch).
+Der Bote spricht den *Namen einer Wahrheit*. Alle feindlichen Kreaturen im 40 ft Radius müssen einen WIS-Save (DC 18) ablegen oder 1 Minute lang paralysiert werden und 22 (4D10) psychischen schaden erleiden. Kreaturen, die den Save bestehen, erleiden nur halben Schaden.
 
 
 ---
@@ -854,7 +806,7 @@ _Large Aberration (Threnai), true neutral_
 
 **AC:** 18 (natürliche Rüstung)  
 **HP:** 212 (25D10 + 75)  
-**Speed:** 12 m
+**Speed:** 40 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -863,32 +815,30 @@ _Large Aberration (Threnai), true neutral_
 **Rettungswürfe:** CON +7, CHA +8  
 **Fertigkeiten:** Arkane Kunde +7, Einschüchtern +8  
 **Schadensresistenzen:** Psychisch, Schall; Immun gegen Taubheit  
-**Sinne:** Dunkelsicht 36 m, passiver Wahrnehmungswert 15  
-**Sprachen:** alle, Telepathie 60 m  
+**Sinne:** Dunkelsicht 120 ft, passiver Wahrnehmungswert 15  
+**Sprachen:** alle, Telepathie 200 ft  
 **CR:** 12 (8 400 EP)
 
 ### Beschreibung
-Ein Avatar der Resonanz ist die fleischgewordene Schwingung eines Architons – ein Gefäß, durch das die Tiefe spricht.  
-Seine Haut besteht aus durchsichtigen Schichten, in denen Licht wie Schall fließt.  
-Wo es wandelt, verstummt die Welt.
+Ein Avatar der Resonanz ist die fleischgewordene Schwingung eines Architons – ein Gefäß, durch das die Tiefe spricht. Seine Haut besteht aus durchsichtigen Schichten, in denen Licht wie Schall fließt. Wo es wandelt, verstummt die Welt.
 
 ### Merkmale
 **Aura der Stille.**  
-Kreaturen in einem Radius von 6 m können nicht sprechen oder Zauber mit verbalen Komponenten wirken.
+Kreaturen in einem Radius von 20 ft können nicht sprechen oder Zauber mit verbalen Komponenten wirken.
 
 **Unaufhaltsamer Ton.**  
 Wenn das Avatar auf 0 TP fällt, explodiert es in einem Wellenring.  
-Alle Kreaturen in 15 m erleiden 27 (6D8) Schallschaden (KEIN Rettungswurf).
+Alle Kreaturen in 50 ft erleiden 27 (6D8) Schallschaden (KEIN Rettungswurf).
 
 ### Aktionen
 **Multiattack.** Drei Angriffe mit „Schlag der Tiefe“.
 
-**Schlag der Tiefe.** _Nahkampfangriff:_ +8 auf Treffer, Reichweite 3 m, ein Ziel.  
+**Schlag der Tiefe.** _Nahkampfangriff:_ +8 auf Treffer, Reichweite 10 ft, ein Ziel.  
 _Treffer:_ 17 (2D10 + 6) Wucht- und psychischer Schaden.
 
 **Welle des Fundaments (aufladbar 6).**  
 Der Avatar der Resonanz entlädt eine stehende Welle reiner Resonanz.  
-Alle Kreaturen in einem 12-m-Kegel müssen einen Konstitutionsrettungswurf (DC 17) ablegen oder 31 (7D8) Schallschaden erleiden und 1 Minute lang taub sein.
+Alle Kreaturen in einem 40-ft-Kegel müssen einen CON-Save (DC 17) ablegen oder 31 (7D8) Schallschaden erleiden und 1 Minute lang taub sein.
 
 ---
 # _Wesen der Reinen Linien_
@@ -902,9 +852,9 @@ Alle Kreaturen in einem 12-m-Kegel müssen einen Konstitutionsrettungswurf (DC 1
 
 _Large Aberration (Linie Eirach), lawful neutral_
 
-**AC:** 17 (steinartige Haut)  
+**AC:** 18 (steinartige Haut)  
 **HP:** 115 (11D10 + 55)  
-**Speed:** 6 m
+**Speed:** 20 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -913,7 +863,7 @@ _Large Aberration (Linie Eirach), lawful neutral_
 **Rettungswürfe:** CON +8, WIS +4  
 **Schadensresistenzen:** Wucht, Stich und Hieb (nichtmagisch)  
 **Schadensimmunitäten:** Schall  
-**Sinne:** Dunkelsicht 18 m, Tremorsinn 9 m, passiver Wahrnehmungswert 11  
+**Sinne:** Dunkelsicht 60 ft, Tremorsinn 30 ft, passiver Wahrnehmungswert 11  
 **Sprachen:** versteht Threnaic, kann aber nicht sprechen  
 **CR:** 6 (2 300 EP)
 
@@ -929,7 +879,7 @@ Wenn sie stehen, hält selbst der Wind den Atem an.
 ### Merkmale
 
 **Aura der Stille.**  
-Alle Geräusche in einem Radius von 9 m werden ausgelöscht.  
+Alle Geräusche in einem Radius von 30 ft werden ausgelöscht.  
 Zauber mit verbalen Komponenten scheitern automatisch, wenn innerhalb der Aura gewirkt.
 
 **Unerschütterlich.**  
@@ -938,14 +888,13 @@ Er ignoriert schwieriges Gelände aus nichtmagischem Grund.
 
 ### Aktionen
 
-**Steinschlag.** _Nahkampfangriff:_ +8 auf Treffer, Reichweite 3 m, ein Ziel.  
+**Steinschlag.** _Nahkampfangriff:_ +8 auf Treffer, Reichweite 10 ft, ein Ziel.  
 _Treffer:_ 19 (2D10 + 5) Wuchtschaden.  
-Bei einem kritischen Treffer wird das Ziel 3 m weggeschleudert.
+Bei einem kritischen Treffer wird das Ziel 10 ft weggeschleudert.
 
 **Gravitationswelle (aufladbar 5–6).**  
-Der Titan stampft auf den Boden.  
-Alle Kreaturen in einem 6-m-Radius müssen einen Stärkewurf (DC 15) ablegen  
-oder erleiden 18 (4D8) Wuchtschaden und werden zu Boden geworfen.
+Der Titan stampft auf den Boden. Alle Kreaturen in einem 20-ft-Radius müssen einen 
+STR-Save (DC 15) ablegen oder erleiden 18 (4D8) Wuchtschaden und werden zu Boden geworfen.
 
 ---
 
@@ -955,7 +904,7 @@ _Medium Aberration (Linie Kharox), lawful neutral_
 
 **AC:** 18 (Resonanzrüstung)  
 **HP:** 125 (15D8 + 60)  
-**Speed:** 9 m
+**Speed:** 30 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -963,8 +912,8 @@ _Medium Aberration (Linie Kharox), lawful neutral_
 
 **Rettungswürfe:** WIS +5, CHA +6  
 **Fertigkeiten:** Performance +6, Arkane Kunde +5  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 14  
-**Sprachen:** Threnaic, Telepathie 30 m  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 14  
+**Sprachen:** Threnaic, Telepathie 100 ft 
 **CR:** 7 (2 900 EP)
 
 ### Beschreibung
@@ -979,10 +928,10 @@ Sie erscheinen oft, wo Ordnung zu zerbrechen droht.
 ### Merkmale
 
 **Aura des Takts.**  
-Kreaturen im Umkreis von 9 m müssen zu Beginn ihres Zuges  
-einen Weisheitsrettungswurf (DC 15) bestehen oder sie wiederholen ihre letzte Aktion.
+Kreaturen im Umkreis von 30 ft müssen zu Beginn ihres Zuges  
+einen WIS-Save (DC 15) bestehen oder sie wiederholen ihre letzte Aktion.
 
-**Harmonischer Reflex.**  
+**Harmonischer Reflex (Recharge 4-6)**  
 Wenn der Wächter getroffen wird, kann er als Reaktion seinen Körper justieren  
 und erhält +2 AC bis zum Beginn seines nächsten Zuges.
 
@@ -1058,7 +1007,7 @@ _Large Aberration (Threnai), true neutral_
 
 **AC:** 19 (harmonische Haut)  
 **HP:** 210 (20D10 + 100)  
-**Speed:** 9 m, fliegen 12 m (schwebend)
+**Speed:** 30 ft, fliegen 40 ft (schwebend)
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -1069,8 +1018,8 @@ _Large Aberration (Threnai), true neutral_
 **Schadensresistenzen:** Psychisch, Wucht, Schneidend, Hieb (nichtmagisch)  
 **Schadensimmunitäten:** Schall, Taubheit, Betäubung  
 **Zustandsimmunitäten:** Verängstigt, Verwirrt, Ergriffen, Liegend  
-**Sinne:** Dunkelsicht 36 m, Tremorsinn 9 m, passive Wahrnehmung 16  
-**Sprachen:** alle, Telepathie 60 m  
+**Sinne:** Dunkelsicht 120 ft, Tremorsinn 30 ft, passive Wahrnehmung 16  
+**Sprachen:** alle, Telepathie 200 ft  
 **Herausforderungsgrad:** 16 (25 000 EP)  
 **Mythischer Rang:** 1 (Mythic Actions freigeschaltet, siehe unten)
 
@@ -1085,10 +1034,10 @@ Seine Existenz währt selten länger als einige Minuten; doch während dieser Ze
 ### **Merkmale**
 
 **Mythic Trait – Schatten des Akkords.**  
-Wenn der Dreiklang 0 HP erreicht, zerbricht er nicht. Stattdessen manifestiert er eine zweite Phase (volle HP erneut). In dieser Form verändert sich die Arena: alle Kreaturen innerhalb von 30 m befinden sich in einer Dimension aus reiner Resonanz. (Alle Rettungswürfe gegen Schall oder Psychischen Schaden werden mit Nachteil abgelegt.)
+Wenn der Dreiklang 0 HP erreicht, zerbricht er nicht. Stattdessen manifestiert er eine zweite Phase (volle HP erneut). In dieser Form verändert sich die Arena: alle Kreaturen innerhalb von 100 ft befinden sich in einer Dimension aus reiner Resonanz. (Alle Rettungswürfe gegen Schall oder Psychischen Schaden werden mit Nachteil abgelegt.)
 
 **Aura des Gleichklangs.**  
-Kreaturen in 12 m Umkreis müssen zu Beginn ihres Zuges einen WEI-Rettungswurf (DC 17) ablegen oder ihre Aktion dieser Runde wiederholen (magische Zwangshandlung).
+Kreaturen in 30 ft Umkreis müssen zu Beginn ihres Zuges einen WIS-Save (DC 17) ablegen oder ihre Aktion dieser Runde wiederholen (magische Zwangshandlung).
 
 **Resonanz der Linien (Bonusaktion).**  
 Der Dreiklang kann eine Linie dominant machen (bis zum Beginn seines nächsten Zuges):
@@ -1104,20 +1053,20 @@ Der Dreiklang kann eine Linie dominant machen (bis zum Beginn seines nächsten Z
 
 **Multiattack.** Der Dreiklang führt zwei Angriffe mit „Schlag der Tiefe“ aus.
 
-**Schlag der Tiefe.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 3 m, ein Ziel.  
+**Schlag der Tiefe.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 10 ft, ein Ziel.  
 _Treffer:_ 24 (4D8 + 6) Wucht- und Schallschaden.  
-Ziele müssen einen KO-Wurf (DC 17) bestehen oder werden 1 Runde taub.
+Ziele müssen einen CON-Wurf (DC 17) bestehen oder werden 1 Runde taub.
 
 **Hymne der Urresonanz (aufladbar 6).**  
-Der Dreiklang ruft die drei Urtöne zugleich. Alle Kreaturen im 18-m-Radius müssen einen WEI-Rettungswurf (DC 18) ablegen oder für 1 Minute in Trance verfallen. In diesem Zustand stehen sie still, doch sehen Visionen der Tiefe. Sie können am Ende ihres Zuges den Wurf wiederholen.
+Der Dreiklang ruft die drei Urtöne zugleich. Alle Kreaturen im 60-ft-Radius müssen einen WIS-Save (DC 18) ablegen oder für 1 Minute in Trance verfallen. In diesem Zustand stehen sie still, doch sehen Visionen der Tiefe. Sie können am Ende ihres Zuges den Wurf wiederholen.
 
 ### **Legendäre Aktionen**
 
 Der Dreiklang kann 3 legendäre Aktionen pro Runde nutzen (je 1 pro Phase am Ende eines anderen Zugs):
 
-1. **Resonanzstoß:** Er verursacht 9 (2D8) Schallschaden an einem Ziel im 12-m-Radius.
+1. **Resonanzstoß (1 Aktion):** Er verursacht 9 (2D8) Schallschaden an einem Ziel im 40-ft-Radius.
     
-2. **Klangverzerrung (2 Aktionen):** Alle Kreaturen im 6-m-Radius müssen einen WIS-Rettungswurf (DC 16) machen oder erleiden Nachteil auf Angriffswürfe bis zum Beginn ihres nächsten Zuges.
+2. **Klangverzerrung (2 Aktionen):** Alle Kreaturen im 20-ft-Radius müssen einen WIS-Save (DC 16) machen oder erleiden Nachteil auf Angriffswürfe bis zum Beginn ihres nächsten Zuges.
     
 3. **Formwandel (3 Aktionen):** Der Dreiklang wechselt sofort seine aktive Linie (Eirach, Kharox oder Saath).
     
@@ -1126,6 +1075,5 @@ Der Dreiklang kann 3 legendäre Aktionen pro Runde nutzen (je 1 pro Phase am End
 
 - **Echo des Akkords (2 Aktionen):** Der Dreiklang projiziert eine zweite Gestalt aus Licht – alle Angriffe gegen ihn werden 1 Runde lang mit Nachteil gewürfelt.
     
-- **Unisono (3 Aktionen):** Alle Kreaturen im 30-m-Radius müssen einen WIS-Rettungswurf (DC 18) machen oder sind 1 Runde handlungsunfähig, verloren im Gleichklang.
-    
+- **Unisono (3 Aktionen):** Alle Kreaturen im 100-ft-Radius müssen einen WIS-Save (DC 18) machen oder sind 1 Runde handlungsunfähig, verloren im Gleichklang.
 
