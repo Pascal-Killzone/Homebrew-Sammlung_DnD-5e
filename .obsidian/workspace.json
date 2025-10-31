@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Das Lied der Tiefe/Das Lied der Tiefe.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,8 +49,7 @@
               "title": "Das Buch der Tiefe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "83079bb06e8cadd5",
+  "active": "00d8f19bb0b36309",
   "lastOpenFiles": [
-    "Das Lied der Tiefe/Das Lied der Tiefe.md",
     "Das Lied der Tiefe/Bestiarium der Threnai.md",
+    "Das Lied der Tiefe/Das Lied der Tiefe.md",
     "Das Lied der Tiefe/Das Buch der Tiefe.md",
     "Das Lied der Tiefe/Das Lied der Tiefe- Kampagne.md",
     "Das Lied der Tiefe/README.md",

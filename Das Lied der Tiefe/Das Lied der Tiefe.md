@@ -2081,21 +2081,32 @@ Jede Begegnung schwächt das Siegel, das den **Dreiklang der Reinen** zurückhä
 
 
 > Ihr steigt hinab in ein Becken aus grauem Licht.  
-> Der Boden ist glatt wie Glas,  
-> und zwischen den Felsen ruht etwas Unbewegtes –  
-> eine Gestalt aus Stein, knieend,  
-> die Hände im Staub verschränkt.
+> Der Boden beginnt zu atmen.
 > 
-> Keine Luft regt sich.  
-> Selbst euer Herzschlag klingt gedämpft,  
-> als lausche die Welt einem Gebet, das nie gesprochen wurde.
+> Staub hebt sich, fällt wieder, hebt sich erneut,
+> als würde die Welt selbst den Atem anhalten.
+> Dann wächst aus der Erde eine Form –
+> kein Körper, sondern Wille aus Stein.
+>
+> Risse glühen in grauem Licht,
+> und jeder Laut stirbt, bevor er geboren wird.
+> Die Luft wird dicht,
+> als hätte sie vergessen, was Klang bedeutet.
+>
+> Als der Titan sich erhebt,
+> spürt ihr nicht Angst –
+> sondern das Bewusstsein, dass alles, was sich bewegt,
+> schon verloren hat.
+>
+> Eine Stimme beginnt in euch zu hallen: 
+> *„Eirach spricht nicht,“*.
+> *„Er erinnert euch nur daran, wie die Welt klang,
+> bevor sie falsch wurde.“* 
 
-💥 **Kampf 1 – Eirachs Erbe, der Stumme Titan (CR 6)**
+
+💥 **Kampf 1 – Eirachs Erbe, der Stumme Titan (CR 10)**
 
 **Mechanik:**
-
-- **Aura der Stille (9 m)** – verbale Zauber scheitern automatisch.
-    
 - Wenn er 50 % HP erreicht, bricht der Boden auf,  
     und ein Lichtstrahl zieht sich gen Himmel – der Titan löst sich in Staub aus Klang auf.  
     Die Erde vibriert, als wäre etwas erwacht.
@@ -2105,24 +2116,36 @@ Jede Begegnung schwächt das Siegel, das den **Dreiklang der Reinen** zurückhä
 
 Die Linie Eirachs wird aktiv.
 
-### **Szene 3 – Der Takt des Steins**
+### **Szene 3 – Der Takt der Welt**
 
 
-> Eine Ebene aus metallischem Staub.  
-> Der Boden pulsiert,  
-> jeder Schritt antwortet mit einem Echo.
-> 
-> Am Horizont marschiert eine Gestalt aus Glas und Licht.  
-> Vier Arme, jeder in Bewegung,  
-> der Körper im Gleichmaß –  
-> ein Metronom in menschlicher Form.
+> Zuerst hört ihr euren Herzschlag –
+> dann den nächsten,
+> dann einen dritten, der nicht zu euch gehört.
+> Der Boden pulsiert.
+> Metall und Luft beginnen zu schwingen,
+> und ein leises Pochen läuft wie ein Atem durch den Raum.
+>
+> Aus dem Licht formt sich eine Gestalt –
+> klar, geometrisch, makellos.
+> Jeder Schritt ein Befehl,
+> jeder Atemzug ein Gesetz.
+>
+> Wenn er spricht, ist es kein Wort –
+> es ist ein Schlag.
+> Ein Impuls, der sich durch Knochen und Zeit zieht.
+>
+> Der Rhythmische Wächter hebt die Hand,
+> und der Raum antwortet mit Bewegung.
+>
+> *„Was sich wiederholt, besteht,“* sagt er –
+> und die Welt beginnt,
+> sich im Takt zu bewegen.
+
 
 💥 **Kampf 2 – Kharox’ Linie, der Rhythmische Wächter (CR 7)**
 
 **Mechanik:**
-
-- **Aura des Takts (9 m)** – Wesen müssen DC 15 WIS-Save schaffen oder ihre letzte Aktion wiederholen.
-    
 - Bei 50 % HP erzeugt der Wächter eine Schockwelle, ruft den Satz:  
     _„Alles, was sich wiederholt, besteht.“_  
     Dann zerbricht er zu Lichtsplittern, die gen Zentrum strömen.
@@ -2138,18 +2161,33 @@ Die Linie Eirachs wird aktiv.
 > doch leicht versetzt,  
 > als käme das Bild aus einem späteren Augenblick.
 > 
-> Aus der Oberfläche steigt ein Körper aus Glas,  
-> flüssig, wandelnd,  
-> und spricht mit eurer eigenen Stimme:  
-> _„Wenn du mich besiegst,  
-> wirst du vergessen, wer gekämpft hat.“_
+> Es beginnt mit einem Schimmer.
+> Nicht im Licht, sondern im Blick.
+> Als würdet ihr euch selbst in einer Bewegung sehen,
+> die ihr noch gar nicht getan habt.
+>
+> Luft verdichtet sich zu Glas,
+> Wasser spiegelt Gesichter, die ihr kennt –
+> aber nicht mehr erkennt.
+>
+> Eine Gestalt steigt aus der Reflexion,
+> schwebend, flüssig, ruhig.
+> Ihr Körper fließt,
+> und in ihm fließen Bilder: Kindheit, Lachen, Schmerz –
+> alles, was je wahr war,
+> alles, was ihr vergessen wolltet.
+>
+> Sie neigt den Kopf,
+> und eure Stimme spricht aus ihrem Mund.
+>
+> *„Ich nehme nichts,“* sagt sie leise.
+> *„Ich lasse nur zurück,
+> was du nie warst.“*
+>
 
 💥 **Kampf 3 – Saaths Linie, der Flüsternde Spiegel (CR 8)**
 
 **Mechanik:**
-
-- **Spiegel der Seele:** DC 16 CHA-Save oder 1 Runde verzögerte Reaktion.
-    
 - Bei 50 % HP verflüssigt sich der Spiegel,  
     drei Abbilder steigen auf,  
     flüstern synchron:  
