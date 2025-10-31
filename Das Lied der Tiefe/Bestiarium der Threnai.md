@@ -958,7 +958,7 @@ _Medium Aberration (Linie Saath), chaotic neutral_
 
 **AC:** 15 (flüssiger Körper)  
 **HP:** 136 (16D8 + 64)  
-**Speed:** 9 m, fliegen 9 m (schwebend)
+**Speed:** 30 ft, fliegen 30 ft (schwebend)
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -966,8 +966,8 @@ _Medium Aberration (Linie Saath), chaotic neutral_
 
 **Rettungswürfe:** WIS +5, CHA +7  
 **Fertigkeiten:** Täuschung +7, Wahrnehmung +5  
-**Sinne:** Dunkelsicht 18 m, passiver Wahrnehmungswert 15  
-**Sprachen:** alle, Telepathie 60 m  
+**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 15  
+**Sprachen:** alle, Telepathie 200 ft  
 **CR:** 8 (3 900 EP)
 
 ### Beschreibung
@@ -981,7 +981,7 @@ Sie sind Spiegel des Selbst, geschaffen aus Erinnerung und Sehnsucht.
 ### Merkmale
 
 **Spiegel der Seele.**  
-Wenn eine Kreatur den Spiegel ansieht, muss sie einen Charismarettungswurf (DC 16) bestehen  
+Wenn eine Kreatur den Spiegel ansieht, muss sie einen CHA-Save (DC 16) bestehen  
 oder ihre Handlungen verzögern sich 1 Runde – sie reagiert nach dem Spiegel.
 
 **Flüssige Gestalt.**  
@@ -989,16 +989,13 @@ Der Spiegel kann sich durch jede Öffnung von 5 cm bewegen.
 Er ist immun gegen kritische Treffer und gegen Zustände, die aus Zerschneiden oder Durchbohren entstehen.
 
 **Echo von Saath (aufladbar 5–6).**  
-Der Spiegel spaltet sich in drei illusorische Kopien.  
-Jede Kopie greift einmal mit „Berührung des Erinnerns“ an und verursacht 7 (2D6) psychischen Schaden,  
-bevor sie zerbricht.
+Der Spiegel spaltet sich in drei illusorische Kopien. Jede Kopie greift einmal mit „Berührung des Erinnerns“ an und verursacht 7 (2D6) psychischen Schaden, bevor sie zerbricht.
 
 ### Aktionen
 
-**Berührung des Erinnerns.** _Nahkampfangriff:_ +7 auf Treffer, Reichweite 1,5 m, ein Ziel.  
+**Berührung des Erinnerns.** _Nahkampfangriff:_ +7 auf Treffer, Reichweite 5 ft, ein Ziel.  
 _Treffer:_ 18 (3D8 + 4) psychischer Schaden.  
-Das Ziel muss einen Weisheitsrettungswurf (DC 16) bestehen  
-oder verliert bis zum Ende seines nächsten Zuges die Fähigkeit zu sprechen.
+Das Ziel muss einen WIS-Save (DC 16) bestehen oder verliert bis zum Ende seines nächsten Zuges die Fähigkeit zu sprechen.
 
 ---
 ## **Dreiklang der Reinen (CR 16, Mythic)**
