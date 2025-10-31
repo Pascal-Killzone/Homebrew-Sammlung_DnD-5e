@@ -848,154 +848,212 @@ Alle Kreaturen in einem 40-ft-Kegel müssen einen CON-Save (DC 17) ablegen oder 
 > ein kurzer Schatten des wahren Akkords,  
 > den kein Sterblicher erträgt.“_
 
-## **Eirachs Erbe – Der Stumme Titan (CR 6)**
-
+## **Eirachs Erbe – Der Stumme Titan (CR 10)**
 _Large Aberration (Linie Eirach), lawful neutral_
 
-**AC:** 18 (steinartige Haut)  
-**HP:** 115 (11D10 + 55)  
+**AC:** 19 (steinartige Haut)  
+**HP:** 195 (17D10 + 102)  
 **Speed:** 20 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|20 (+5)|8 (-1)|20 (+5)|8 (-1)|12 (+1)|10 (+0)|
+|22 (+6)|8 (-1)|22 (+6)|8 (-1)|14 (+2)|10 (+0)|
 
-**Rettungswürfe:** CON +8, WIS +4  
-**Schadensresistenzen:** Wucht, Stich und Hieb (nichtmagisch)  
+**Rettungswürfe:** CON +9, WIS +5  
+**Schadensresistenzen:** Wucht, Hieb und Stich (nichtmagisch)  
 **Schadensimmunitäten:** Schall  
-**Sinne:** Dunkelsicht 60 ft, Tremorsinn 30 ft, passiver Wahrnehmungswert 11  
-**Sprachen:** versteht Threnaic, kann aber nicht sprechen  
-**CR:** 6 (2 300 EP)
+**Zustandsimmunitäten:** Taub, Umgeworfen, Verängstigt  
+**Sinne:** Dunkelsicht 60 ft, Tremorsinn 60 ft, passive Wahrnehmung 12  
+**Sprachen:** versteht Threnaic, spricht nicht  
+**CR:** 10 (5 900 EP)
 
-### Beschreibung
+### **Beschreibung**
 
-Eirachs Erben sind die Verkörperung der unbewegten Wahrheit.  
-Sie wandeln durch alte Stätten der Tiefe, wo jeder Laut zu schwer ist, um zu bestehen.  
-Ihr Körper gleicht geschichtetem Gestein, aus dessen Fugen graues Licht austritt.  
-Wenn sie stehen, hält selbst der Wind den Atem an.
+Ein wandelnder Monolith aus lebendigem Stein, in dessen Rissen graues Licht pulsiert.  
+Wenn er steht, hält die Welt den Atem an – selbst Klang scheint zu erstarren.  
+Er ist das unbewegte Zentrum des Seins: Eirachs Wille, Fleisch geworden.
 
-> _„Sie sind nicht lautlos, weil sie schweigen. Sie sind lautlos, weil sie Recht haben.“_
+> _„Nicht lautlos, weil er schweigt – lautlos, weil er Recht hat.“_
 
-### Merkmale
 
-**Aura der Stille.**  
-Alle Geräusche in einem Radius von 30 ft werden ausgelöscht.  
-Zauber mit verbalen Komponenten scheitern automatisch, wenn innerhalb der Aura gewirkt.
+### **Merkmale**
+
+**Aura der absoluten Stille.**  
+In einem Radius von 40 ft herrscht vollkommene Stille. Zauber mit verbaler Komponente scheitern automatisch. Kreaturen im Bereich können nicht sprechen oder telepathisch kommunizieren.
 
 **Unerschütterlich.**  
 Der Titan kann nicht umgeworfen oder zurückgeschleudert werden.  
 Er ignoriert schwieriges Gelände aus nichtmagischem Grund.
 
-### Aktionen
+**Gravitationseinbruch (Recharge 5-6).**  
+**Bonusaktion** - Der Titan lässt die Schwerkraft um sich herum einstürzen. Alle Kreaturen im 30-ft-Radius müssen einen STR-Save (DC 17) ablegen oder 20 (4D10) Wuchtschaden nehmen und _Restrained_ sein (bis Ende ihrer nächsten Runde).
 
-**Steinschlag.** _Nahkampfangriff:_ +8 auf Treffer, Reichweite 10 ft, ein Ziel.  
-_Treffer:_ 19 (2D10 + 5) Wuchtschaden.  
-Bei einem kritischen Treffer wird das Ziel 10 ft weggeschleudert.
+### **Aktionen**
 
-**Gravitationswelle (aufladbar 5–6).**  
-Der Titan stampft auf den Boden. Alle Kreaturen in einem 20-ft-Radius müssen einen 
-STR-Save (DC 15) ablegen oder erleiden 18 (4D8) Wuchtschaden und werden zu Boden geworfen.
+**Multiattack.** Zwei _Steinschläge._
+
+**Steinschlag.** _Nahkampfangriff:_ +10 auf Treffer, Reichweite 10 ft, ein Ziel.  
+_Treffer:_ 23 (3D10 + 6) Wuchtschaden. Kritische Treffer werfen das Ziel 10 ft zurück.
+
+**Erdbrecher (1/Tag).**  
+Der Titan schlägt auf den Boden. Alle Kreaturen im 40-ft-Radius müssen einen CON-Save (DC 17) bestehen oder 30 (6D8) Wuchtschaden erleiden und _prone_ werden. Der Boden wird zu schwierigem Terrain.
+
+### **Legendäre Aktionen**
+
+Der Titan kann bis zu 3 legendäre Aktionen ausführen (eine pro Runde am Ende anderer Züge):
+
+- **Steinstoß (1 Aktion).** Ein Ziel innerhalb 10 ft muss einen DEX-Save (DC 17) bestehen oder 10 (2D8 + 6) Wuchtschaden erleiden.
+    
+- **Bodenwelle (2 Aktionen).** Alle Kreaturen im 15-ft-Radius müssen einen STR-Save (DC 17) bestehen oder _lying_ und nehmen 13 (3D8) Wuchtschaden.
+    
+- **Verstummen (3 Aktionen).** Die Aura der Stille verstärkt sich 1 Runde lang auf 60 ft; Zauber innerhalb dieser Reichweite scheitern automatisch.
+
 
 ---
 
-## **Kharox’ Linie – Der Rhythmische Wächter (CR 7)**
-
+## **Kharox’ Linie – Der Rhythmische Wächter (CR 10)**
 _Medium Aberration (Linie Kharox), lawful neutral_
 
-**AC:** 18 (Resonanzrüstung)  
-**HP:** 125 (15D8 + 60)  
-**Speed:** 30 ft
+**AC:** 19 (Resonanzrüstung)  
+**HP:** 168 (19D8 + 95)  
+**Speed:** 35 ft
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|16 (+3)|14 (+2)|18 (+4)|14 (+2)|14 (+2)|16 (+3)|
+|18 (+4)|14 (+2)|20 (+5)|16 (+3)|16 (+3)|18 (+4)|
 
-**Rettungswürfe:** WIS +5, CHA +6  
-**Fertigkeiten:** Performance +6, Arkane Kunde +5  
-**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 14  
-**Sprachen:** Threnaic, Telepathie 100 ft 
-**CR:** 7 (2 900 EP)
+**Rettungswürfe:** WIS +7, CHA +8  
+**Fertigkeiten:** Performance +8, Arcana +6  
+**Sinne:** Dunkelsicht 60 ft, passive Wahrnehmung 15  
+**Sprachen:** Threnaic, Telepathie 120 ft  
+**CR:** 10 (5 900 EP)
 
-### Beschreibung
+### **Beschreibung**
 
-Die Wächter Kharox’ sind lebende Metronome aus Licht und Chitin.  
-Ihr Herzschlag ist ein Werkzeug, ihre Bewegungen präzise wie der Puls der Tiefe.  
-Wenn sie marschieren, folgt die Welt ihrem Takt.  
-Sie erscheinen oft, wo Ordnung zu zerbrechen droht.
+Ein Krieger aus Licht und Ordnung, dessen Herz wie ein Metronom schlägt.  
+Sein Takt lässt die Luft beben, und jede Bewegung der Welt passt sich ihm an.  
+Wenn er kämpft, tanzt er nicht – er dirigiert.
 
-> _„Kharox ist nicht Befehl – er ist die Wiederholung, die bleibt.“_
+> _„Was sich wiederholt, besteht.“_
 
-### Merkmale
+### **Merkmale**
 
 **Aura des Takts.**  
-Kreaturen im Umkreis von 30 ft müssen zu Beginn ihres Zuges  
-einen WIS-Save (DC 15) bestehen oder sie wiederholen ihre letzte Aktion.
-
-**Harmonischer Reflex (Recharge 4-6)**  
-Wenn der Wächter getroffen wird, kann er als Reaktion seinen Körper justieren  
-und erhält +2 AC bis zum Beginn seines nächsten Zuges.
+Kreaturen im 30-ft-Radius müssen zu Beginn ihres Zuges einen WIS-Save (DC 17) ablegen oder ihre letzte Aktion wiederholen (gleiche Ziele, wenn möglich). Bei Fehlschlag nehmen sie zusätzlich 4 (1D6) psychischen Schaden.
 
 **Synchronisation.**  
-Einmal pro Runde kann er als Bonusaktion bis zu zwei Verbündete innerhalb von 9 m „angleichen“:  
-Diese erhalten bis zum Ende ihres nächsten Zuges Vorteil auf Angriffs-,  
-aber Nachteil auf Rettungswürfe.
+**Bonusaktion** – bis zu 3 Verbündete innerhalb 30 ft werden „angeglichen“: Vorteil auf Angriffe, aber Nachteil auf Rettungswürfe bis nächster Runde.
 
-### Aktionen
+**Taktischer Reflex (Recharge 4-6).**  
+**Reaktion** - Wenn der Wächter getroffen wird, erhält er +2 AC und Vorteil auf den nächsten Angriff bis zum Beginn seines nächsten Zuges.
 
-**Schlag der Ordnung.** _Nahkampfangriff:_ +6 auf Treffer, Reichweite 1,5 m, ein Ziel.  
-_Treffer:_ 15 (2D8 + 3) Schall- oder psychischer Schaden.
+### **Aktionen**
 
-**Welle der Wiederholung (aufladbar 5–6).**  
-Der Wächter stößt einen pulsierenden Ton aus.  
-Alle Kreaturen in einem 6-m-Radius müssen einen Weisheitsrettungswurf (DC 15) bestehen  
-oder sie wiederholen sofort ihre letzte Aktion (zufälliges Ziel, falls schädlich).
+**Multiattack.** Zwei _Schläge der Ordnung._
+
+**Schlag der Ordnung.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 5 ft, ein Ziel.  
+_Treffer:_ 18 (3D8 + 4) psychischer oder Schallschaden.
+
+**Zeremonielle Schlagfolge (Recharge 5-6).**  
+Drei pulsierende Wellen rollen vom Wächter aus (je 10 ft Radius).  
+Kreaturen im Bereich müssen einen CON-Save (DC 17) bestehen oder 14 (4D6) Schallschaden nehmen und _stunned_ sein (bis Ende der nächsten Runde).
+
+### **Legendäre Aktionen**
+
+- **Taktischer Impuls (1 Aktion).** Ein Verbündeter innerhalb 30 ft darf sich bis zu 15 ft bewegen ohne Gelegenheitsangriffe.
+    
+- **Doppelschlag (2 Aktionen).** Ein weiterer _Schlag der Ordnung_.
+    
+- **Resonanz-Reset (3 Aktionen).** Alle Kreaturen innerhalb 20 ft müssen einen WIS-Save (DC 17) ablegen oder ihre nächste Reaktion verlieren und _Nachteil auf Initiative-Würfe_ erhalten (1 Minute).
+
 
 ---
 
-## **Saaths Linie – Der Flüsternde Spiegel (CR 8)**
-
+## **Saaths Linie – Der Flüsternde Spiegel (CR 10)**
 _Medium Aberration (Linie Saath), chaotic neutral_
 
-**AC:** 15 (flüssiger Körper)  
-**HP:** 136 (16D8 + 64)  
+**AC:** 17 (flüssige Gestalt)  
+**HP:** 172 (18D8 + 100)  
 **Speed:** 30 ft, fliegen 30 ft (schwebend)
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|10 (+0)|16 (+3)|18 (+4)|16 (+3)|14 (+2)|18 (+4)|
+|10 (+0)|18 (+4)|20 (+5)|16 (+3)|14 (+2)|20 (+5)|
 
-**Rettungswürfe:** WIS +5, CHA +7  
-**Fertigkeiten:** Täuschung +7, Wahrnehmung +5  
-**Sinne:** Dunkelsicht 60 ft, passiver Wahrnehmungswert 15  
+**Rettungswürfe:** WIS +6, CHA +9  
+**Fertigkeiten:** Täuschung +9, Wahrnehmung +6, Arcana +6  
+**Schadensresistenzen:** Psychisch, Schall; Wucht (nichtmagisch)  
+**Zustandsimmunitäten:** Kritische Treffer, Prone, Grappled  
+**Sinne:** Dunkelsicht 120 ft, passive Wahrnehmung 16  
 **Sprachen:** alle, Telepathie 200 ft  
-**CR:** 8 (3 900 EP)
+**CR:** 10 (5 900 EP)
 
-### Beschreibung
 
-Saaths Erben bestehen aus flüssigem Glas, in dem sich die Welt verspätet spiegelt.  
-Wer in ihre Nähe tritt, hört seine eigenen Gedanken – leicht versetzt.  
-Sie sind Spiegel des Selbst, geschaffen aus Erinnerung und Sehnsucht.
+### **Beschreibung**
 
-> _„Sie flüstern nicht zu dir – sie flüstern dich.“_
+Ein Körper aus flüssigem Glas, in dem Gesichter langsam verschwimmen.  
+Jede Bewegung ist eine Erinnerung, die wieder vergeht.  
+Saaths Linie kämpft nicht, um zu siegen – sie will dich **erinnern lassen, dass du vergessen wirst.**
 
-### Merkmale
+> _„Ich nehme nichts. Ich lasse nur zurück, was du nie warst.“_
+
+
+### **Merkmale**
 
 **Spiegel der Seele.**  
-Wenn eine Kreatur den Spiegel ansieht, muss sie einen CHA-Save (DC 16) bestehen  
-oder ihre Handlungen verzögern sich 1 Runde – sie reagiert nach dem Spiegel.
+Kreaturen, die den Spiegel am Beginn ihres Zuges innerhalb von 30 ft wahrnehmen,  
+müssen einen **WIS-Save (DC 17)** ablegen.  
+Bei Misserfolg erhalten sie **1 Stapel _Vergessene Erinnerung_** (siehe unten).  
+Dieser Effekt tritt nur einmal pro Runde auf.  
+
 
 **Flüssige Gestalt.**  
-Der Spiegel kann sich durch jede Öffnung von 5 cm bewegen.  
-Er ist immun gegen kritische Treffer und gegen Zustände, die aus Zerschneiden oder Durchbohren entstehen.
+Kann sich durch Öffnungen ab 5 cm bewegen; immun gegen kritische Treffer und physische Einschränkungen.
 
-**Echo von Saath (aufladbar 5–6).**  
-Der Spiegel spaltet sich in drei illusorische Kopien. Jede Kopie greift einmal mit „Berührung des Erinnerns“ an und verursacht 7 (2D6) psychischen Schaden, bevor sie zerbricht.
+**Echo der Seele (Recharge 5–6).**  
+Projiziert bis zu 2 Abbilder (20 HP, AC 14).  
+Solange mindestens eines existiert, erleidet der Spiegel halben Schaden durch Fernangriffe.
 
-### Aktionen
 
-**Berührung des Erinnerns.** _Nahkampfangriff:_ +7 auf Treffer, Reichweite 5 ft, ein Ziel.  
-_Treffer:_ 18 (3D8 + 4) psychischer Schaden.  
-Das Ziel muss einen WIS-Save (DC 16) bestehen oder verliert bis zum Ende seines nächsten Zuges die Fähigkeit zu sprechen.
+### **Aktionen**
+
+**Multiattack.** Zwei _Berührungen des Erinnerns._
+
+**Berührung des Erinnerns.**  
+_Nahkampfangriff:_ +9 auf Treffer, Reichweite 5 ft, ein Ziel.  
+_Treffer:_ 22 (4D8 + 4) psychischer Schaden, und das Ziel erhält **1 Stapel _Vergessene Erinnerung._**
+
+Erreicht eine Kreatur 5 Stapel, muss sie einen **WIS-Save (DC 17)** bestehen:
+
+- **Erfolg:** Die Stapel verfallen – das Ziel zittert, erkennt kurz sein eigenes Spiegelbild wieder.
+    
+- **Fehlschlag:** Die Kreatur **verliert eine bedeutsame Erinnerung** – entschieden vom DM oder gemeinsam mit dem Spieler.
+    
+    - Beispiele: der Name eines Gefährten, der eigene Glaube, der Klang der eigenen Stimme.
+        
+    - Bis sie die Erinnerung zurückerlangt (_Greater Restoration_ oder erzählerisch),  
+        erleidet sie **–1 auf alle WIS-basierten Würfe** und hat in Träumen kein Spiegelbild.
+        
+    - Alle Stapel verfallen nach einer langen Rast.
+        
+
+**Symphonie der Erinnerung (1/Tag).**  
+Ein 60-ft-Kegel aus flackernden Spiegelbildern.  
+Kreaturen im Bereich müssen einen WIS-Save (DC 17) ablegen oder  
+**2 Stapel _Vergessene Erinnerung_** erhalten (kein Schaden).  
+Bei Erfolg: keine Wirkung.  
+Der Raum selbst scheint kurz zu vergessen, dass er existiert.
+
+### **Legendäre Aktionen**
+
+- **Zerfließen (1 Aktion).** Wird für 1 Runde _intangible_ (kann sich durch Kreaturen bewegen, keine AoO, halber Schaden).
+    
+- **Erinnerungsbruch (2 Aktionen).** Eine Kreatur im 30-ft-Radius muss WIS-Save (DC 17) ablegen oder glaubt 1 Runde lang, sie kämpfe an der Seite des Spiegels.
+    
+- **Nachklang (3 Aktionen).** Der Spiegel flüstert eine verdrängte Erinnerung.  
+    Das Ziel erhält 1 Stapel _Vergessene Erinnerung._
+    
+
 
 ---
 ## **Dreiklang der Reinen (CR 16, Mythic)**
@@ -1073,4 +1131,12 @@ Der Dreiklang kann 3 legendäre Aktionen pro Runde nutzen (je 1 pro Phase am End
 - **Echo des Akkords (2 Aktionen):** Der Dreiklang projiziert eine zweite Gestalt aus Licht – alle Angriffe gegen ihn werden 1 Runde lang mit Nachteil gewürfelt.
     
 - **Unisono (3 Aktionen):** Alle Kreaturen im 100-ft-Radius müssen einen WIS-Save (DC 18) machen oder sind 1 Runde handlungsunfähig, verloren im Gleichklang.
+
+
+---
+
+
+
+---
+
 
