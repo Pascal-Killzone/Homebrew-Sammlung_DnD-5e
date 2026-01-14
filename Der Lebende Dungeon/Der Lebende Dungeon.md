@@ -1,6 +1,6 @@
 ## Raum 1 – Eingang der Gruft
 
-### Read-Aloud
+### Narrative
 > _Die Luft ist kühl und feucht, schwer von altem Stein und abgestandener Zeit. Es riecht nicht nach Verfall, nicht nach Tod – eher nach nassem Gestein und etwas Metallischem, das man nicht sofort einordnen kann. Der Boden unter euren Füßen fühlt sich fest an, gibt aber minimal nach, als läge eine dünne Schicht Feuchtigkeit auf dem Stein._
 
 > _Die Wände wirken solide, doch das Licht gleitet seltsam über sie hinweg, als würden sie es nicht ganz zurückwerfen. Alles ist still. Nicht friedlich – einfach still. Ein Ort, der seit langer Zeit nichts mehr gehört hat._
@@ -13,13 +13,16 @@
 - Wände sind **nicht ganz gerade**
 - Kein Staub auf dem Boden – aber **das fällt kaum auf**
 
-❗ **Wichtig:**  
-Keine Checks erzwingen. Nur beantworten, **wenn Spieler fragen**.
+### Optionaler Raum: Nischen & Sarkophage
+Wenn die Spieler aktive den Raum erkunden dann -> **DC13 Perception Check** 
+- **Erfolg:**
+	- Sie finden den optionalen Raum 2
+	
 
 ---
-## Raum 2 – Nischen & Sarkophage
+## Raum 2 – Nischen & Sarkophage (Optional)
 
-### Read-Aloud
+### Narrative
 > _Der Raum öffnet sich zu beiden Seiten in flache Nischen. In ihnen ruhen steinerne Sarkophage, schlicht gearbeitet, ihre Deckel schwer und unbewegt. Die Luft ist kühler als im Gang davor, aber zugleich fühlt sie sich feuchter an, als würde sich Kondenswasser langsam an Haut und Kleidung legen._
 
 > _Der Geruch ist schwer zu beschreiben – nicht faulig, nicht nach Tod, eher mineralisch, mit einem schwachen, säuerlichen Unterton, der sich erst bemerkbar macht, wenn man tiefer einatmet. Auf der Zunge bleibt ein leichter, metallischer Geschmack zurück._
@@ -29,12 +32,8 @@ Keine Checks erzwingen. Nur beantworten, **wenn Spieler fragen**.
 > _Alles wirkt geordnet. Ruhend. Als hätte dieser Raum seit sehr langer Zeit nichts anderes getan, als still dazuliegen und zu warten._
 
 **Wenn die Spieler die Wand untersuchen:**
-> Der Stein ist glatt, stellenweise überraschend warm, und wenn man mit der Hand darüberfährt, wirkt er nicht ganz so hart, wie man es von massivem Fels erwarten würde._
+> _Der Stein ist glatt, stellenweise überraschend warm, und wenn man mit der Hand darüberfährt, wirkt er nicht ganz so hart, wie man es von massivem Fels erwarten würde._
 
-### Inhalt
-- 3–4 Sarkophage
-- Zerfallene Grabbeigaben
-- Keine Gegner
 
 ### Hinweise (sehr subtil)
 - Stein fühlt sich:
@@ -43,65 +42,47 @@ Keine Checks erzwingen. Nur beantworten, **wenn Spieler fragen**.
 - Bei genauem Hinsehen:
     - „Der Stein wirkt eher… _geformt_ als behauen.“
 
-➡️ **Jede Erklärung bleibt mundane**:
-- schlechte Bauweise
-- Feuchtigkeit
-- Setzungen
+### Loot
+Bei genauerer Untersuchung der Sarkophage erkennen Sie das sich einer Öffnen lässt. 
+-> **DC12 Strength Check**
+- **Erfolg:**
+	- Schild +1 oder Trank der Heilung
 
 ---
 ## Raum 3 – Der Gang der Namen
 
-### Read-Aloud
->Der Gang verengt sich und wird gleichmäßiger gearbeitet als die übrigen Räume. 
+### Narrative
+>_Der Gang verengt sich, kaum breit genug für 2 Personen, und wirkt gleichmäßiger gearbeitet als die vorherigen Räume._
 
-> _Der Geruch verändert sich kaum, aber die Luft wirkt dichter, schwerer zu atmen, als hätte der Raum selbst wenig Interesse daran, Geräusche oder Bewegung weiterzutragen. Eure Stimmen klingen dumpfer, näher an euch, als würden sie vom Stein verschluckt.
+> _Der Geruch verändert sich kaum, aber die Luft wirkt dichter, schwerer zu atmen, als hätte der Raum selbst wenig Interesse daran, Geräusche oder Bewegung weiterzutragen. Eure Stimmen klingen dumpfer, näher an euch, als würden sie vom Stein verschluckt._
 > 
-> Zu beiden Seiten ziehen sich in den Stein gemeißelte Namen – Dutzende, vielleicht Hunderte. Manche tief eingeschnitten, andere kaum noch lesbar. Das Licht der Fackeln tanzt über die Buchstaben, doch der Gang wirkt… still. Unnatürlich still._
+> _Zu beiden Seiten ziehen sich in den Stein gemeißelte Namen – Dutzende, vielleicht Hunderte. Manche tief eingeschnitten, andere kaum noch lesbar. Das Licht der Fackeln tanzt über die Buchstaben, doch der Gang wirkt… still. Unnatürlich still._
 
 **Nur wenn ein Spieler die Wand untersucht:**
-> Der Stein um sie herum wirkt glatter als erwartet, fast poliert durch Berührung oder Zeit. Wenn ihr nah herantretet, fühlt sich die Wand nicht kalt an – eher lauwarm, gerade genug, um es zu bemerken._
+> _Der Stein um sie herum wirkt glatter als erwartet, fast poliert durch Berührung oder Zeit. Wenn ihr nah herantretet, fühlt sich die Wand nicht kalt an – eher lauwarm, gerade genug, um es zu bemerken._
 
-### Unheimlicher, aber harmloser Effekt
-- Geräusche klingen **gedämpft**
-- Stimmen hallen **nicht**
-
-Wenn jemand fragt:
-> „Der Stein scheint den Schall zu schlucken.“
-
-## Atmosphäre & Sinneseindrücke (passiv)
-Diese Dinge sagst du **nur**, wenn Spieler Zeit hier verbringen oder aufmerksam sind:
-- Geräusche:
-    > _„Eure Schritte klingen seltsam dumpf. Das Echo bleibt aus.“_
-- Luft:
-    > _„Die Luft wirkt abgestanden, aber nicht staubig.“_
-- Licht:
-    > _„Das Licht scheint vom Stein geschluckt zu werden, statt reflektiert.“_
-
-❗ Wichtig:  
-**Nie sagen**, dass es lebendig wirkt.  
-Immer nur: _ungewöhnlich_, _alt_, _schlecht gebaut_.
-
-## Wenn Spieler die Namen untersuchen
-### Allgemeine Beschreibung
+### Wenn Spieler die Namen untersuchen
+#### Allgemeine Beschreibung
 > _Die Namen sind in unterschiedlichen Stilen gemeißelt. Manche wirken hastig, andere sorgfältig. Es gibt keine Jahreszahlen, keine Titel – nur Namen._
 
 Wenn jemand fragt, **welche Namen**:
-- Menschlich, Zwergisch, Elfisch, Auch fremde, nicht ganz bekannte Namensformen
+- Menschlich; Zwergisch; Elfisch; Auch fremde, nicht ganz bekannte Namensformen
 
 ## Optional: Leichter Foreshadowing-Satz (nur EINMAL)
 > _„Seltsam – keiner der Namen ist durchgestrichen.“_
 
-Nicht erklären. Nicht kommentieren. Weitergehen.
-
 ---
 ## Raum 4 – Die Schatzkammer
 
-### Read-Aloud
->  _Der Raum wirkt vertrauter als alles zuvor. Die Luft ist etwas trockener, der Geruch weniger schwer. Stein, Rost, altes Holz. Dinge, die man kennt. Dinge, die Sinn ergeben._
+### Narrative
+>  _Der Raum wirkt vertrauter als alles zuvor. Die Luft ist etwas trockener, der Geruch weniger schwer. Stein, Rost, altes Holz. Dinge, die man kennt._
 
 > _Die Truhe in der Mitte zieht sofort die Aufmerksamkeit auf sich. Sie wirkt real, greifbar, eindeutig. Ein Stück Normalität inmitten der Gruft. Der Boden hier fühlt sich etwas klebriger an, als hätte sich Feuchtigkeit gesammelt, doch nichts deutet auf eine Gefahr hin._
 
 > _Dieser Raum fühlt sich… richtig an. Endlich._
+
+**Beim Untersuchen des Raumes:**
+> _Ihr bemerkt eine gewölbte Holztür in der Ecke der Schatzkammer. Ihr seid euch jedoch nicht sicher ob Sie beim betreten des Raumes bereits da war. Es ist kein Gefühl von Gefahr oder Bedrohung das von der Tür ausgeht sondern eher ein Unbehagen._
 
 ### Der Kampf
 **Klassische Truhen-Mimic**, RAW.
@@ -117,20 +98,105 @@ Sag Dinge wie:
 - „Nur der tote Körper der Kreatur.“
 
 ---
-## Raum 5 – Die stillen Räume
+## Raum 5 – Die stillen Räume (Optional)
 
-### Read-Aloud
-> _Die Luft ist jetzt merklich wärmer, ohne dass ihr eine Quelle dafür erkennen könnt. Der Geruch bleibt gleich, doch er scheint näher, präsenter, als würdet ihr ihn auf der Zunge spüren – ein leicht säuerlicher Beigeschmack, kaum wahrnehmbar._
+### _Erster Raum – beim Betreten_
 
-> _Die Oberflächen wirken abgenutzt, nicht durch Zeit allein, sondern durch etwas Unregelmäßiges. Der Stein ist glatt an Stellen, wo er rau sein sollte. Ecken sind weich. Kanten nicht ganz scharf._
+> _Der Raum ist rechteckig, überschaubar. Ein Tisch steht nahe der Mitte, zwei Stühle leicht versetzt daneben. An der Wand ein niedriger Schrank. Nichts Auffälliges. Nichts Bedrohliches._
 
-> _Es ist ruhig, aber nicht leer. Ein Gefühl, als wäre der Raum voll – nicht mit Dingen, sondern mit Präsenz._
+> _Die Luft ist warm, spürbar wärmer als zuvor, und trägt einen leichten, säuerlichen Geruch, der sich kaum festmachen lässt. Er liegt nicht in der Nase – eher auf der Zunge, als Nachgeschmack._
+
+> _Die Wände wirken glatt, stellenweise zu glatt. Kanten sind nicht ganz scharf, Ecken leicht abgerundet. Der Boden fühlt sich fest an, aber nicht kalt. Fast… angepasst._
+
+> _Der Raum ist still._  
+> _Nicht leer._  
+> _Still._
+
+### _Zweiter Raum – nach dem Verlassen des ersten_
+
+> _Der nächste Raum sieht gleich aus._  
+> _Gleiche Maße. Gleiche Wände. Gleicher Tisch. Gleicher Schrank. Gleiche Stühle._
+
+> _Oder zumindest glaubt ihr das._
+
+> _Die Luft ist identisch warm. Der Geruch derselbe, kaum wahrnehmbar. Das Licht verhält sich gleich. Nichts springt ins Auge._
+
+> _Und doch…_  
+> _Vielleicht steht der Tisch minimal näher an der Wand._  
+> _Vielleicht ist einer der Stühle leicht gedreht._  
+> _Vielleicht war es aber auch im ersten Raum schon so._
+
+> _Der Gedanke lässt sich nicht festhalten._  
+> _Der Raum gibt euch keinen Widerspruch._
+
+### _Dritter Raum – nach dem Verlassen des zweiten_
+
+> _Auch dieser Raum ist derselbe._  
+> _Gleiche Größe. Gleiche Anordnung. Gleiche Möbel._
+
+> _Ihr seid euch sicher, das schon gesehen zu haben._  
+> _Ihr seid euch nicht sicher, ob es genau so war._
+
+> _Der Schrank wirkt jetzt ein wenig näher an der Ecke. Oder weiter weg. Einer der Stühle steht leicht schräg – aber stand er das nicht vorher auch?_
+
+> _Der Boden fühlt sich hier einen Hauch nachgiebiger an. Kaum messbar. Vielleicht Einbildung. Vielleicht Müdigkeit._
+
+> _Die Wärme ist konstant._  
+> _Die Stille ebenfalls._
+
+### _Allgemeine Wahrnehmung während der Stillen Räume_
+
+> _Je länger ihr euch hier aufhaltet, desto schwerer fällt es, euch an Details zu erinnern._  
+> _Nicht an große Dinge._  
+> _Nur an Kleinigkeiten._
+
+> _Ihr wisst, dass ihr einen Tisch gesehen habt._  
+> _Aber nicht genau, wo er stand._
+
+> _Ihr wisst, dass ihr einen Raum bereits betreten habt._  
+> _Aber nicht, ob es dieser war._
+
+> _Nichts greift euch an._  
+> _Nichts bewegt sich sichtbar._
+
+> _Und doch habt ihr das Gefühl, dass diese Räume nicht warten._  
+> _Sondern nachjustieren._
+
+### _Falls Spieler messen, markieren oder absichtlich vergleichen_
+Diese Narrative nutzt du **nur**, wenn Spieler aktiv versuchen, die Räume zu „beweisen“.
+#### _Beim Messen_
+> _Die Abstände stimmen._  
+> _Der Raum ist exakt so groß wie der vorherige._  
+> _Wand zu Wand. Ecke zu Ecke._
+
+> _Aber je öfter ihr nachmesst, desto weniger sicher seid ihr, ob ihr euch an die Zahlen vom letzten Raum korrekt erinnert._
+
+> _Sie wirken richtig.
+> Und doch nicht beruhigend._
+#### _Beim Markieren (Kreide, Kerben, Gegenstände)_
+> _Die Markierung ist da._  
+> _Genau dort, wo ihr sie angebracht habt._
+
+> _Als ihr den nächsten Raum betretet, seht ihr dieselbe Markierung._  
+> _An derselben Stelle._  
+> _Mit derselben Tiefe._
+
+> _Ihr wisst, dass ihr sie eben erst gemacht habt.  
+> Und ihr wisst nicht mehr sicher, ob es dieselbe Wand ist._
+
+### _Beim Verlassen der Stillen Räume_
+> _Als ihr den letzten Raum hinter euch lasst, bleibt ein unangenehmes Gefühl zurück._  
+> _Nicht von Gefahr._  
+> _Sondern von Unsicherheit._
+
+> _Als hättet ihr etwas übersehen._  
+> _Oder als hätte etwas euch gesehen._
 
 
 ---
 
 ## Raum 6 – Der Wohnraum
-### Read-Aloud
+### Narrative
 > _Der Raum wirkt beinahe… bewohnt. Ein schwerer Tisch steht leicht schräg in der Mitte, daneben ein niedriger Schrank. Auf dem Boden liegt ein metallener Kelch, umgestoßen, als hätte ihn jemand hastig fallen lassen. Alles ist mit einer feinen Schicht Feuchtigkeit überzogen, die das Licht matt reflektiert._
 
 > _Die Luft ist wärmer als zuvor, spürbar, aber nicht unangenehm. Sie riecht nach altem Holz, Metall – und etwas Süßlichem, das nicht hierher gehört. Der Boden fühlt sich klebrig an, deutlich mehr als in den vorherigen Räumen, als würde er an den Sohlen ziehen._
@@ -163,33 +229,28 @@ Wenn die Party den Raum verlassen will ohne die Tür zu Raum 7 zu Checken 1D8 Wu
 
 ---
 ## Raum 7 – Der atmende Gang
-### Read-Aloud
-> _Der Gang dahinter ist schmaler als erwartet. Die Luft ist warm, feucht, schwer. Jeder Atemzug fühlt sich dichter an, als würde er mehr Widerstand leisten. Es riecht säuerlich, metallisch, fast wie verdorbene Münzen oder altes Blut, stark verdünnt._
+### Narrative
+> _Der Gang dahinter ist deutlich schmaler als erwartet. Die Luft ist warm, feucht, schwer. Jeder Atemzug fühlt sich dichter an, als würde er mehr Widerstand leisten. Es riecht säuerlich, metallisch, fast wie eine Mischung aus zersetzen Münzen und altem Blut, nur stark verdünnt._
 
 > _Der Boden unter euren Füßen gibt spürbar nach. Nicht rutschig – nachgiebig. Als würde er das Gewicht aufnehmen, speichern, weitergeben. Mit jedem Schritt scheint sich der Untergrund minimal zu bewegen._
 
-**Bei Untersuchung der Wände:**
-> _Die Wände sind glatt, zu glatt für Stein. Sie verlaufen nicht ganz gerade, sondern in sanften, kaum wahrnehmbaren Wellen. Wenn jemand die Hand anlegt, fühlt sich der Stein warm an. Lebendig warm._
-
 > _Geräusche verhalten sich hier seltsam. Schritte sind dumpf, Stimmen werden geschluckt, als würde der Gang sie nicht weitertragen wollen._
 
-Dann, ganz leise:
+**Bei Untersuchung der Wände:**
+> _Die Wände sind glatt, zu glatt für Stein. Sie verlaufen nicht ganz gerade, sondern in sanften, kaum wahrnehmbaren Wellen. Wenn man die Hand anlegt, fühlt sich der Stein warm an. Zu warm für kalten Stein. Die Wärme ist gleichmäßig, tief und bleibt bestehen egal wie lang die Hand dort liegt._
 
+Dann, ganz leise:
 > _Ein langsames, tiefes Pochen.  
 > Nicht laut genug, um eindeutig zu sein.  
 > Regelmäßig genug, um es nicht zu ignorieren._
 
 Am Ende des Ganges:
-
 > _Die Wände scheinen näher zu kommen, ohne sich sichtbar bewegt zu haben. Der Gang fühlt sich enger an als beim Betreten._
-
-> _Nicht bedrohlich._  
-> _Nur aufmerksam._
 
 ---
 ## Raum 8 – Die Goldkammer
 
-### Read-Aloud
+### Narrative
 _Beim Betreten_
 > _Der Raum öffnet sich weit und unerwartet. Gold liegt überall. Münzen, Schmuck, Barren, lose auf dem Boden verteilt, in flachen Haufen, die das Licht gierig zurückwerfen. Es riecht nach Metall, stark und klar, beinahe berauschend. Der Traum eines jeden Abenteurers._
 
@@ -201,7 +262,7 @@ Wenn jemand das Gold berührt oder aufhebt:
 ---
 ## Das Erwachen
 
-### Read-Aloud
+### Narrative
 > _Ohne Vorwarnung gibt der Boden nach. Nicht ruckartig – entschlossen. Münzen sinken lautlos ein, Schmuck kippt, Barren verschwinden, als wären sie nie fest gewesen. In demselben Moment zieht es euch nach unten. Füße versinken. Halt geht verloren._
 
 > _Die Luft verändert sich schlagartig._  
@@ -257,3 +318,24 @@ Wenn jemand das Gold berührt oder aufhebt:
 > _Der Kampf beginnt._
 
 ---
+ 
+## Die Flucht
+
+### Die winzige Veränderung
+
+> _Als ihr später, weit nach dem Kampf, an die stillen Räume zurückdenkt, fällt euch etwas auf._  
+> _Nicht sofort. Nicht allen zugleich._
+
+> _In jedem der drei Räume lag ein dünner Film aus Feuchtigkeit auf dem Boden._  
+> _Nicht genug, um Spuren zu hinterlassen._  
+> _Nicht genug, um aufzufallen._
+
+> _Aber genug, um sie aufzunehmen._
+
+> _Keiner von euch erinnert sich daran, jemals eigene Fußabdrücke gesehen zu haben._  
+> _Nicht beim ersten Raum._  
+> _Nicht beim zweiten._  
+> _Nicht beim dritten._
+
+> _Die Räume haben euch gespürt._  
+> _Aber sie haben euch nie abgebildet._

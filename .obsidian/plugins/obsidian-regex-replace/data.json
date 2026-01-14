@@ -1,7 +1,7 @@
 {
-  "findText": "\\bSG\\b",
-  "replaceText": "DC",
-  "useRegEx": true,
+  "findText": "Read-Aloud",
+  "replaceText": "Narrative",
+  "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": false,
