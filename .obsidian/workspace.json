@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Monster.md",
+                "file": "Der Lebende Dungeon/Homebrew Monster.md",
                 "mode": "source",
                 "source": false
               },
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Lebende Dungeon.md",
+                "file": "Der Lebende Dungeon/Der Lebende Dungeon.md",
                 "mode": "source",
                 "source": false
               },
@@ -143,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,10 +239,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7587a5f486cf2dc3",
+  "active": "1dd9946634a0f9f0",
   "lastOpenFiles": [
-    "Der Lebende Dungeon.md",
-    "Homebrew Monster.md",
+    "Der Lebende Dungeon/Der Lebende Dungeon.md",
+    "Der Lebende Dungeon/Homebrew Monster.md",
     "Das Lied der Tiefe/Das Lied der Tiefe.md",
     "Der Lebende Dungeon",
     "Das Lied der Tiefe/Das Buch der Tiefe.md",
