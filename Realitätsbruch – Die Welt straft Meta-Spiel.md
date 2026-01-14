@@ -1,3 +1,4 @@
+# Realitätsbruch – Die Welt straft Meta-Spiel
 ## Grundprinzip
 
 - Es existiert eine unsichtbare **Kraft** (Gottheit, Fluch, „Meta-Gott“), die es hasst, wenn „die Realität hinterfragt“ wird.
