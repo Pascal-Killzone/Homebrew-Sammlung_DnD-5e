@@ -5,9 +5,6 @@
 - Du führst einen Realitätsbruch-Zähler (RB-Zähler) pro Session, der bei 0 startet und am Ende der Session wieder auf 0 gesetzt wird.​
     
 - Immer wenn du findest, dass jemand metagamed oder stark OOC (Out Of Charakter) ist, erhöhst du den Zähler um 1 (oder mehr bei besonders krassen Fällen).thedigitaldm+1​
-    
-
-Optional: Sag atmosphärisch an, wenn der Zähler steigt („Für einen Moment flackert die Welt, als sei sie nur gemalt.“).
 
 ## Auslöser-Beispiele
 
