@@ -29,7 +29,7 @@ Ihre Flügel schlagen im Rhythmus der Stille.
 ### Merkmale
 
 **Empfindlich gegen Schall.**
-Wenn die Motte Schallschaden erleidet, muss sie einen CON-Save (DC 10) bestehen oder stirbt sofort.
+Wenn die Motte Schallschaden erleidet, muss sie einen **CON-Save (DC 10)** bestehen oder stirbt sofort.
 
 **Schwarminstinkt.**
 Wenn sich mindestens drei Resonanzmotten innerhalb 10ft. befinden, erhalten sie +2 AC.
@@ -38,7 +38,7 @@ Wenn sich mindestens drei Resonanzmotten innerhalb 10ft. befinden, erhalten sie 
 
 **Schallstaub.** *Fernkampfangriff:* +3 auf Treffer, Reichweite 10ft., ein Ziel.
 *Treffer:* 3 (1D6) psychischer Schaden.
-Das Ziel muss einen WIS-Save (DC 10) bestehen oder 1 Runde lang taub sein.
+Das Ziel muss einen **WIS-Save (DC 10)** bestehen oder 1 Runde lang taub sein.
 
 ---
 ## **Nachklang (CR ¼)**
@@ -118,7 +118,7 @@ Wenn er Schallschaden erleidet, kann er sich als Reaktion bis zu 15 ft wegbewege
 
 **Nachhallstoß (aufladbar 6).**
 Der Kriecher stößt einen kurzen Knacklaut aus.
-Alle Kreaturen in 10 ft müssen einen WIS-Save (DC 12) bestehen oder 1 Runde lang benommen sein.
+Alle Kreaturen in 10 ft müssen einen **WIS-Save (DC 12)** bestehen oder 1 Runde lang benommen sein.
 
 ---
 ## **Akolyt (CR 1)**
@@ -144,12 +144,11 @@ Sie sind keine Magier, sondern _Kanalverstärker_: ihre Stimmen sind Werkzeuge d
 
 ### Merkmale
 **Aura der Frequenz.**  
-Kreaturen im Umkreis von 10 ft, die einen Zauber wirken,  
-müssen einen CON-Save (DC 12) ablegen oder der Zauber hallt in ihnen nach:  
+Kreaturen im **Umkreis von 10 ft**, die einen Zauber wirken, müssen einen **CON-Save (DC 12)** ablegen oder der Zauber hallt in ihnen nach:  
 Er entfaltet seine Wirkung erst zu Beginn ihres nächsten Zuges.
 
 **Echo des Willens.**  
-Wenn der Akolyt 0 HP erreicht, entlädt sich ein letzter Ton. Alle Kreaturen im Umkreis von 3 m müssen einen WIS-Save (DC 11) bestehen oder sind 1 Minute lang taub.
+Wenn der Akolyt 0 HP erreicht, entlädt sich ein letzter Ton. Alle Kreaturen im Umkreis von 10 ft müssen einen **WIS-Save (DC 11)** bestehen oder sind 1 Minute lang taub.
 
 ### Aktionen
 **Klanglanze.** _Nah- oder Fernkampfangriff:_ +4 auf Treffer, Reichweite 5 ft oder 30-90 ft, ein Ziel.  
@@ -157,8 +156,8 @@ _Treffer:_ 7 (1D10 + 2) psychischer Schaden.
 
 **Dissonanter Impuls (aufladbar 5–6).**  
 Der Akolyt stößt eine Welle aus chaotischem Klang aus.  
-Alle Kreaturen in einem 5-ft-Radius müssen einen CON-Save (DC 12) bestehen  
-oder erleiden 9 (2D8) Schallschaden, halber Schaden bei Erfolg.
+Alle Kreaturen in einem **5-ft-Radius** müssen einen **CON-Save (DC 12)** bestehen oder erleiden 
+9 (2D8) Schallschaden, halber Schaden bei Erfolg.
 
 ---
 
@@ -188,7 +187,7 @@ Sie sind keine Jäger, sondern Resonanzträger, die von Emotion leben.
 ### Merkmale
 
 **Echohafte Präsenz.**
-Kreaturen, die den Gesang hören, müssen einen WIS-Save (DC 13) bestehen oder 1 Minute lang von Trauer überwältigt werden (Nachteil auf Angriffs- und Rettungswürfe).
+Kreaturen, die den Gesang hören, müssen einen **WIS-Save (DC 13)** bestehen oder 1 Minute lang von Trauer überwältigt werden (Nachteil auf Angriffs- und Rettungswürfe).
 
 **Klangbindung.**
 Wenn zwei Schluchtsänger sich innerhalb 60 ft sehen, haben sie gegenseitig +2 auf Angriff und Rettungswürfe.
@@ -196,7 +195,7 @@ Wenn zwei Schluchtsänger sich innerhalb 60 ft sehen, haben sie gegenseitig +2 a
 ### Aktionen
 
 **Klagender Schrei (aufladbar 5–6).**
-Alle Kreaturen im 20-ft-Radius müssen einen CON-Save (DC 13) ablegen oder 9 (2D8) Schallschaden erleiden und taub werden (1 Minute).
+Alle Kreaturen im 20-ft-Radius müssen einen **CON-Save (DC 13)** ablegen oder 9 (2D8) Schallschaden erleiden und taub werden (1 Minute).
 
 ---
 
@@ -225,7 +224,7 @@ Ihr Atem klingt wie ferne Trommeln.
 ### Merkmale
 
 **Aura der Dissonanz (Recharge 5-6)**
-Orgelbrut kann als Bonusaktion Aura der Dissonanz aktivieren. Kreaturen in 15 ft müssen einen CON-Save (DC 13) machen oder 4 (1D8) Schallschaden erleiden.
+Orgelbrut kann als Bonusaktion Aura der Dissonanz aktivieren. Kreaturen in 15 ft müssen einen **CON-Save (DC 13)** machen oder 4 (1D8) Schallschaden erleiden.
 
 **Schallabsorber.**
 Wenn die Brut Schallschaden erleiden würde, heile sie stattdessen um die Hälfte des Schadens.
@@ -237,7 +236,7 @@ Wenn die Brut Schallschaden erleiden würde, heile sie stattdessen um die Hälft
 
 **Erdrückender Ton (aufladbar 5–6).**
 Die Orgelbrut bläht ihren Körper auf und entlädt eine stehende Welle.
-Alle Kreaturen im 20-ft-Kegel müssen einen CON-Save (DC 13) bestehen oder 13 (3D8) Schallschaden erleiden und zu Boden fallen.
+Alle Kreaturen im 20-ft-Kegel müssen einen **CON-Save (DC 13)** bestehen oder 13 (3D8) Schallschaden erleiden und zu Boden fallen.
 
 ---
 ## **Tiefenhüter (CR 3)**
@@ -275,12 +274,11 @@ kann der Ritter 5 dieses Schadens übernehmen.
 **Resonanzklinge.** _Nahkampfangriff:_ +5 auf Treffer, Reichweite 5 ft, ein Ziel.  
 _Treffer:_ 10 (2D6 + 3) psychischer Schaden.  
 Wenn der Ritter dasselbe Ziel zweimal hintereinander trifft,  
-muss dieses einen CON-Save DC 13 bestehen oder ist 1 Minute lang taub.
+muss dieses einen **CON-Save (DC 13)** bestehen oder ist 1 Minute lang taub.
 
 **Stoß der Ordnung (aufladbar 5–6).**  
 Der Ritter schlägt seine Waffe in den Boden.  
-Alle Kreaturen seiner Wahl in einem Radius von 20 ft müssen einen STR-Save DC 13 bestehen  
-oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
+Alle Kreaturen seiner Wahl in einem Radius von 20 ft müssen einen **STR-Save (DC 13)** bestehen oder erleiden 10 (3D6) Schallschaden und werden zu Boden geworfen.
 
 ---
 ## **Kleiner Orgelträger (CR 4)**
@@ -322,7 +320,7 @@ Der Orgelträger kann keine Dash-Aktion ausführen.
 Am Ende seines Zuges bewegt er sich automatisch 10 ft in Richtung des lautesten Geräusches, das er wahrnimmt.
 
 **Aura der Vibration (Recharge 6).**  
-Kreaturen in einem 15ft. Umkreis müssen einen CON-Save (DC 14) ablegen oder 4 (1D8) Schallschaden erleiden und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
+Kreaturen in einem 15ft. Umkreis müssen einen **CON-Save (DC 14)** ablegen oder 4 (1D8) Schallschaden erleiden und bis zum Beginn ihres nächsten Zuges Nachteil auf Heimlichkeitswürfe haben.
 
 ### Aktionen
 
@@ -333,7 +331,7 @@ _Treffer:_ 14 (2D10 + 3) Wuchtschaden + 4 (1D8) Schallschaden.
 
 **Dissonanter Stoß (aufladbar 5–6).**  
 Der Orgelträger stößt einen tonalen Druck aus.  
-Alle Kreaturen in einem 15ft. Kegel müssen einen CON-Save (DC 14) machen.  
+Alle Kreaturen in einem 15ft. Kegel müssen einen **CON-Save (DC 14)** machen.  
 Bei Misserfolg: 13 (3D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden, kein Effekt.  
 Nach dieser Aktion bewegt sich der Orgelträger 10 ft rückwärts.
 
@@ -377,14 +375,14 @@ Er kann keine Öffnungen passieren, die kleiner als 15 ft sind.
 
 **Klangträger.**  
 Immer wenn der Orgelträger in einer Runde 20 oder mehr Schaden erleidet, stößt er einen automatischen Resonanzimpuls aus: 
-Alle Kreaturen im Umkreis von 20 ft müssen einen CON-Save (DC 15) bestehen oder bis zum Ende ihres nächsten Zuges _taub_ sein.
+Alle Kreaturen im Umkreis von 20 ft müssen einen **CON-Save (DC 15)** bestehen oder bis zum Ende ihres nächsten Zuges _taub_ sein.
 
 **Unaufhaltsamer Gang.**  
 Der Orgelträger ignoriert schwieriges Gelände und zerstört jede nichtmagische Struktur mit AC 15 oder niedriger, wenn er sich hindurchbewegt.
 
 **Aura der Resonanz (Recharge 5-6).**  
 Als Bonusaktion kann der Orgelträger Aura der Resonanz aktivieren. 
-Jede Kreatur im Umkreis von 20 ft muss einen CON-Save (DC 15) ablegen oder 4 (1D8) Schallschaden nehmen und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
+Jede Kreatur im Umkreis von 20 ft muss einen **CON-Save (DC 15)** ablegen oder 4 (1D8) Schallschaden nehmen und Nachteil auf Zauberangriffe bis zum Ende ihres Zuges haben.
 
 ### Aktionen
 
@@ -395,8 +393,8 @@ _Treffer:_ 21 (3D10 + 5) Wuchtschaden + 7 (2D6) Schallschaden.
 
 **Kanonischer Stoß (aufladbar 5–6).**  
 Der Orgelträger entlädt einen Klangstoß in einem 30-ft-Kegel.  
-Alle Kreaturen müssen einen CON-Save (DC 15) machen.  
-Bei Misserfolg: 27 (6D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden.  
+Alle Kreaturen müssen einen **CON-Save (DC 15)** machen.  
+**Bei Misserfolg**: 27 (6D8) Schallschaden und _liegend_; bei Erfolg: halber Schaden.  
 Objekte im Bereich erleiden doppelten Schaden.
 
 **Stille des Steins (1/Tag).**  
@@ -409,7 +407,7 @@ Erleidet er Feuerschaden, endet der Effekt sofort.
 
 **Tiefer Tritt (1 Aktion).**  
 Der Orgelträger stampft auf den Boden;  
-alle Kreaturen innerhalb 10 ft müssen einen DEX-Save (DC 15) machen oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
+alle Kreaturen innerhalb 10 ft müssen einen **DEX-Save (DC 15)** machen oder fallen _liegend_ und erleiden 7 (2D6) Wuchtschaden.
 
 ---
 
@@ -447,14 +445,14 @@ Der Gebrochene Orgelträger ist ein halbzerfallenes Bauwerk auf Beinen. Er gilt 
 
 **Aura der Disharmonie (30 ft).**  
 Die Luft pulsiert in unregelmäßigen Druckwellen. Kreaturen, die ihren Zug in der Aura beginnen,  
-müssen einen CON-Save (DC 16) machen. Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
+müssen einen **CON-Save (DC 16)** machen. Bei Misserfolg: 9 (2D8) Schallschaden und Nachteil auf Konzentrationswürfe bis zum Beginn ihres nächsten Zuges.
 
 **Verfallene Resonanz.**  
 Wenn der Orgelträger Schall- oder Raidiantenschaden erleidet, brechen Stücke seiner Pfeifen ab.  
 Diese Fragmente werden zu _Nachklängen_ (CR ¼), die 1 Runde bestehen bleiben und zufällige Worte wiederholen, die sie hören.
 
 **Klangverzerrung.**  
-Zauber, die Schall oder Sprache erfordern, haben innerhalb 30 ft eine 50%-Chance, fehlzuschlagen (D100 = 11+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt, das den Caster als Ziel hat).
+Zauber, die Schall oder Sprache erfordern, haben innerhalb 20 ft eine 50%-Chance, fehlzuschlagen (D100 = 51+ → der Zauber wird durch _Dissonant Whispers_ \[Stufe 1, DC 15] ersetzt, das den Caster als Ziel hat).
 
 **Unerschütterlich.**  
 Immun gegen _Silence_, _Shatter_, _Calm Emotions_ und Effekte, die Schall unterdrücken.
@@ -516,7 +514,7 @@ Sie webt die Wirklichkeit durch Ton: jede Geste eine Formel, jede Silbe ein Gese
 
 ### Merkmale
 **Aura der Harmonie.**  
-Kreaturen im Umkreis von 20 ft müssen zu Beginn ihres Zuges einen WIS-Save (DC 14) ablegen oder bis zum Ende ihres Zuges verlangsamt werden, als würden sie dem Takt der Hexe folgen.
+Kreaturen im Umkreis von 20 ft müssen zu Beginn ihres Zuges einen **WIS-Save (DC 14)** ablegen oder bis zum Ende ihres Zuges verlangsamt werden, als würden sie dem Takt der Hexe folgen.
 
 **Magische Resonanz.**  
 Die Hexe wirkt ihre Zauber nicht verbal, sondern durch Ton und Körperschwingung; Zauberstille beeinträchtigt sie nicht.
@@ -542,7 +540,7 @@ _Treffer:_ 13 (3D8 + 2) psychischer Schaden.
 
 **Resonanzbrecher (aufladbar 5–6).**  
 Die Hexe schlägt mit ihren Händen in die Luft und erzeugt einen einzigen lautlosen Ton.  
-Alle Kreaturen in einem 20-ft-Radius müssen einen CON-Save (DC 15) bestehen oder 15 (3D10 + 2) Schallschaden erleiden und 1 Minute lang taub werden.
+Alle Kreaturen in einem 20-ft-Radius müssen einen **CON-Save (DC 15)** bestehen oder 15 (3D10 + 2) Schallschaden erleiden und 1 Minute lang taub werden.
 
 ---
 ## **Litaneier der Tiefe (CR 6)**
@@ -583,7 +581,7 @@ Alle verbündeten Kreaturen im 30 ft Radius regenerieren 10 (3D6 + 3) Trefferpun
 *Treffer:* 11 (2D8 + 2) psychischer Schaden.
 
 **Resonanzlitanei (aufladbar 5–6).**
-Der Priester singt einen komplexen Dreiklang. Alle feindlichen Kreaturen im 20 ft Radius müssen einen WIS-Save (DC 15) ablegen oder sind bis zum Beginn ihres nächsten Zuges verlangsamt.
+Der Priester singt einen komplexen Dreiklang. Alle feindlichen Kreaturen im 20 ft Radius müssen einen **WIS-Save (DC 15)** ablegen oder sind bis zum Beginn ihres nächsten Zuges verlangsamt.
 
 ---
 ## **Klangarchitekt (CR 7)**
@@ -608,7 +606,7 @@ Klangarchitekten sind die Baumeister der Tiefe. Sie formen mit ihren Händen nic
 
 ### Merkmale
 **Feld der Resonanz (1/Tag).**  
-Einmal pro Tag kann der Architekt als Bonusaktion ein 20 ft großes Gebiet innerhalb von 60 ft „stimmen“. Kreaturen, die sich darin bewegen, müssen einen DEX-Save DC 15 ablegen oder fallen _prone_, da der Boden schwingt.
+Einmal pro Tag kann der Architekt als Bonusaktion ein 20 ft großes Gebiet innerhalb von 60 ft „stimmen“. Kreaturen, die sich darin bewegen, müssen einen **DEX-Save (DC 15)** ablegen oder fallen _prone_, da der Boden schwingt.
 
 **Baumeister der Klangmaterie.**  
 Der Architekt kann einmal pro Runde als Bonusaktion einen Resonanz-Knoten erschaffen (AC 12, 10 TP). Wenn der Knoten zerstört wird, explodiert er und verursacht 11 (2D10) Schallschaden in einem 10-ft-Radius.
@@ -619,7 +617,7 @@ _Treffer:_ 12 (2D8 + 3) Wucht- oder Schallschaden.
 
 **Klangdomäne (aufladbar 6).**  
 Der Architekt ruft ein Netz aus stehenden Wellen herbei.  
-Alle Kreaturen in einem Radius von 20 ft müssen einen CON-Save (DC 15) bestehen oder bis zum Beginn ihres nächsten Zuges betäubt werden.
+Alle Kreaturen in einem Radius von 20 ft müssen einen **CON-Save (DC 15)** bestehen oder bis zum Beginn ihres nächsten Zuges betäubt werden.
 
 ---
 
@@ -651,7 +649,7 @@ Ihre Flügel bestehen aus Membranen, die in bestimmten Tönen flirren. Sie bewac
 ### Merkmale
 
 **Aura des Rätsels.**
-Kreaturen im 30 ft Radius müssen zu Beginn ihres Zuges einen INT-Save (DC 16) bestehen oder erleiden Nachteil auf alle WIS und INT Proben bis zum Ende ihres Zuges.
+Kreaturen im 30 ft Radius müssen zu Beginn ihres Zuges einen **INT-Save (DC 16)** bestehen oder erleiden Nachteil auf alle WIS und INT Proben bis zum Ende ihres Zuges.
 
 **Wächter der Worte.**
 Zauber der Stufe 3 oder niedriger, die Schall oder Sprache beinhalten, werden automatisch neutralisiert (innerhalb von 30 ft).
@@ -662,7 +660,8 @@ Zauber der Stufe 3 oder niedriger, die Schall oder Sprache beinhalten, werden au
 *Treffer:* 15 (2D8 + 4) Hiebschaden.
 
 **Echo der Frage (aufladbar 5–6).**
-Die Sphinx stellt eine Frage in reiner Frequenz. Alle Kreaturen im 20 ft Radius müssen einen WIS-Save (DC 16) ablegen oder sind 1 Minute lang verwirrt (wie unter dem Zauber *Confusion*).
+Die Sphinx stellt eine Frage in reiner Frequenz. Alle Kreaturen im 20 ft Radius müssen einen 
+**WIS-Save (DC 16)** ablegen oder sind 1 Minute lang verwirrt (wie unter dem Zauber *Confusion*).
 
 ---
 ## **General der Tiefe (CR 9)**
@@ -700,7 +699,7 @@ Diese teilen sich HP: Wenn einer Schaden erleidet, kann er bis zu 10 davon auf e
 _Treffer:_ 14 (3D8 + 2) psychischer Schaden.
 
 **Befehl des Akkords (aufladbar 6).**  
-Der Dirigent ruft den Ton von Kharox an. Alle Kreaturen seiner Wahl innerhalb von 30 ft müssen einen WIS-Save (DC 15) bestehen oder werden 1 Minute lang von ihm fasziniert und folgen seinen Befehlen wie einem Zauber „Beherrschen“.
+Der Dirigent ruft den Ton von Kharox an. Alle Kreaturen seiner Wahl innerhalb von 30 ft müssen einen **WIS-Save (DC 15)** bestehen oder werden 1 Minute lang von ihm fasziniert und folgen seinen Befehlen wie einem Zauber „Beherrschen“.
 
 ---
 
@@ -736,13 +735,13 @@ Ihr Blick sieht nicht Gestalt, sondern Frequenz, und ihre Stimme trägt das Gewi
 ### **Merkmale**
 
 **Aura des Urteils (Recharge 5-6)**
-Der Richter der Tiefe kann als Bonusaktion Aura des Urteils aktivieren. Kreaturen im Umkreis von 30 ft müssen einen WIS-Save (DC 17) ablegen oder erleiden 9 (2D8) psychischen Schaden und haben Nachteil auf Angriffe bis zum Beginn ihres nächsten Zuges.
+Der Richter der Tiefe kann als Bonusaktion Aura des Urteils aktivieren. Kreaturen im Umkreis von 30 ft müssen einen **WIS-Save (DC 17)** ablegen oder erleiden 9 (2D8) psychischen Schaden und haben Nachteil auf Angriffe bis zum Beginn ihres nächsten Zuges.
 
 **Wahrheitsresonanz.**
-Eine Kreatur, die innerhalb von 30 ft des Richters lügt, muss einen CON-Save (DC 16) bestehen oder 5 (1D10) Schallschaden erleiden.
+Eine Kreatur, die innerhalb von 30 ft des Richters lügt, muss einen **CON-Save (DC 16)** bestehen oder 5 (1D10) Schallschaden erleiden.
 
 **Schwingung des Gleichgewichts (1/Tag).**
-Wenn der Richter unter 50 % seiner Trefferpunkte fällt, erzeugt er eine Welle aus stabilisierendem Klang. Alle feindlichen Kreaturen im 40-ft-Radius müssen einen CON-Save (DC 17) ablegen
+Wenn der Richter unter 50 % seiner Trefferpunkte fällt, erzeugt er eine Welle aus stabilisierendem Klang. Alle feindlichen Kreaturen im 40-ft-Radius müssen einen **CON-Save (DC 17)** ablegen
 oder werden zu Boden geworfen und für 1 Runde stumm (wie durch *Silence*).
 
 
@@ -754,7 +753,7 @@ Der Resonanzrichter führt zwei Angriffe mit seinem *Klanghammer* aus.
 **Klanghammer.** *Nahkampfangriff:* +8 auf Treffer, Reichweite 5 ft, ein Ziel. *Treffer:* 20 (3D10 + 3) Wucht- oder Schallschaden.
 
 **Urteil der Tiefe (aufladbar 5–6).**
-Der Richter stößt eine konzentrierte Schwingung reiner Wahrheit aus. Alle Kreaturen in einem 50 ft Kegel müssen einen CON-Save (DC 17) bestehen oder 29 (6D8 + 3) Schallschaden erleiden und zu Boden geworfen werden. Bei Erfolg halber Schaden und nicht gestürzt.
+Der Richter stößt eine konzentrierte Schwingung reiner Wahrheit aus. Alle Kreaturen in einem 50 ft Kegel müssen einen **CON-Save (DC 17)** bestehen oder 29 (6D8 + 3) Schallschaden erleiden und zu Boden geworfen werden. Bei Erfolg halber Schaden und nicht gestürzt.
 
 ---
 
@@ -786,7 +785,7 @@ Die Herolde der Tiefe sind Boten zwischen den Architonen und der Welt. Sie verk�
 ### Merkmale
 
 **Aura der Botschaft (Recharge 5-6)**
-Der Resonanzbote kann Aura der Botschaft als Bonusaktion einsetzten. Kreaturen im 40-ft-Radius müssen einen WIS-Save (DC 17) bestehen oder sind 1 Runde lang *fasziniert* (als unter *Hypnotisches Muster*).
+Der Resonanzbote kann Aura der Botschaft als Bonusaktion einsetzten. Kreaturen im 40-ft-Radius müssen einen **WIS-Save (DC 17)** bestehen oder sind 1 Runde lang *fasziniert* (als unter *Hypnotisches Muster*).
 
 **Klangverbindung.**
 Der Bote kann bis zu 3 Kreaturen innerhalb 60 ft mit sich verbinden. Solange die Verbindung besteht, teilen sie Trefferpunkte (Verlust einer Kreatur kann auf andere verteilt werden, max. 10 pro Runde).
@@ -797,7 +796,7 @@ Der Bote kann bis zu 3 Kreaturen innerhalb 60 ft mit sich verbinden. Solange die
 *Treffer:* 20 (3D10 + 3) psychischer Schaden.
 
 **Wort der Tiefe (aufladbar 6).**
-Der Bote spricht den *Namen einer Wahrheit*. Alle feindlichen Kreaturen im 40 ft Radius müssen einen WIS-Save (DC 18) ablegen oder 1 Minute lang paralysiert werden und 22 (4D10) psychischen schaden erleiden. Kreaturen, die den Save bestehen, erleiden nur halben Schaden.
+Der Bote spricht den *Namen einer Wahrheit*. Alle feindlichen Kreaturen im 40 ft Radius müssen einen **WIS-Save (DC 18)** ablegen oder 1 Minute lang paralysiert werden und 22 (4D10) psychischen schaden erleiden. Kreaturen, die den Save bestehen, erleiden nur halben Schaden.
 
 
 ---
@@ -828,7 +827,7 @@ Kreaturen in einem Radius von 20 ft können nicht sprechen oder Zauber mit verba
 
 **Unaufhaltsamer Ton.**  
 Wenn das Avatar auf 0 TP fällt, explodiert es in einem Wellenring.  
-Alle Kreaturen in 50 ft erleiden 27 (6D8) Schallschaden (KEIN Rettungswurf).
+Alle Kreaturen in 50 ft erleiden 27 (6D8) Schallschaden **(KEIN Rettungswurf)**
 
 ### Aktionen
 **Multiattack.** Drei Angriffe mit „Schlag der Tiefe“.
@@ -838,7 +837,7 @@ _Treffer:_ 17 (2D10 + 6) Wucht- und psychischer Schaden.
 
 **Welle des Fundaments (aufladbar 6).**  
 Der Avatar der Resonanz entlädt eine stehende Welle reiner Resonanz.  
-Alle Kreaturen in einem 40-ft-Kegel müssen einen CON-Save (DC 17) ablegen oder 31 (7D8) Schallschaden erleiden und 1 Minute lang taub sein.
+Alle Kreaturen in einem 40-ft-Kegel müssen einen **CON-Save (DC 17)** ablegen oder 31 (7D8) Schallschaden erleiden und 1 Minute lang taub sein.
 
 ---
 # _Wesen der Reinen Linien_
@@ -886,7 +885,7 @@ Der Titan kann nicht umgeworfen oder zurückgeschleudert werden.
 Er ignoriert schwieriges Gelände aus nichtmagischem Grund.
 
 **Gravitationseinbruch (Recharge 5-6).**  
-**Bonusaktion** - Der Titan lässt die Schwerkraft um sich herum einstürzen. Alle Kreaturen im 30-ft-Radius müssen einen STR-Save (DC 17) ablegen oder 20 (4D10) Wuchtschaden nehmen und _Restrained_ sein (bis Ende ihrer nächsten Runde).
+**Bonusaktion** - Der Titan lässt die Schwerkraft um sich herum einstürzen. Alle Kreaturen im 30-ft-Radius müssen einen **STR-Save (DC 17)** ablegen oder 20 (4D10) Wuchtschaden nehmen und _Restrained_ sein (bis Ende ihrer nächsten Runde).
 
 ### **Aktionen**
 
@@ -896,15 +895,15 @@ Er ignoriert schwieriges Gelände aus nichtmagischem Grund.
 _Treffer:_ 23 (3D10 + 6) Wuchtschaden. Kritische Treffer werfen das Ziel 10 ft zurück.
 
 **Erdbrecher (1/Tag).**  
-Der Titan schlägt auf den Boden. Alle Kreaturen im 40-ft-Radius müssen einen CON-Save (DC 17) bestehen oder 30 (6D8) Wuchtschaden erleiden und _prone_ werden. Der Boden wird zu schwierigem Terrain.
+Der Titan schlägt auf den Boden. Alle Kreaturen im 40-ft-Radius müssen einen **CON-Save (DC 17)** bestehen oder 30 (6D8) Wuchtschaden erleiden und _prone_ werden. Der Boden wird zu schwierigem Terrain.
 
 ### **Legendäre Aktionen**
 
 Der Titan kann bis zu 3 legendäre Aktionen ausführen (eine pro Runde am Ende anderer Züge):
 
-- **Steinstoß (1 Aktion).** Ein Ziel innerhalb 10 ft muss einen DEX-Save (DC 17) bestehen oder 10 (2D8 + 6) Wuchtschaden erleiden.
+- **Steinstoß (1 Aktion).** Ein Ziel innerhalb 10 ft muss einen **DEX-Save (DC 17)** bestehen oder 10 (2D8 + 6) Wuchtschaden erleiden.
     
-- **Bodenwelle (2 Aktionen).** Alle Kreaturen im 15-ft-Radius müssen einen STR-Save (DC 17) bestehen oder _lying_ und nehmen 13 (3D8) Wuchtschaden.
+- **Bodenwelle (2 Aktionen).** Alle Kreaturen im 15-ft-Radius müssen einen **STR-Save (DC 17)** bestehen oder _lying_ und nehmen 13 (3D8) Wuchtschaden.
     
 - **Verstummen (3 Aktionen).** Die Aura der Stille verstärkt sich 1 Runde lang auf 60 ft; Zauber innerhalb dieser Reichweite scheitern automatisch.
 
@@ -939,7 +938,7 @@ Wenn er kämpft, tanzt er nicht – er dirigiert.
 ### **Merkmale**
 
 **Aura des Takts.**  
-Kreaturen im 30-ft-Radius müssen zu Beginn ihres Zuges einen WIS-Save (DC 17) ablegen oder ihre letzte Aktion wiederholen (gleiche Ziele, wenn möglich). Bei Fehlschlag nehmen sie zusätzlich 4 (1D6) psychischen Schaden.
+Kreaturen im 30-ft-Radius müssen zu Beginn ihres Zuges einen **WIS-Save (DC 17)** ablegen oder ihre letzte Aktion wiederholen (gleiche Ziele, wenn möglich). Bei Fehlschlag nehmen sie zusätzlich 4 (1D6) psychischen Schaden.
 
 **Synchronisation.**  
 **Bonusaktion** – bis zu 3 Verbündete innerhalb 30 ft werden „angeglichen“: Vorteil auf Angriffe, aber Nachteil auf Rettungswürfe bis nächster Runde.
@@ -956,7 +955,7 @@ _Treffer:_ 18 (3D8 + 4) psychischer oder Schallschaden.
 
 **Zeremonielle Schlagfolge (Recharge 5-6).**  
 Drei pulsierende Wellen rollen vom Wächter aus (je 10 ft Radius).  
-Kreaturen im Bereich müssen einen CON-Save (DC 17) bestehen oder 14 (4D6) Schallschaden nehmen und _stunned_ sein (bis Ende der nächsten Runde).
+Kreaturen im Bereich müssen einen **CON-Save (DC 17)** bestehen oder 14 (4D6) Schallschaden nehmen und _stunned_ sein (bis Ende der nächsten Runde).
 
 ### **Legendäre Aktionen**
 
@@ -1039,7 +1038,7 @@ Erreicht eine Kreatur 5 Stapel, muss sie einen **WIS-Save (DC 17)** bestehen:
 
 **Symphonie der Erinnerung (1/Tag).**  
 Ein 60-ft-Kegel aus flackernden Spiegelbildern.  
-Kreaturen im Bereich müssen einen WIS-Save (DC 17) ablegen oder  
+Kreaturen im Bereich müssen einen **WIS-Save (DC 17)** ablegen oder  
 **2 Stapel _Vergessene Erinnerung_** erhalten (kein Schaden).  
 Bei Erfolg: keine Wirkung.  
 Der Raum selbst scheint kurz zu vergessen, dass er existiert.
@@ -1048,7 +1047,7 @@ Der Raum selbst scheint kurz zu vergessen, dass er existiert.
 
 - **Zerfließen (1 Aktion).** Wird für 1 Runde _intangible_ (kann sich durch Kreaturen bewegen, keine AoO, halber Schaden).
     
-- **Erinnerungsbruch (2 Aktionen).** Eine Kreatur im 30-ft-Radius muss WIS-Save (DC 17) ablegen oder glaubt 1 Runde lang, sie kämpfe an der Seite des Spiegels.
+- **Erinnerungsbruch (2 Aktionen).** Eine Kreatur im 30-ft-Radius muss **WIS-Save (DC 17)** ablegen oder glaubt 1 Runde lang, sie kämpfe an der Seite des Spiegels.
     
 - **Nachklang (3 Aktionen).** Der Spiegel flüstert eine verdrängte Erinnerung.  
     Das Ziel erhält 1 Stapel _Vergessene Erinnerung._
@@ -1076,13 +1075,13 @@ _Large Aberration (Threnai), true neutral_
 **Sinne:** Dunkelsicht 120 ft, Tremorsinn 30 ft, passive Wahrnehmung 16  
 **Sprachen:** alle, Telepathie 200 ft  
 **Herausforderungsgrad:** 16 (25 000 EP)  
-**Mythischer Rang:** 1 (Mythic Actions freigeschaltet, siehe unten)
+**Mythischer Rang:** 1 
 
 ### **Beschreibung**
 
-Der Dreiklang ist das kurzzeitige Zusammentreffen der reinen Linien Eirachs, Kharox’ und Saaths – ein lebender Schatten des _Akkords der Tiefe._  
-Er besteht aus drei ineinander schwingenden Körpern, die fortwährend zwischen Stein, Licht und Wasser wechseln.  
-Seine Existenz währt selten länger als einige Minuten; doch während dieser Zeit flackert Realität selbst.
+Der Dreiklang ist das flüchtige Zusammentreffen der reinen Linien Eirachs, Kharox' und Saaths, ein lebender Schatten des _Akkords der Tiefe_. Er manifestiert sich als drei ineinander verschmelzende Körper aus pulsierendem Stein, flackerndem Licht und fließendem Wasser, die in ewiger Rotation schwingen und die Luft mit einem unhörbaren Dröhnen erfüllen.
+
+Seine Existenz währt von außen betrachtet selten länger als einige Minuten, ein kurzer Riss in der Realität, der sich rasch schließt. Doch in seiner unmittelbaren Umgebung verlieren Raum und Zeit jegliche Bedeutung: Minuten in der äußeren Welt dehnen sich zu subjektiven Stunden aus, in denen Echos vergangener Epochen widerhallen und das Bewusstsein der Betroffenen in endlosen Schleifen gefangen ist. Was für Beobachter ein flüchtiger Blitz der Resonanz ist, wird für jene im Inneren zu einer Ewigkeit der Schwingung, in der Herzschläge zu Epochen werden und jeder Atemzug ein Zeitalter umspannt.
 
 > _„Sein Atem ist Gleichklang, und die Welt vergisst, dass sie Luft braucht.“_
 
@@ -1092,7 +1091,7 @@ Seine Existenz währt selten länger als einige Minuten; doch während dieser Ze
 Wenn der Dreiklang 0 HP erreicht, zerbricht er nicht. Stattdessen manifestiert er eine zweite Phase (volle HP erneut). In dieser Form verändert sich die Arena: alle Kreaturen innerhalb von 100 ft befinden sich in einer Dimension aus reiner Resonanz. (Alle Rettungswürfe gegen Schall oder Psychischen Schaden werden mit Nachteil abgelegt.)
 
 **Aura des Gleichklangs.**  
-Kreaturen in 30 ft Umkreis müssen zu Beginn ihres Zuges einen WIS-Save (DC 17) ablegen oder ihre Aktion dieser Runde wiederholen (magische Zwangshandlung).
+Kreaturen in 30 ft Umkreis müssen zu Beginn ihres Zuges einen **WIS-Save (DC 17)** ablegen oder ihre Aktion dieser Runde wiederholen (magische Zwangshandlung).
 
 **Resonanz der Linien (Bonusaktion).**  
 Der Dreiklang kann eine Linie dominant machen (bis zum Beginn seines nächsten Zuges):
@@ -1110,10 +1109,11 @@ Der Dreiklang kann eine Linie dominant machen (bis zum Beginn seines nächsten Z
 
 **Schlag der Tiefe.** _Nahkampfangriff:_ +9 auf Treffer, Reichweite 10 ft, ein Ziel.  
 _Treffer:_ 24 (4D8 + 6) Wucht- und Schallschaden.  
-Ziele müssen einen CON-Wurf (DC 17) bestehen oder werden 1 Runde taub.
+Ziele müssen einen **CON-Wurf (DC 17)** bestehen oder werden 1 Runde taub.
 
 **Hymne der Urresonanz (aufladbar 6).**  
-Der Dreiklang ruft die drei Urtöne zugleich. Alle Kreaturen im 60-ft-Radius müssen einen WIS-Save (DC 18) ablegen oder für 1 Minute in Trance verfallen. In diesem Zustand stehen sie still, doch sehen Visionen der Tiefe. Sie können am Ende ihres Zuges den Wurf wiederholen.
+Der Dreiklang ruft die drei Urtöne zugleich. Alle Kreaturen im 60-ft-Radius müssen einen 
+**WIS-Save (DC 18)** ablegen oder für 1 Minute in Trance verfallen. In diesem Zustand stehen sie still, doch sehen Visionen der Tiefe. Sie können am Ende ihres Zuges den Wurf wiederholen.
 
 ### **Legendäre Aktionen**
 
@@ -1121,7 +1121,7 @@ Der Dreiklang kann 3 legendäre Aktionen pro Runde nutzen (je 1 pro Phase am End
 
 1. **Resonanzstoß (1 Aktion):** Er verursacht 9 (2D8) Schallschaden an einem Ziel im 40-ft-Radius.
     
-2. **Klangverzerrung (2 Aktionen):** Alle Kreaturen im 20-ft-Radius müssen einen WIS-Save (DC 16) machen oder erleiden Nachteil auf Angriffswürfe bis zum Beginn ihres nächsten Zuges.
+2. **Klangverzerrung (2 Aktionen):** Alle Kreaturen im 20-ft-Radius müssen einen **WIS-Save (DC 16)** machen oder erleiden Nachteil auf Angriffswürfe bis zum Beginn ihres nächsten Zuges.
     
 3. **Formwandel (3 Aktionen):** Der Dreiklang wechselt sofort seine aktive Linie (Eirach, Kharox oder Saath).
     
@@ -1130,13 +1130,49 @@ Der Dreiklang kann 3 legendäre Aktionen pro Runde nutzen (je 1 pro Phase am End
 
 - **Echo des Akkords (2 Aktionen):** Der Dreiklang projiziert eine zweite Gestalt aus Licht – alle Angriffe gegen ihn werden 1 Runde lang mit Nachteil gewürfelt.
     
-- **Unisono (3 Aktionen):** Alle Kreaturen im 100-ft-Radius müssen einen WIS-Save (DC 18) machen oder sind 1 Runde handlungsunfähig, verloren im Gleichklang.
+- **Unisono (3 Aktionen):** Alle Kreaturen im 100-ft-Radius müssen einen **WIS-Save (DC 18)** machen oder sind 1 Runde handlungsunfähig, verloren im Gleichklang.
+
+### **Mythischer Trait – Rhythmus der Tiefe**
+
+> *„Bewegung ist nicht Wille, sondern Gehorsam des Körpers gegenüber der Welt.“*
+
+Wenn der Dreiklang der Reinen seine **Mythische Phase** erreicht, verändert sich die Realität selbst.
+Der Boden, die Luft und das Licht beginnen, **im gleichen Takt zu pulsieren** – ein gleichmäßiger Rhythmus, der die Bewegung aller Dinge bestimmt.
+Innerhalb dieser Sphäre folgt jede Handlung dem **Takt des Gleichklangs**.
+
+#### **Effekte:**
+
+**Resonanter Raum.**
+  Der Kampfraum (Radius 100 ft) wird zur Zone reiner Schwingung.
+  Alle Kreaturen in diesem Bereich gelten als unter Einfluss des „Rhythmus der Tiefe“.
+  Bewegung und Zeit folgen nicht mehr freiem Willen, sondern den Schwingungen des Dreiklangs.
+
+**Bewegung im Takt.**
+  * Die **Bewegungsgeschwindigkeit** aller Kreaturen **verdoppelt sich.**
+  * Die **Dash-Aktion** kann nicht verwendet werden.
+  * Eine Kreatur kann sich nur **in gerader Linie** oder auf einer **kreisförmigen Bahn** um den Dreiklang bewegen.
+  * Am **Beginn jeder Runde** würfelt der DM `1D4`, um die Richtung des Pulses zu bestimmen:
+
+    * **1–2:** Alle Bewegungen tendieren **vom Dreiklang weg** (Zentrifugalpuls).
+    * **3–4:** Alle Bewegungen tendieren **zum Dreiklang hin** (Zentripetalpuls).
+      Kreaturen, die sich in die entgegengesetzte Richtung bewegen wollen, müssen einen **CON Save (DC 16)** bestehen oder ihre Bewegung wird in den Rhythmus gezwungen.
+
+**Widerstand gegen den Puls.**
+  * Kreaturen, die **stillstehen oder Ready Actions** vorbereiten, müssen am Ende ihres Zuges einen **WIS Save (DC 16)** ablegen.
+    **Bei Misserfolg** werden sie **10 ft in eine zufällige Richtung gezogen** (bewegt durch die Schwingung).
+  * Teleportation oder Dimension Door funktionieren innerhalb des Bereichs **nur auf halbe Distanz**, da Raum selbst schwingt.
+
+**Angriff im Gleichklang.**
+  * Eine Kreatur, die sich in dieser Runde **mindestens 10 ft** bewegt hat, erhält **+2 auf Angriffswürfe** (Nahkampf oder Zauber).
+  * Eine Kreatur, die sich **nicht bewegt hat**, hat **Nachteil auf Angriffswürfe**, da ihre Schwingung gegen den Rhythmus arbeitet.
+
+**Resonanzimpuls (Initiative 20, Lair Action).**
+  Auf Initiative 20 erzeugt der Dreiklang eine Druckwelle aus harmonischer Schwingung.
+  Alle Kreaturen Bereich müssen einen **CON-Save (DC 17)** bestehen oder werden **15 ft in Richtung** des momentanen Pulses gezogen.
+	**Erfolg:** Keine Bewegung
 
 
 ---
 
-
-
----
 
 

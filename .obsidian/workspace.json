@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Das Lied der Tiefe/Bestiarium der Threnai.md",
+                "file": "Das Lied der Tiefe/Das Lied der Tiefe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bestiarium der Threnai"
+              "title": "Das Lied der Tiefe"
+            }
+          },
+          {
+            "id": "fdaf0f7e2a46bd8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -41,15 +53,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Das Lied der Tiefe/Das Buch der Tiefe.md",
+                "file": "Das Lied der Tiefe/Das Lied der Tiefe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Buch der Tiefe"
+              "title": "Das Lied der Tiefe"
+            }
+          },
+          {
+            "id": "7587a5f486cf2dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew Monster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Monster"
+            }
+          },
+          {
+            "id": "d926427ebf13d052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Der Lebende Dungeon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Der Lebende Dungeon"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +143,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,11 +240,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "00d8f19bb0b36309",
+  "active": "7587a5f486cf2dc3",
   "lastOpenFiles": [
-    "Das Lied der Tiefe/Bestiarium der Threnai.md",
+    "Der Lebende Dungeon.md",
+    "Homebrew Monster.md",
     "Das Lied der Tiefe/Das Lied der Tiefe.md",
+    "Der Lebende Dungeon",
     "Das Lied der Tiefe/Das Buch der Tiefe.md",
+    "Das Lied der Tiefe/Bestiarium der Threnai.md",
     "Das Lied der Tiefe/Das Lied der Tiefe- Kampagne.md",
     "Das Lied der Tiefe/README.md",
     "Untitled.base",

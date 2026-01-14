@@ -1,12 +1,7 @@
 # **Akt I – Das Flüstern im Staub**
 
-_Ein langsames Erwachen. Staub, Sonne, und etwas, das die Luft erinnert._
-
-> **Ziel des Akts:**  
-> Die SC kommen in **Tharum** an, spüren erste Resonanz-Anzeichen, hören von der Minentragödie, geraten in eine erste Konfrontation und wagen sich schließlich in den alten Schacht.  
-> Am Ende kennen sie die Begriffe _Resonanz_ und _Chor der Verzweiflung_ (als Gerücht) und besitzen ein erstes Relikt der Tiefe.  
-> **Meilenstein:** Stufe 2 nach Kapitel 2, Stufe 3 am Ende des Akts (Kapitel 3).
-
+>  _„Ein langsames Erwachen. Staub, Sonne, und etwas, das die Luft erinnert.“_
+ 
 ---
 ## **Kapitel 1 – Ankunft in Tharum**
 ---
@@ -573,14 +568,7 @@ _(Vision, Abschluss des Aktes)_
 ---
 # **Akt II – Zwischen Sand und Schweigen**
 
-_Die Wüste ist kein Ort. Sie ist eine Pause._
-
-> **Ziel des Akts:**  
-> Die SC reisen von Tharum nach Süden, in Richtung einer verlassenen Oase, die Maris Vahr erwähnt hat.  
-> Unterwegs erleben sie erste äußere Abweichungen: Natur, Tiere und Menschen verhalten sich seltsam, aber nicht offen übernatürlich.  
-> In der Oase stoßen sie auf Spuren einer vergessenen Kultur und treffen erstmals auf Wesen, die nicht aus dieser Welt zu stammen scheinen.
-> 
-> **Meilenstein:** Stufe 4 am Ende des Akts.
+> _„Die Wüste ist kein Ort. Sie ist eine Pause.“_
 
 ---
 ## **Kapitel 1 – Staubstraße nach Sethara**
@@ -839,7 +827,7 @@ Sie verlieren 1 Stunde, 1 Stufe Erschöpfung.
 ---
 # **Akt III – Das versunkene Lied**
 
-_Was unter dem Sand schläft, ist nicht tot. Es hört nur zu._
+> _„Was unter dem Sand schläft, ist nicht tot. Es hört nur zu.“_
 
 ---
 ## **Kapitel 1 – Der Weg unter den Sonnen**
@@ -2038,13 +2026,6 @@ Sie trägt jetzt Spuren seiner Frequenz (Plotrelevante Mutation / Gabe).
 > **Nächster Akt:** _VII – Die Letzte Schwingung_  
 > (Das Finale: Entscheidung zwischen Klang und Stille.)
 
----
-Perfekt.  
-Ich schreibe dir jetzt den **vollständig überarbeiteten Akt VII – „Die Letzte Schwingung“**,  
-im gleichen Format wie alle vorherigen Akte (Akt → Kapitel → Szenen),  
-und auf Basis deines _aktuellen Bestiariums_.
-
-Hier ist der dramaturgische Aufbau:
 
 ---
 
@@ -2286,16 +2267,7 @@ Der **Dreiklang der Reinen** erwacht.
 > 
 > Ihr steht nicht mehr _in_ der Tiefe —  
 > ihr steht **im Klang der Tiefe selbst.**
-> 
-> **Die zweite Phase beginnt.**
-> 
-> - Die Arena wird zu einer Dimension aus schwebenden Fragmenten.
->     
-> - Zauber mit Sprache scheitern; _Silence_ ist Schutz.
->     
-> - Der Dreiklang nimmt keine Form mehr an – nur noch Schwingung.
->     
-> 
+>  
 > Und im Zentrum erklingt ein letzter Gedanke:
 > 
 > > _„Ihr habt versucht, das Lied zu verstehen.  
