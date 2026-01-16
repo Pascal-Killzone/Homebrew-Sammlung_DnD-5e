@@ -1,6 +1,6 @@
 {
-  "findText": "Read-Aloud",
-  "replaceText": "Narrative",
+  "findText": "Trefferpunkte",
+  "replaceText": "HP",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
