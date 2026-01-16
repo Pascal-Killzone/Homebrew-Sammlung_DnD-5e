@@ -1,4 +1,29 @@
 # Der Lebende Dungeon
+---
+## Vorwort
+
+Diese Gruft ist kein gewöhnlicher Dungeon.
+
+Was auf den ersten Blick wie ein vertrauter Ort wirkt – steinerne Gänge, Grabkammern, Relikte vergangener Zeiten – ist in Wahrheit ein zusammenhängender Organismus. Die Wände, der Boden, die Einrichtung und selbst der Raum zwischen ihnen sind Teil eines einzigen Wesens. Die Gruft ist nicht der Schauplatz des Abenteuers. **Sie ist das zentrale Monster.**
+
+Dieses Abenteuer ist so konzipiert, dass die Spielercharaktere den Dungeon zunächst als passiven Ort wahrnehmen. Nichts verhält sich offen feindselig, nichts zwingt zur Eile. Die Bedrohung liegt nicht im unmittelbaren Angriff, sondern in der stetigen, kaum wahrnehmbaren Beobachtung. Die Gruft lernt. Sie passt sich an. Sie imitiert Erwartungen, ohne sie perfekt zu erfüllen.
+
+Der finale Konflikt richtet sich nicht gegen ein Wesen _in_ der Gruft, sondern **gegen die Gruft selbst**. Der Dungeon ist der Endgegner. Seine Größe, Trägheit und Allgegenwart machen ihn nicht durch rohe Gewalt gefährlich, sondern durch Unvermeidbarkeit. Flucht ist keine Option – nur Konfrontation.
+
+Der Horror dieses Abenteuers entsteht durch Unsicherheit. Als Spielleitung solltest du diese Unsicherheit bewusst pflegen. Beschreibungen bleiben ruhig, präzise und zurückhaltend. Veränderungen sind minimal und oft zweifelhaft. Hinweise dürfen wahrgenommen werden, aber ihre Bedeutung sollte nie sofort bestätigt werden. Die Spieler sollen das Gefühl haben, einen Ort zu erkunden – während sie tatsächlich Teil eines langsamen Verdauungsprozesses sind.
+
+Kämpfe sind selten und gezielt eingesetzt. Sie dienen nicht als Höhepunkte, sondern als Störungen der vermeintlichen Normalität. Erst im Rückblick erkennen die Spieler, dass jede Kammer, jeder Gang und jede Begegnung Teil desselben Wesens war.
+
+Dieses Abenteuer entfaltet seine volle Wirkung, wenn die Enthüllung nicht schockiert, sondern nachvollziehbar erscheint. Wenn die Spieler nicht fragen _„Woher kam das?“_, sondern _„Wie konnten wir das übersehen?“_
+
+Leite diese Gruft mit Geduld.  
+Lass sie beobachten, ohne sich zu erklären.  
+Und wenn sie sich schließlich schließt, sollte klar sein:
+
+**Der Dungeon war nie nur der Weg zum Endgegner.  
+Er war es von Anfang an.**
+
+---
 ## Raum 1 – Eingang der Gruft
 
 ### Narrative
@@ -90,6 +115,10 @@ Wenn jemand fragt, **welche Namen**:
 - Genau **eine Mimic**
 - Keine Umgebungseffekte
 - Kein Dungeon-Eingreifen
+- Trotzdem Teil der Gruft
+
+**!!! Wichtig !!!**
+Keine EXP vergeben, diese bekommen sie erst, wenn sie den Dungeon verlassen oder den Endkampf überstehen.
 
 ### Nach dem Kampf – EXTREM wichtig
 Die Umgebung reagiert **nicht**.
@@ -225,8 +254,11 @@ Nach dem Kampf, wenn alles reglos ist:
 > _Nicht nur dort, wo gekämpft wurde._
 
 ### Kampf:
-Kampf gegen 4 Mimics (Tisch, Stuhl, Kelch und Schrank). 
+Kampf gegen 1-4 Mimics (Tisch, Stuhl, Kelch und Schrank).  
 Wenn die Party den Raum verlassen will ohne die Tür zu Raum 7 zu Checken 1D8 Wuchtschaden, die Tür "greift an"
+
+**!!! Wichtig !!!**
+Keine EXP vergeben, diese bekommen sie erst, wenn sie den Dungeon verlassen oder den Endkampf überstehen.
 
 ---
 ## Raum 7 – Der atmende Gang
@@ -318,8 +350,10 @@ Wenn jemand das Gold berührt oder aufhebt:
 
 > _Der Kampf beginnt._
 
+### Kampf
+Kampf gegen die Gruft (Die Allesfresser-Kolonie). Für die Monster Stat's siehe [[Homebrew Monster]] 
+
 ---
- 
 ## Die Flucht
 
 ### Die winzige Veränderung
