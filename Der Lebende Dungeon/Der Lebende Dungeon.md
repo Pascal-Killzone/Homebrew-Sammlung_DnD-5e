@@ -24,6 +24,115 @@ Und wenn sie sich schließlich schließt, sollte klar sein:
 Er war es von Anfang an.**
 
 ---
+## Der Prediger der "göttlichen Gruft"
+
+### Grundüberzeugung des Fanatikers
+- Die Gruft ist **kein Monster**, sondern **ein Werkzeug göttlicher Ordnung**
+- Sie wurde **nicht gebaut**, sondern **gesetzt**
+- Wer sie betritt, wird **gerichtet**
+- Dass niemand zurückkehrt, ist **Beweis**, kein Rätsel
+
+Er glaubt aufrichtig, was er sagt.
+
+## Die Predigt (fanatisch, religiös)
+
+> **„HÖRT, IHR, DIE IHR NOCH GEHEN DÜRFT!“**
+> 
+> „Es gibt einen Ort ohne Namen,  
+> weil kein Mensch ihn benennen durfte!“
+> 
+> **„Kein König ließ ihn errichten!“**  
+> „Kein Volk grub ihn aus!“  
+> „Denn kein Werkzeug aus Fleisch kann erschaffen,  
+> was nur durch reinen Wille gesetzt wurde!“
+> 
+> **„Ihr nennt es eine Gruft.“**  
+> „Aber ich sage euch:  
+> **Es ist ein Zeichen.**“
+> 
+> „Ein Ort, von dem niemand zurückkehrt!“  
+> „Nicht verletzt!“  
+> „Nicht fliehend!“  
+> „Nicht als Leiche!“
+> 
+> **„Und ihr nennt DAS ein Rätsel?“**
+> 
+> **„Ich nenne es Urteil!“**
+> 
+> **„Denn wenn es ein Monster wäre…“**  
+> „…würde man kämpfe hören!“  
+> „...würde man Blut finden!“  
+> „...würde man Reste sehen!“
+> 
+> **„Aber dort, im Allerheiligsten, herrscht Stille.“**
+> 
+> „So still wie nach einem gesprochenen Urteil.“
+>
+> "Doch sorget euch nicht, denn..."
+>
+> **„Die Gruft straft nicht!“**  
+> „Sie wählt nicht!“  
+> „Sie richtet jene die es wagen sie zu betreten!“
+> 
+> „Denn wer sie betritt, tritt nicht auf Stein.“  
+> „Er tritt vor einen **Gott** selbst.“
+> 
+> _(er hebt den Finger, fast sanft)_  
+> **„Und kein Gott in den Reichen schuldet euch eine Heimkehr.“**
+> 
+> **„Geht hinein, wenn ihr es wagt.“**  
+> „Aber nennt es nicht Mut.“
+>
+> **„Denn wer diesen Ort betritt, tritt nicht zurück.“**
+>
+> **„Kein Sterblicher verlässt das,  
+> was von einem Gott in Anspruch genommen wurde.“**
+>
+> **„Die Gruft gibt nichts frei.“**  
+> „Nicht Fleisch.“  
+> „Nicht Namen.“  
+> „Nicht Erinnerung.“
+>
+> **„Darum gibt es keine Rückkehrer.“**  
+> „Nicht, weil niemand überlebt.“  
+> **„Sondern weil niemand entlassen wird.“**
+
+Er senkt den Arm.  
+Kein Schrei. Kein Fluch.  
+Nur absolute Gewissheit.
+
+### Reaktionen der Stadt
+
+- **Wachen:**
+    > „Er steht da jeden Markttag. Hat noch nie jemandem geschadet.“
+    
+- **Wirt:**
+    > „Spinner. Aber er bringt Leute zum Zuhören.“
+    
+- **Priester (eines offiziellen Glaubens):**
+    > „Er verdreht göttliche Lehren. Aber… er kennt die alten Worte.“
+    
+- **Alter Bürger:**
+    > „Früher sprach er über etwas anderes. Vor der Gruft.“
+    
+
+### Wenn die Spieler ihn ansprechen
+#### Sein Ton ändert sich – ruhiger, fokussierter
+
+> **„Ich war nie dort.“**  
+> „Das musste ich auch nicht.“
+> 
+> **„Man muss einen Mund nicht betreten, um zu wissen, was er tut.“**
+> 
+> „Fragt nicht, _was_ dort lebt.“  
+> „Fragt, _warum es still ist_.“
+
+### Wenn sie nach Beweisen fragen
+
+> **„Beweise sind für Gerichte.“**  
+> **„Nicht für Orte, die niemand verlässt.“**
+
+---
 ## Raum 1 – Eingang der Gruft
 
 ### Narrative
@@ -285,9 +394,9 @@ Am Ende des Ganges:
 
 ### Narrative
 _Beim Betreten_
-> _Der Raum öffnet sich weit und unerwartet. Gold liegt überall. Münzen, Schmuck, Barren, lose auf dem Boden verteilt, in flachen Haufen, die das Licht gierig zurückwerfen. Es riecht nach Metall, stark und klar, beinahe berauschend. Der Traum eines jeden Abenteurers._
+> _Der Raum öffnet sich weit und unerwartet. Gold liegt überall. Münzen, Schmuck, Barren, lose auf dem Boden verteilt, in flachen Haufen, die das Licht gierig zurückwerfen. Es riecht nach Metall, stark und klar, beinahe berauschend.
 
-> _Der Boden ist hier trocken. Nicht klebrig. Fast angenehm fest. Die Luft ist ruhig, still, schwer vor Erwartung. Kein Pochen. Kein Knacken. Kein Widerstand._
+> _Der Boden ist hier trocken. Nicht klebrig. Fast angenehm fest. Die Luft ist ruhig, still, schwer vor Erwartung. Kein Pochen. Kein Knacken. Kein Widerstand. Nur Stille und ein Haufen Gold so weit das Auge reicht._
 
 Wenn jemand das Gold berührt oder aufhebt:
 -> Das Erwachen
@@ -329,14 +438,19 @@ Wenn jemand das Gold berührt oder aufhebt:
 > _Neben euch._  
 > _In euch._
 
-> _In diesem Moment wird euch klar:_  
-> _Ihr habt die Gruft nicht erkundet._
+> _Gedanken schieben sich übereinander._
+> _Der erste Raum._  
+> _Die Stille._
 
-> _Ihr wurdet geführt._
+> _Die Wärme in den Wänden._  
+> _Der Boden, der immer ein wenig nachgab._
 
-> _Jeder Gang, jede Kammer, jede Pause war kein Zufall._  
-> _Kein Raum war leer._  
-> _Kein Schritt unbeobachtet._
+> _Die Räume, die gleich waren._  
+> _Oder nie gleich gewesen sind._
+
+> _Nichts davon fühlt sich plötzlich neu an._
+
+> _Nur… anders angeordnet._
 
 > _Die Gruft hat euch nicht hereingelassen._  
 > _Sie hat euch tiefer gezogen._

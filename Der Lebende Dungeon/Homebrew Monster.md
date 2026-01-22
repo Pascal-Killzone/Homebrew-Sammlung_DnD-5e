@@ -69,9 +69,10 @@ Der Raum kollabiert teilweise:
 
 - Der Boden bleibt klebrig, aber reglos
 
-- Kein weiterer Dungeon reagiert
+- Dungeon bricht langsam zusammen
 
 ---
+
 
 # Die Allesfresser-Kolonie (Jungform)
 _Large Monstrosity (Shapechanger), chaotisch böse_  
@@ -106,6 +107,8 @@ Kälte; Wucht-, Stich- und Hiebschaden von nichtmagischen Angriffen
 Säure
 ## Zustandsimmunitäten
 Prone, Charmed
+## **Schadensschwäche**
+Feuer
 ## Sinne
 Blindsense 60 ft. (Vibrationen), Darkvision 60 ft., passive Wahrnehmung 14
 
@@ -180,11 +183,6 @@ Beim Tod der Kolonie:
 - Wände verlieren Spannung
     
 - Der Dungeon ist **sicher, aber organisch beschädigt**
-
-Sehr gut – dann baue ich die **Evolution der Allesfresser-Kolonie** logisch weiter aus.  
-Alle drei Formen bleiben thematisch **Dungeon → Organismus**, unterscheiden sich aber klar in **Bedrohungsart, Kontrolle des Raums und Eskalationsgrad**.
-
-Ich gebe dir **jeweils vollständige Statblöcke**, kompatibel mit deiner Jungform.
 
 ---
 
@@ -268,6 +266,8 @@ Initiative 20 (Verluste):
 - **Adhäsionswelle:** Boden ist schwieriges Gelände
 
 ---
+
+
 # Die Allesfresser-Kolonie (Proto-Dungeon)
 
 _Gargantuan Monstrosity (Shapechanger), chaotisch böse_  
@@ -302,7 +302,6 @@ Kälte, Feuer; Wucht-, Stich- und Hiebschaden von nichtmagischen Angriffen
 Säure
 ## Zustandsimmunitäten
 Prone, Charmed, Frightened
-
 ## Sinne
 Blindsense 90 ft., Darkvision 120 ft., passive Wahrnehmung 16
 
@@ -314,9 +313,7 @@ Die Kolonie weiß **immer**, wo sich Kreaturen in ihr befinden.
 
 ### Allgegenwärtige Adhäsion
 Der gesamte Raum zählt als **klebrig**.
-
 - **STR-Save DC 16** zu Beginn jedes Zuges oder **Grappled**
-    
 
 ---
 ## Aktionen

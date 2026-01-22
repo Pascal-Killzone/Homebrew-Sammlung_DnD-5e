@@ -72,7 +72,7 @@ _Zweck: Klar störend, aber kein direkter Schaden._
 ## Stufe 4: Realitätswunde (RB 10–12)
 
 - **Schnitt durch die Wirklichkeit:** Jeder SC macht einen CON-Save (DC 13).
-    - **Fail**: **1W6 psychischen Schaden** (nicht reduzierbar).
+    - **Fail**: **1D6 psychischen Schaden** (nicht reduzierbar).
     - **Erfolg**: Kein Schaden, aber bis zur nächsten Short Rest –1 auf alle Ability Checks.
 
 - **Zeitriss:** 1 SC (DM-Wahl oder Zufall) verliert seine nächste Bonus Action komplett.
@@ -87,7 +87,7 @@ _Zweck: Jetzt tut es weh – aber niemand stirbt daran._
 Wähle 1–2 große Effekte pro Session:
 
 - **Realitätskollaps:** Alle SC machen einen CON-Save (DC 15).
-    - Fail: **2W6 psychischen Schaden** und einen Erschöpfungslevel (Exhaustion Level 1).
+    - Fail: **2D6 psychischen Schaden** und einen Erschöpfungslevel (Exhaustion Level 1).
     - Erfolg: Halber Schaden, keine Exhaustion.
 
 - **Zerrissene Verbindung:** Bis zum nächsten Long Rest:
