@@ -122,7 +122,7 @@ Nur absolute Gewissheit.
 > **„Ich war nie dort.“**  
 > „Das musste ich auch nicht.“
 > 
-> **„Man muss einen Mund nicht betreten, um zu wissen, was er tut.“**
+> **„Man muss einen Schlund nicht betreten, um zu wissen, was er tut.“**
 > 
 > „Fragt nicht, _was_ dort lebt.“  
 > „Fragt, _warum es still ist_.“

@@ -25,26 +25,26 @@
             "id": "409c5795db16274f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Von Dunkelhain nach Drachenruh/Neverwinter_Map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Neverwinter_Map"
+            }
+          },
+          {
+            "id": "3e04fbee9f60866f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Lebende Dungeon/Der Lebende Dungeon.md",
+                "file": "Der Fluch von Dunkelhain/📖 Der Fluch von Dunkelhain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der Lebende Dungeon"
-            }
-          },
-          {
-            "id": "183be64aa599fc94",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "📖 Der Fluch von Dunkelhain"
             }
           }
         ],
@@ -197,11 +197,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "183be64aa599fc94",
+  "active": "3e04fbee9f60866f",
   "lastOpenFiles": [
-    "Der Lebende Dungeon/Homebrew Monster.md",
-    "Von Dunkelhain nach Drachenruh/Neverwinter.png",
+    "Von Dunkelhain nach Drachenruh/Der Übergang zur Sturmwack-Insel.md",
+    "Der Fluch von Dunkelhain/Tempel Grundriss.pdf",
+    "Der Fluch von Dunkelhain/🧪 Homebrew Monster.md",
+    "Der Fluch von Dunkelhain/📖 Der Fluch von Dunkelhain.md",
+    "Der Fluch von Dunkelhain/🏠 Allgemeine Hausregeln.md",
+    "Der Fluch von Dunkelhain/🎵 Musik für Szenen.md",
+    "Der Fluch von Dunkelhain/🍻 Tavernen-Minispiel - Der Letzte Krug.md",
+    "Der Fluch von Dunkelhain/🌿 Kräuterübersicht.md",
+    "Der Fluch von Dunkelhain/Landkarte.jpg",
+    "Der Fluch von Dunkelhain/Homebrew_Cult-Fanatic-Lord.txt",
+    "Der Fluch von Dunkelhain",
+    "Neuer Ordner",
+    "Von Dunkelhain nach Drachenruh/Neverwinter_Map.png",
     "Der Lebende Dungeon/Der Lebende Dungeon.md",
+    "Der Lebende Dungeon/Homebrew Monster.md",
     "Von Dunkelhain nach Drachenruh/generated-image.png",
     "Realitätsbruch",
     "Von Dunkelhain nach Drachenruh",
