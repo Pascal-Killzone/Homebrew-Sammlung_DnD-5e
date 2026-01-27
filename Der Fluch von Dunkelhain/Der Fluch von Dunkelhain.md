@@ -1,12 +1,12 @@
 # Der Fluch von Dunkelhain
 ⚙️ **System**: Dungeons & Dragons 5E  
 🧙 **Spieler**: 3–5 Level 1-Charaktere, Anfänger  
-⏱️ **Spielzeit**: 8-12 Stunden  
+⏱️ **Spielzeit**: 10-18 Stunden  
 🌍 **Setting**: Dunkelhain, ein verfluchtes Dorf, bedroht durch einen Bane-Tempel im Schattenwald  
-🎯 **Ziel**: Den Fluch des Tempels brechen
-🎵 Musik: [[🎵 Musik für Szenen]]
-🗺️ Karte: [[🗺️ Landkarte]]
-Anhang: [[🌿 Kräuterübersicht]], [[🍻 Tavern Items]], [[🏠 Allgemeine Hausregeln]], [[🛕Banes Tempel]]
+🎯 **Ziel**: Den Fluch des Tempels brechen (Kultanführer Varkis besiegen)
+🎵 Musik: [[Musik für Szenen]]
+🗺️ Karte: [[Landkarte]]
+Anhang: [[Kräuterübersicht]], [[Tavern Items]], [[Allgemeine Hausregeln]], [[Banes Tempel]]
 
 ---
 ## Szenen
@@ -25,7 +25,7 @@ Ein dichte Nebel umhüllt Nebelruh, ein vergessenes Hafenstädtchen an der rauen
 5. Fünfter Spieler: Du kommst als Letzter. Lira schubst dich: „Letzter Platz am Tisch – setz dich, oder raus!“ Der Tisch ist nun voll. „Beschreibe deinen Charakter: Was denkst du bei diesem unfreiwilligen Treffen?“
 
 #### 🍻 Tavernen-Minispiel - Der Letzte Krug
-Siehe: [[🍻 Tavernen-Minispiel - Der Letzte Krug]]
+Siehe: [[Tavernen-Minispiel - Der Letzte Krug]]
 
 #### 📜Narrative Beschreibung: Der Kapitän betritt den „Salzigen Anker“
 Ein Windstoß fegt durch die Taverne, als die knarrende Tür mit einem Krachen aufgerissen wird. Nebelschwaden dringen ins Innere, und für einen Moment ist nichts zu sehen außer Silhouetten – dann tritt er ein: ein breitschultriger Zwerg in wettergegerbtem Mantel, dessen Kapuze tropft und der nach Seetang, Rauch und altem Rum riecht.
@@ -283,7 +283,7 @@ In der Ferne, am Rand des Feldes, stehen schiefe Gestalten – alte **Vogelscheu
   _„Die Vogelscheuche scheint sich leicht zu bewegen – oder war es nur der Wind…?“_
 
 #### 🌱 Kräuterliste 
-Siehe: [[🌿 Kräuterübersicht]]
+Siehe: [[Kräuterübersicht]]
 
 ---
 ### Szene 1C: Begegnung mit der Vogelscheuche (Optional)
@@ -748,9 +748,8 @@ Bane verleiht Varkis einen temporären Segen, der seine Angriffe verstärkt, ihm
 
 #### 🧩 **Mechaniken**
 - **Monster**:
-  - Cult Fanatik Varkis(HG 2, 450 EP): AC 13, 33 HP, Inflict Wounds (+5 to hit, 3W10), Command (Weisheit DC 12).
-  - Schatten (2-3 × HG 1/2, 200 EP): AC 12, 16 HP, Stärke-Sabbelung (Konstitution DC 10).
-  - Kultisten (2-4 × HG 1/8, 100 EP): AC 12, 9 HP, Dolch (+4 to hit, 1W4+2).
+  - Cult Fanatik Lord Varkis -> siehe [[Homebrew Monster]]
+  - 2x Schatten oder 4x Kultisten 
 - **🎲 Proben**:
   - Investigation DC 13: Auge-Symbol (doppelter Schaden gegen Varkis).
   - Einschüchterung DC 15: Variks verunsichert (Nachteil auf Zauber).

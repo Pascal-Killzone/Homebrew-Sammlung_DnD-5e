@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Lebende Dungeon/Homebrew Monster.md",
+                "file": "Der Fluch von Dunkelhain/Homebrew Monster.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,14 +25,17 @@
             "id": "409c5795db16274f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Der Fluch von Dunkelhain/Der Fluch von Dunkelhain.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Der Fluch von Dunkelhain"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +184,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1dd9946634a0f9f0",
+  "active": "7587a5f486cf2dc3",
   "lastOpenFiles": [
+    "Der Lebende Dungeon/Homebrew Monster.md",
+    "Der Fluch von Dunkelhain/Der Fluch von Dunkelhain.md",
+    "Der Fluch von Dunkelhain/Homebrew Monster.md",
+    "Der Fluch von Dunkelhain/Banes Tempel.md",
+    "Der Fluch von Dunkelhain/Allgemeine Hausregeln.md",
+    "Der Fluch von Dunkelhain/Tavern Items.md",
+    "Der Fluch von Dunkelhain/Kräuterübersicht.md",
+    "🌿 Kräuterübersicht.md",
     "Der Fluch von Dunkelhain/🛕 Banes Tempel.md",
     "Der Fluch von Dunkelhain/🏠 Allgemeine Hausregeln.md",
     "Der Fluch von Dunkelhain/🗺️ Landkarte.md",
@@ -202,7 +213,6 @@
     "Der Fluch von Dunkelhain",
     "Neuer Ordner",
     "Der Lebende Dungeon/Der Lebende Dungeon.md",
-    "Der Lebende Dungeon/Homebrew Monster.md",
     "Von Dunkelhain nach Drachenruh/generated-image.png",
     "Realitätsbruch",
     "Von Dunkelhain nach Drachenruh",

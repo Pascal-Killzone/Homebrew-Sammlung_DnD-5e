@@ -25,16 +25,18 @@ Medium humanoid (human), chaotic evil
 
 - **Cantrips** (at will): guidance, sacred flame, thaumaturgy
 - **1st level** (4 slots): command, inflict wounds, shield of faith
-- **2nd level** (3 slots): hold person, spiritual weapon
-- **3rd level** (2 slots): bestow curse, spirit guardians
+- **2nd level** (2 slots): hold person, spiritual weapon
+- **3rd level** (1 slots): bestow curse, spirit guardians
 
 **Fanatical Command** (One Time Use). The Fanatic targets one creature it can see within 30 ft. The target must succeed on a DC 13 Wisdom saving throw or be charmed by the Fanatic for 1 minute or until it takes damage. A charmed target must use its action on its next turn to attack a creature of the Fanatic’s choice other than itself.
+
+**Aura of Fear** (1/round). The Fanatic raises his amulet, and a wave of fear washes over you, as if Bane’s gaze crushes you down!” Each creature within 15 ft. must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn. On a success, the creature is immune to this aura for 24 hours.
 
 **Phase 1: Fanatical Zeal (Recharge 5–6)** 
 As a bonus action when the Fanatic is reduced to half its hit points or fewer for the first time, it enters a zealous phase until the end of its next turn. During this phase:
 
 - Its speed increases to 40 ft.
-- It regains 13 (2d8 + 4) hit points.
+- It regains 13 (2d6 + 4) hit points.
 - Its spiritual weapon and spirit guardians deal an extra 1d8 necrotic damage on a hit or in the area.  
     At the end of this phase, it can repeat the effect if it recharges.
 
@@ -43,7 +45,7 @@ When  the Fanatic is reduced to 20 hit points or fewer, Bane grants it this bles
 
 -  The Fanatic gains 10 temporary hit points.
 - Its melee attacks deal an extra 2 necrotic damage.
-- As an action (1/round),  the Fanatic activates Aura of Fear: “ the Fanatic raises his amulet, and a wave of fear washes over you, as if Bane’s gaze crushes you down!” Each creature within 10 ft. must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn (can’t move toward  the Fanatic and has disadvantage on attack rolls). On a success, the creature is immune to this aura for 24 hours.
+- The Fanatic gains the bonus action **Aura of Fear** 
 
 ---
 **Multiattack**.  The Fanatic makes two attacks: one with its scimitar and one with its dagger or a cantrip.
