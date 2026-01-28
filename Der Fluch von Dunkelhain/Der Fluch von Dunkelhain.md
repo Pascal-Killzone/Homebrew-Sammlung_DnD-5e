@@ -748,7 +748,7 @@ Bane verleiht Varkis einen temporären Segen, der seine Angriffe verstärkt, ihm
 
 #### 🧩 **Mechaniken**
 - **Monster**:
-  - Cult Fanatik Lord Varkis -> siehe [[Homebrew Monster]]
+  - Cult Fanatik Lord Varkis -> siehe [[Cult Fanatic Lord - Homebrew]]
   - 2x Schatten oder 4x Kultisten 
 - **🎲 Proben**:
   - Investigation DC 13: Auge-Symbol (doppelter Schaden gegen Varkis).
