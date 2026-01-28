@@ -3,7 +3,6 @@
 ### Eine Dungeons & Dragons 5e-Kampagne im Schatten der Tyrannei
 
 ---
-
 ## Überblick
 
 **„Der Fluch von Dunkelhain“** ist eine nebelverhangene, bedrückende Einsteiger-Kampagne über Furcht, Unterdrückung und den schmalen Grat zwischen Gehorsam und Auflehnung.
@@ -16,11 +15,10 @@ und jeder Sonnenstrahl durch den Fluch hindurchgefiltert wird.
 > _„Freiheit ist kein Geschenk. Sie ist das, was übrig bleibt, wenn die Furcht stirbt.“_
 
 ---
-
 ## Die Welt
 
 Die Kampagne spielt an einer rauen, nebelverhangenen Küste,  
-wo das kleine Fischerdorf **Dunkelhain** unter einem uralten Fluch leidet.  
+wo das kleine  **Dunkelhain** unter einem Fluch leidet.  
 Der **Schattenwald** frisst jedes Licht,  
 und tief darin erhebt sich der **Tempel des Bane**,  
 aus dem die Macht der Tyrannei sickert.
@@ -34,7 +32,6 @@ Er lässt Felder verdorren, Herzen erstarren
 und selbst die mutigsten Seelen in starrem Gehorsam ertrinken.
 
 ---
-
 ## Das Abenteuer
 
 Die Charaktere werden in einer verräucherten Taverne zusammengewürfelt,  
@@ -51,7 +48,6 @@ ob Dunkelhain befreit wird –
 oder ob Banes Ordnung für immer siegt.
 
 ---
-
 ## Stimmung & Themen
 
 - **Erdrückender Horror** – nicht durch Monster, sondern durch lähmende Angst.
@@ -63,7 +59,6 @@ oder ob Banes Ordnung für immer siegt.
 > Sie kamen, weil niemand sonst kam.“_
 
 ---
-
 ## Struktur & Spielweise
 
 - **System:** Dungeons & Dragons 5e
@@ -78,7 +73,6 @@ Jede Begegnung steigert die Spannung –
 jeder Sieg ein Riss im eisernen Griff des Fluchs.
 
 ---
-
 ## Hinweise für Spielleiter
 
 Diese Kampagne ist **kein episches Großabenteuer**.  
@@ -92,7 +86,6 @@ bis das Dorf wieder lebt –
 oder für immer erstarrt.
 
 ---
-
 ## Ursprung & Vision
 
 Ein klassisches, kompaktes Einsteiger-Modul,  
