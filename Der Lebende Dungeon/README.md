@@ -1,4 +1,4 @@
-# README: Der Lebende Dungeon
+# Der Lebende Dungeon
 
 ## Kurzer Überblick
 **Der Lebende Dungeon** ist ein **stand-alone Horror-Dungeon** für **D&D 5E**, der nahtlos in jede Kampagne eingebaut werden kann (empfohlen für **Level 4–7**, abhängig von Party-Größe). Die "Gruft" ist **kein Ort** – sie ist **das Monster**: Eine wachsende **Allesfresser-Kolonie** (siehe [[Homebrew Monster.md]]), die sich als Dungeon tarnt, lernt und verdaut. Spieler spüren subtile Unheimlichkeit, bis der finale Kampf gegen die Kolonie selbst entbrennt.
