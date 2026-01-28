@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Lebende Dungeon/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,9 +187,11 @@
   },
   "active": "3b6e1804bad539ac",
   "lastOpenFiles": [
-    "Der Fluch von Dunkelhain/README.md",
-    "Der Lebende Dungeon/README.md",
+    "git.ignore.md",
+    "Textdokument (neu).txt",
     "README.md",
+    "Der Lebende Dungeon/README.md",
+    "Der Fluch von Dunkelhain/README.md",
     "Von Dunkelhain nach Drachenruh/Der Übergang zur Sturmwack-Insel.md",
     "Von Dunkelhain nach Drachenruh/Neverwinter_Map.png",
     "Der Lebende Dungeon/Der Lebende Dungeon.md",
@@ -214,7 +216,6 @@
     "Der Fluch von Dunkelhain/Anhänge/Tempel Grundriss.pdf",
     "Der Fluch von Dunkelhain/🧪 Homebrew Monster.md",
     "Der Fluch von Dunkelhain/🎵 Musik für Szenen.md",
-    "Der Fluch von Dunkelhain/🍻 Tavernen-Minispiel - Der Letzte Krug.md",
     "Der Fluch von Dunkelhain/Anhänge/Landkarte.jpg",
     "Der Fluch von Dunkelhain/Homebrew_Cult-Fanatic-Lord.txt",
     "Der Fluch von Dunkelhain",
@@ -223,7 +224,6 @@
     "Realitätsbruch",
     "Von Dunkelhain nach Drachenruh",
     "Der Lebende Dungeon",
-    "Untitled.base",
-    "Das Lied der Tiefe"
+    "Untitled.base"
   ]
 }

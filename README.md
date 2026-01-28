@@ -7,7 +7,7 @@ Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumind
 
 ## Inhalte dieses Repos
 
-| Ordner                  | Inhalt                                                                                                  |
+| Themenbereiche          | Inhalt                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------- |
 | `Abenteuer/`            | fertige oder halbfertige One-Shots, Mini-Kampagnen und Story-Ideen                                      |
 | `Kreaturen/`            | neue Monster, NPCs, Bossgegner, umgebaute Bestien                                                       |
