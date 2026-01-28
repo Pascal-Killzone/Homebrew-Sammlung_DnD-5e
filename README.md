@@ -13,11 +13,11 @@ Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumind
 | `Kreaturen/`            | neue Monster, NPCs, Bossgegner, umgebaute Bestien                                                       |
 | `Klassen & Subklassen/` | >>>> NOCH NICHT KOMMT ABER BALD<<<<<br>eigene (Sub-)Klassen, Archetypen, Patches für bestehende Klassen |
 | `Regeln & Mechaniken/`  | neue oder veränderte Regeln (z. B. Crafting, Downtime, Massenkampf, alternative Magiesysteme)           |
-| `Gegenstände & Magie/`  | magische Items, Artefakte, Flüche, Tränke, Waffen-Varianten                                             |
+| `Gegenstände & Magie/`  | >>>> NOCH NICHT KOMMT ABER BALD<<<<<br>magische Items, Artefakte, Flüche, Tränke, Waffen-Varianten      |
 | `Settings & Lore/`      | Weltbeschreibungen, Fraktionen, Götterpantheons, Orte, Hintergrundgeschichten                           |
 | `Tools & Vorlagen/`     | Charakterbögen, Tabellen (Zufallsbegegnungen, Schätze, Namen, …), Hausregeln-Übersicht                  |
 
-## Meine Design-Philosophie (kurz)
+## Meine Design-Philosophie
 
 - Spaß > Balance  
 - Story und Atmosphäre stehen oft über Mechanik  
@@ -28,7 +28,7 @@ Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumind
 ## Wie benutzt man das Ganze?
 
 1. Such dir raus, was du brauchst  
-2. Kopiere den Text / die Mechanik in dein eigenes Dokument  
+2. Kopiere den Text in dein eigenes Dokument oder Editor - *(Sidenote: ich nutze Obsidian :D)*
 3. Passe alles stark an deine Gruppe an – fast nichts ist 1:1 spielbar ohne Anpassung  
 4. Viel Spaß beim Testen und kaputtspielen!
 

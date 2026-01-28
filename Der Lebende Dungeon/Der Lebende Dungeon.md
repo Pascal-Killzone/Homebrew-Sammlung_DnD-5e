@@ -184,30 +184,7 @@ Bei genauerer Untersuchung der Sarkophage erkennen Sie das sich einer Öffnen l�
 	- Schild +1 oder Trank der Heilung
 
 ---
-## Raum 3 – Der Gang der Namen
-
-### Narrative
->_Der Gang verengt sich, kaum breit genug für 2 Personen, und wirkt gleichmäßiger gearbeitet als die vorherigen Räume._
-
-> _Der Geruch verändert sich kaum, aber die Luft wirkt dichter, schwerer zu atmen, als hätte der Raum selbst wenig Interesse daran, Geräusche oder Bewegung weiterzutragen. Eure Stimmen klingen dumpfer, näher an euch, als würden sie vom Stein verschluckt._
-> 
-> _Zu beiden Seiten ziehen sich in den Stein gemeißelte Namen – Dutzende, vielleicht Hunderte. Manche tief eingeschnitten, andere kaum noch lesbar. Das Licht der Fackeln tanzt über die Buchstaben, doch der Gang wirkt… still. Unnatürlich still._
-
-**Nur wenn ein Spieler die Wand untersucht:**
-> _Der Stein um sie herum wirkt glatter als erwartet, fast poliert durch Berührung oder Zeit. Wenn ihr nah herantretet, fühlt sich die Wand nicht kalt an – eher lauwarm, gerade genug, um es zu bemerken._
-
-### Wenn Spieler die Namen untersuchen
-#### Allgemeine Beschreibung
-> _Die Namen sind in unterschiedlichen Stilen gemeißelt. Manche wirken hastig, andere sorgfältig. Es gibt keine Jahreszahlen, keine Titel – nur Namen._
-
-Wenn jemand fragt, **welche Namen**:
-- Menschlich; Zwergisch; Elfisch; Auch fremde, nicht ganz bekannte Namensformen
-
-## Optional: Leichter Foreshadowing-Satz (nur EINMAL)
-> _„Seltsam – keiner der Namen ist durchgestrichen.“_
-
----
-## Raum 4 – Die Schatzkammer
+## Raum 3 – Die Schatzkammer
 
 ### Narrative
 >  _Der Raum wirkt vertrauter als alles zuvor. Die Luft ist etwas trockener, der Geruch weniger schwer. Stein, Rost, altes Holz. Dinge, die man kennt._
@@ -235,6 +212,29 @@ Sag Dinge wie:
 - „Der Raum bleibt still.“
 - „Kein weiteres Geräusch.“
 - „Nur der tote Körper der Kreatur.“
+
+---
+## Raum 4 – Der Gang der Namen
+
+### Narrative
+>_Der Gang verengt sich, kaum breit genug für 2 Personen, und wirkt gleichmäßiger gearbeitet als die vorherigen Räume._
+
+> _Der Geruch verändert sich kaum, aber die Luft wirkt dichter, schwerer zu atmen, als hätte der Raum selbst wenig Interesse daran, Geräusche oder Bewegung weiterzutragen. Eure Stimmen klingen dumpfer, näher an euch, als würden sie vom Stein verschluckt._
+> 
+> _Zu beiden Seiten ziehen sich in den Stein gemeißelte Namen – Dutzende, vielleicht Hunderte. Manche tief eingeschnitten, andere kaum noch lesbar. Das Licht der Fackeln tanzt über die Buchstaben, doch der Gang wirkt… still. Unnatürlich still._
+
+**Nur wenn ein Spieler die Wand untersucht:**
+> _Der Stein um sie herum wirkt glatter als erwartet, fast poliert durch Berührung oder Zeit. Wenn ihr nah herantretet, fühlt sich die Wand nicht kalt an – eher lauwarm, gerade genug, um es zu bemerken._
+
+### Wenn Spieler die Namen untersuchen
+#### Allgemeine Beschreibung
+> _Die Namen sind in unterschiedlichen Stilen gemeißelt. Manche wirken hastig, andere sorgfältig. Es gibt keine Jahreszahlen, keine Titel – nur Namen._
+
+Wenn jemand fragt, **welche Namen**:
+- Menschlich; Zwergisch; Elfisch; Auch fremde, nicht ganz bekannte Namensformen
+
+### Optional: Leichter Foreshadowing-Satz (nur EINMAL)
+> _„Seltsam – keiner der Namen ist durchgestrichen.“_
 
 ---
 ## Raum 5 – Die stillen Räume (Optional)

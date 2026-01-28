@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7587a5f486cf2dc3",
+            "id": "947cb5ae9c5cd51e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Fluch von Dunkelhain/Cult Fanatic Lord - Homebrew.md",
+                "file": "Der Lebende Dungeon/Der Lebende Dungeon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cult Fanatic Lord - Homebrew"
+              "title": "Der Lebende Dungeon"
             }
           },
           {
-            "id": "329d730ed831f507",
+            "id": "3b6e1804bad539ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Von Dunkelhain nach Drachenruh/Der Übergang zur Sturmwack-Insel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0d1cd0afa7355bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Der Fluch von Dunkelhain/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "409c5795db16274f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Der Fluch von Dunkelhain/Der Fluch von Dunkelhain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der Fluch von Dunkelhain"
+              "title": "Der Übergang zur Sturmwack-Insel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,13 +185,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0d1cd0afa7355bda",
+  "active": "3b6e1804bad539ac",
   "lastOpenFiles": [
+    "Von Dunkelhain nach Drachenruh/Neverwinter_Map.png",
+    "Von Dunkelhain nach Drachenruh/Der Übergang zur Sturmwack-Insel.md",
+    "Der Lebende Dungeon/README.md",
+    "Der Lebende Dungeon/Der Lebende Dungeon.md",
+    "Der Lebende Dungeon/Homebrew Monster.md",
+    "Das Lied der Tiefe/Das Buch der Tiefe.md",
+    "Das Lied der Tiefe/Das Lied der Tiefe.md",
+    "Das Lied der Tiefe/README.md",
     "README.md",
+    "Der Fluch von Dunkelhain/Der Fluch von Dunkelhain.md",
     "Der Fluch von Dunkelhain/README.md",
     "Der Fluch von Dunkelhain/Cult Fanatic Lord - Homebrew.md",
-    "Der Lebende Dungeon/Homebrew Monster.md",
-    "Der Fluch von Dunkelhain/Der Fluch von Dunkelhain.md",
     "Der Fluch von Dunkelhain/Banes Tempel.md",
     "Der Fluch von Dunkelhain/Allgemeine Hausregeln.md",
     "Der Fluch von Dunkelhain/Tavern Items.md",
@@ -230,28 +209,20 @@
     "Der Fluch von Dunkelhain/🗺️ Landkarte.md",
     "Der Fluch von Dunkelhain/🍻 Tavern Items.md",
     "Der Fluch von Dunkelhain/Anhänge",
-    "Von Dunkelhain nach Drachenruh/Neverwinter_Map.png",
     "🍻 Tavern Items.md",
     "Der Fluch von Dunkelhain/📖 Der Fluch von Dunkelhain.md",
-    "Von Dunkelhain nach Drachenruh/Der Übergang zur Sturmwack-Insel.md",
     "Der Fluch von Dunkelhain/Anhänge/Tempel Grundriss.pdf",
     "Der Fluch von Dunkelhain/🧪 Homebrew Monster.md",
     "Der Fluch von Dunkelhain/🎵 Musik für Szenen.md",
     "Der Fluch von Dunkelhain/🍻 Tavernen-Minispiel - Der Letzte Krug.md",
-    "Der Fluch von Dunkelhain/🌿 Kräuterübersicht.md",
     "Der Fluch von Dunkelhain/Anhänge/Landkarte.jpg",
     "Der Fluch von Dunkelhain/Homebrew_Cult-Fanatic-Lord.txt",
     "Der Fluch von Dunkelhain",
     "Neuer Ordner",
-    "Der Lebende Dungeon/Der Lebende Dungeon.md",
     "Von Dunkelhain nach Drachenruh/generated-image.png",
     "Realitätsbruch",
     "Von Dunkelhain nach Drachenruh",
-    "Realitätsbruch/Realitätsbruch – Die Welt straft Meta-Spiel.md",
-    "Das Lied der Tiefe/Das Lied der Tiefe.md",
     "Der Lebende Dungeon",
-    "Das Lied der Tiefe/Das Buch der Tiefe.md",
-    "Das Lied der Tiefe/Bestiarium der Threnai.md",
     "Untitled.base",
     "Das Lied der Tiefe"
   ]

@@ -1,10 +1,10 @@
-# 🎭 **Das Lied der Tiefe**
+# **Das Lied der Tiefe**
 
 ### Eine Dungeons & Dragons 5e-Kampagne im Universum der Resonanz
 
 ---
 
-## 🜂 Überblick
+## Überblick
 
 **„Das Lied der Tiefe“** ist eine düstere, philosophisch-mystische D&D-5e-Kampagne über Klang, Erinnerung und das unausweichliche Gleichgewicht zwischen Leben und Stille.
 
@@ -17,7 +17,7 @@ und jedes Herz nur schlägt, weil es noch nicht im Einklang ruht.
 
 ---
 
-## 🕯️ Die Welt
+##  Die Welt
 
 Die Kampagne spielt in einer Region,  
 in der Realität und Schwingung einander durchdringen –  
@@ -40,7 +40,7 @@ bis sie sich selbst verlieren.
 
 ---
 
-## ⚔️ Das Abenteuer
+## Das Abenteuer
 
 Die Spieler beginnen in einer Stadt,  
 deren Bewohner im Gleichmaß atmen und träumen.  
@@ -57,7 +57,7 @@ oder ihn brechen, um das Leben erneut dissonant zu machen.
 
 ---
 
-## 🜄 Stimmung & Themen
+## Stimmung & Themen
 
 - **Kosmischer Horror** – nicht aus Monstern, sondern aus Erkenntnis.
     
@@ -73,7 +73,7 @@ oder ihn brechen, um das Leben erneut dissonant zu machen.
 
 ---
 
-## 🧩 Struktur & Spielweise
+## Struktur & Spielweise
 
 - **System:** Dungeons & Dragons 5e
     
@@ -93,7 +93,7 @@ jede Konfrontation ist ein Spiegel der inneren Resonanz der Figuren.
 
 ---
 
-## 🜃 Hinweise für Spielleiter
+## Hinweise für Spielleiter
 
 Diese Kampagne ist **kein Heldenepos**.  
 Sie verlangt Geduld, Subtext und die Bereitschaft,  
@@ -106,7 +106,7 @@ hinterlässt ein Echo, das ihr nicht mehr loswerdet.
 
 ---
 
-## 🜁 Ursprung & Vision
+## Ursprung & Vision
 
 Ein Projekt aus der Reihe **„Chroniken der Tiefe“**,  
 inspiriert von _Lovecraft_, _Destiny_ und der Idee,  
