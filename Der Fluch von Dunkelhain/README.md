@@ -1,4 +1,4 @@
-# **Der Fluch von Dunkelhain**
+# README: Der Fluch von Dunkelhain
 
 ### Eine Dungeons & Dragons 5e-Kampagne im Schatten der Tyrannei
 

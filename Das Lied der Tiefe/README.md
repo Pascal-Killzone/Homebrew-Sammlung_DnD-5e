@@ -1,4 +1,4 @@
-# **Das Lied der Tiefe**
+# README: Das Lied der Tiefe
 
 ### Eine Dungeons & Dragons 5e-Kampagne im Universum der Resonanz
 

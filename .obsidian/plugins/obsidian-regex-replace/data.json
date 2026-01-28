@@ -1,0 +1,10 @@
+{
+  "findText": "Trefferpunkte",
+  "replaceText": "HP",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}
