@@ -5,8 +5,8 @@
 🌍 **Setting**: Dunkelhain, ein verfluchtes Dorf, bedroht durch einen Bane-Tempel im Schattenwald  
 🎯 **Ziel**: Den Fluch des Tempels brechen (Kultanführer Varkis besiegen)
 🎵 Musik: [[Musik für Szenen]]
-🗺️ Karte: [[Landkarte]]
-Anhang: [[Kräuterübersicht]], [[Tavern Items]], [[Allgemeine Hausregeln]], [[Banes Tempel]]
+🗺️ Karte: [[Landkarte.jpg]]
+Anhang: [[Cult Fanatic Lord - Homebrew]], [[Kräuterübersicht]], [[Musik für Szenen]], [[Tavernen Angebote]], [[Tavernen-Minispiel - Der Letzte Krug]], [[Tempel Grundriss.pdf]]
 
 ---
 ## Szenen
@@ -18,7 +18,7 @@ Ein dichte Nebel umhüllt Nebelruh, ein vergessenes Hafenstädtchen an der rauen
 
 #### 🧑‍🎭 Charakter-Intros und Zwangsversammlung
 
-1. Erster Spieler: Du betrittst die Taverne zuerst. Lira winkt dich zum leeren Tisch:„Hier rüber!“ Du setzt dich, musterst den Raum. „Beschreibe deinen Charakter: Wie wirkt er auf die anderen? Was spürst du in der Enge?“
+1. Erster Spieler: Du betrittst die Taverne zuerst. Lira winkt dich zum leeren Tisch: „Hier rüber!“ Du setzt dich, musterst den Raum. „Beschreibe deinen Charakter: Wie wirkt er auf die anderen? Was spürst du in der Enge?“
 2. Zweiter Spieler: Du kommst als Nächster herein. Misstrauische Blicke von den Fischern am Nebentisch scheuchen dich weiter: „Nicht hier, Fremder – zu voll!“ Du landest am Tisch mit dem Ersten. „Beschreibe deinen Charakter: Wie reagierst du auf den Fremden?“
 3. Dritter Spieler: Du trittst ein. Lira packt deinen Arm: „Zur Ecke – der Tisch ist voll, aber quetscht dich rein!“ Du sitzt nun zu dritt. „Beschreibe deinen Charakter: Wie erscheinst du? Was denkst du bei dieser Nähe?“
 4. Vierter Spieler: Du betrittst den Raum. Ein paar Händler starren dich an und nicken abweisend zu ihren vollen Bänken, was dich zum Ecktisch treibt. „Zu den anderen da – unser Tisch ist besetzt!“ Du quetschst dich hinzu. „Beschreibe deinen Charakter: Wie fühlst du dich in dieser Gruppe?“
@@ -748,13 +748,13 @@ Bane verleiht Varkis einen temporären Segen, der seine Angriffe verstärkt, ihm
 
 #### 🧩 **Mechaniken**
 - **Monster**:
-  - Cult Fanatik Lord Varkis -> siehe [[Cult Fanatic Lord - Homebrew]]
+  - Cult Fanatic Lord -> siehe [[Cult Fanatic Lord - Homebrew]] im Anhang
   - 2x Schatten oder 4x Kultisten 
 - **🎲 Proben**:
   - Investigation DC 13: Auge-Symbol (doppelter Schaden gegen Varkis).
-  - Einschüchterung DC 15: Variks verunsichert (Nachteil auf Zauber).
+  - Einschüchterung DC 15: Varkis verunsichert (Nachteil auf Zauber).
 #### **🎁 Belohnungen**:
-  - 170 EP (Variks, Schatten).
+  - 170 EP (Varkis, Schatten).
   - 25 EP (Kael-Hinweis genutzt).
   - 50 EP (Fluch gebrochen).
 ---
@@ -762,7 +762,7 @@ Bane verleiht Varkis einen temporären Segen, der seine Angriffe verstärkt, ihm
 
 #### 📜 **Narrative Beschreibung**
 
-**Nach besigen von Varkis**
+**Nach besiegen von Varkis**
 Ein tiefes Grollen erschüttert die Hauptkammer, als Banes Altar in sich zusammenfällt. 
 Ein gleißender Lichtstrahl bricht durch die Decke des Tempels und zersplittert die Dunkelheit wie Glas. 
 
@@ -803,7 +803,7 @@ Der Schattenwald jenseits der Klippen erzittert – die knorrigen Bäume, die eu
 >		„Ich hab Banes Priester gesehen, vor Monaten, mit diesem verdammten Amulett. Dachte, wir wären verloren, aber ihr habt’s geschafft!“
 
 - **Nach Zukunft fragen**: 
- >„Ich bleib hier, handel wieder, wie früher. Kommt zurück, ich schulde euch ‘nen Rabatt!“  
+ >„Ich bleib hier und handle wieder... wie früher. Kommt zurück, ich schulde euch ‘nen Rabatt!“  
 
 **Allgemeine Dorfbewohner**  
 >„Die Sonne! Sie ist zurück!“ rufen Stimmen über den Platz, als Dorfbewohner aus ihren Häusern strömen. „Banes Fluch ist weg – ihr seid Helden!“ Ein Kind wirft euch eine Blume zu, während andere klatschen und lachen.  
