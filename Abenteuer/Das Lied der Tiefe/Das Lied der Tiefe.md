@@ -6,7 +6,6 @@
 ## **Kapitel 1 – Ankunft in Tharum**
 ---
 ### **Szene 1 – Staubstraße & Tor**
-
 _(Ankommen, erster Eindruck)_
 
 **Boxtext:**
@@ -45,7 +44,6 @@ _(Ankommen, erster Eindruck)_
 ---
 
 ### **Szene 2 – Markt, Werkstätten & Pausen im Alltag**
-
 _(Freie Erkundung, erste Ortsbindung)_
 
 **Boxtext:**
@@ -94,7 +92,6 @@ Wenn man nachfragt, kichert sie nur und läuft davon. Niemand weiß, wovon sie r
 ---
 
 ### **Szene 3 – Gasthaus „Zimbel & Salz“**
-
 _(Soziale Kontakte, Nacht, leise Unruhe)_
 
 **Boxtext:**
@@ -138,7 +135,6 @@ _(Soziale Kontakte, Nacht, leise Unruhe)_
 ## **Kapitel 2 – Spuren der Mine**
 ---
 ### **Szene 4 – Der falsche Takt**
-
 _(Vom Gerücht zur Spur, beginnender Bruch im Alltag)_
 
 **Boxtext:**
@@ -206,7 +202,6 @@ _(Vom Gerücht zur Spur, beginnender Bruch im Alltag)_
 ---
 
 ### **Szene 5 – Der Zwischenfall auf der Straße**
-
 _(Erster sichtbarer Fehler – der Unfall und der Kampf)_
 
 **Boxtext:**
@@ -265,7 +260,6 @@ _(Erster sichtbarer Fehler – der Unfall und der Kampf)_
 ---
 
 ### **Szene 6 – Maris Vahr**
-
 _(Menschliche Perspektive, erste Tiefe im Mysterium)_
 
 **Boxtext:**
@@ -323,7 +317,6 @@ Dieses Kapitel soll erstmals klaustrophobisch, leise und körperlich wirken – 
 ## **Kapitel 3 – Die unterirdische Wunde**
 ---
 ### **Szene 7 – Zum alten Schacht**
-
 _(Reise, Stimmung, erste Vorahnung)_
 
 **Boxtext:**
@@ -358,7 +351,6 @@ _(Reise, Stimmung, erste Vorahnung)_
 ---
 
 ### **Szene 8 – Der Stollenmund**
-
 _(Betreten der Tiefe)_
 
 **Boxtext:**
@@ -395,7 +387,6 @@ Bei falscher Reihenfolge fällt Staub von der Decke, was Heimlichkeitswürfe bis
 ---
 
 ### **Szene 9 – Seitengang und Atemkammer**
-
 _(Erkundung, Orientierung, leichte Gefahren)_
 
 **Boxtext:**
@@ -432,7 +423,6 @@ _(Erkundung, Orientierung, leichte Gefahren)_
 ---
 
 ### **Szene 10 – Die Glockenkammer**
-
 _(Rätsel und Stimmung)_
 
 **Boxtext:**
@@ -466,7 +456,6 @@ Der Spalt führt zu einer kurzen Treppe, die in eine weitere Kammer hinabführt 
 ---
 
 ### **Szene 11 – Der Wächter der Kammer**
-
 _(Kampf 2 – erstes klares Übernatürliches)_
 
 **Boxtext:**
@@ -520,7 +509,6 @@ _(Für die Spieler: eine gepanzerte, teils durchscheinende Gestalt und ein „Lu
 ---
 
 ### **Szene 12 – Nachhall und Entscheidung**
-
 _(Vision, Abschluss des Aktes)_
 
 **Boxtext:**
