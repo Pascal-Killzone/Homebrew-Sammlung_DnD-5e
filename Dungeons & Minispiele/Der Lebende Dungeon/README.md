@@ -2,14 +2,14 @@
 \**fertig - noch nicht getestet*\*
 
 ## Kurzer Überblick
-**Der Lebende Dungeon** ist ein **Stand-Alone Horror-Dungeon** für **D&D 5E**, der nahtlos in jede Kampagne eingebaut werden kann (empfohlen für **Level 4–7**, abhängig von Party-Größe). Die "Gruft" ist **kein Ort** – sie ist **das Monster**: Eine wachsende **Allesfresser-Kolonie** (siehe [[Homebrew Monster.md]]), die sich als Dungeon tarnt, lernt und verdaut. Spieler spüren subtile Unheimlichkeit, bis der finale Kampf gegen die Kolonie selbst entbrennt.
+**Der Lebende Dungeon** ist ein **Stand-Alone Horror-Dungeon** für **D&D 5E**, der nahtlos in jede Kampagne eingebaut werden kann (empfohlen für **Level 4–7**, abhängig von Party-Größe). Die "Gruft" ist **kein Ort** – sie ist **das Monster**: Eine wachsende **Allesfresser-Kolonie** (siehe [[Homebrew Monster]]), die sich als Dungeon tarnt, lernt und verdaut. Spieler spüren subtile Unheimlichkeit, bis der finale Kampf gegen die Kolonie selbst entbrennt.
 
 **Spieldauer:** 2–4 Sitzungen.  
 **CR-Skala:** Von CR4 (Keimform) bis CR10 (Proto-Dungeon) – wähle die Form passend zur Party (Standard: Reifeform CR8).  
 **XP-Regel:** **Keine XP für Mimic-Kämpfe!** Nur für Verlassen der Gruft oder Endkampf (volle Kolonie-XP).
 
 ## Einstiegshook: Der Prediger
-In einer Stadt predigt ein **fanatischer Prediger** (Text in [[Der Lebende Dungeon.md]]). Er warnt religiös-fanatisch: "Die Gruft ist göttliches Urteil – niemand kehrt zurück!" Nutze ihn für Gerüchte, Motivation oder als NPC-Quelle. Stadtbewohner reagieren neutral (Spinner, aber harmlos).
+In einer Stadt predigt ein **fanatischer Prediger** (Text in [[Der Lebende Dungeon]]). Er warnt religiös-fanatisch: "Die Gruft ist göttliches Urteil – niemand kehrt zurück!" Nutze ihn für Gerüchte, Motivation oder als NPC-Quelle. Stadtbewohner reagieren neutral (Spinner, aber harmlos).
 
 ## Dungeon-Struktur & Spielstil
 **8 Räume + Optionale** bauen **langsame Paranoia** auf. **Kein Rush – lass Spieler erkunden!**
@@ -38,4 +38,4 @@ In einer Stadt predigt ein **fanatischer Prediger** (Text in [[Der Lebende Dunge
 - **Story-Hook:** Überlebende können Prediger konfrontieren oder Kolonie-Ruine nutzen.
 
 ## Warnung
-Dieser Dungeon lebt von **Unsicherheit & Geduld**. Zu viel Action killt den Horror. Lies **[[Der Lebende Dungeon.md]]** für beispielhafte Narratives. Viel Spaß beim Verdauen deiner Spieler! 🫀
+Dieser Dungeon lebt von **Unsicherheit & Geduld**. Zu viel Action killt den Horror. Lies **[[Der Lebende Dungeon]]** für beispielhafte Narratives. Viel Spaß beim Verdauen deiner Spieler! 🫀
