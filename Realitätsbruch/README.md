@@ -1,4 +1,5 @@
 # README: Realitätsbruch – Die Welt straft Meta-Spiel
+*\*fertig - getestet*\*
 
 ## Kurzer Überblick
 **Realitätsbruch** ist ein **leichter, aber spürbarer Homebrew-Mechanismus** für **D&D 5E** (und andere TTRPGs), der **Meta-Gaming** und starkes **Out-of-Character**-Verhalten (OOC) bestraft – nicht durch harte Strafen, sondern durch **zunehmend unheimliche Störungen der Spielwelt**. Die Idee: Die Realität selbst „merkt sich“ wenn Spieler die vierte Wand durchbrechen, und reagiert mit immer stärkeren **Glitches**, **Echos** und **Brüchen**.

@@ -1,4 +1,5 @@
 # README: Tavernen-Minispiel - Der Letzte Krug
+*\*fertig - nicht getestet*\*
 
 ## Kurzer Überblick
 **Der Letzte Krug** ist ein **chaotisches Trinkspiel** für **D&D 5E**, perfekt für **Downtime** in Tavernen. Hoher Spaß durch **CON-Saves**, **D12-Zufallstabellen** und **humorvolle Effekte** (Erfolg: Vorteile/Lacher; Misserfolg: Pannen). Level-unabhängig, **10–30 Min.** Spielzeit.  
