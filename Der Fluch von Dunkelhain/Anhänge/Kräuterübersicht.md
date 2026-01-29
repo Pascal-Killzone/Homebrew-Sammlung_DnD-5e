@@ -1,4 +1,4 @@
--Zum sammeln wird ein Natur Check benötigt (außer regeln sagen was anderes), bei Erfolg 1D4 Portionen-
+-Zum sammeln wird ein Natur Check benötigt (außer regeln sagen was anderes), bei Erfolg 1D4 -1 (mindestens 1) Portionen-
 
 | Pflanze                 | Aussehen                                             | Duft                          | Wirkung                                                      | Nature DC                                                                                       | Verkaufswert pro Stück |
 | ----------------------- | ---------------------------------------------------- | ----------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------- |
