@@ -16,7 +16,7 @@ Anhang: [[Cult Fanatic Lord - Homebrew]], [[Kräuterübersicht]], [[Musik für S
 #### 📜 Narrative Beschreibung: Die Taverne „Zum Salzigen Anker“
 Ein dichte Nebel umhüllt Nebelruh, ein vergessenes Hafenstädtchen an der rauen Küste des Nebelmeers. Die engen, feuchten Gassen sind menschenleer, nur das ferne Rauschen der Wellen und das Knarren alter Schilder durchbrechen die Stille. Mitten im Herzen der Stadt, nahe dem Kai, liegt die Taverne „Zum Salzigen Anker“ – ein niedriges Gebäude aus verwittertem Holz. Drinnen flackert das Licht von Öllampen und einem prasselnden Kaminfeuer, das den Raum in ein warmes, rauchiges Zwielicht taucht. Der Geruch von abgestandenem Ale, gebratenem Fisch und salziger Seeluft hängt schwer in der Luft. Die Taverne ist winzig und überfüllt: Fischer und Händler besetzen fast alle Tische. Der Wirt, ein stämmiger Mensch mit buschigem Bart, poliert Gläser, während eine flinke Kellnerin, eine Halb-Elfe, Gäste hin und her scheucht.
 
-#### 🧑‍🎭 Charakter-Intros und Zwangsversammlung
+#### 🧑‍🎭 Charakter-Intros und Zwangsversammlung (Beispiele)
 1. **Dragonborn betritt die Taverne**
 >Die knarrende Tür öffnet sich, und ein Dragonborn tritt ein. Das Gemurmel der Fischer verstummt, ein Krug klirrt. Ein Fischer flüstert: „Bei den Wellen, ‘ne Echse?“ Lira mustert ihn skeptisch und zeigt auf den Ecktisch: „Da drüben, Fremder, bevor die unruhig werden“
 
@@ -421,13 +421,6 @@ Mit einem metallischen Klicken, wie das Schließen eines Riegels, öffnet sich i
 
 Seine Rüstung ist schlicht, aber gepflegt. Ein schwarzes Dornensymbol glänzt über seinem Herzen. Er zieht sein Schwert mit einem einzigen, lautlosen Zug und richtet es wortlos auf euch. Kein Gebrüll, kein Fluch – nur Pflicht.
 
-#### Tharizduns Einmischung (Optional)
-Als du die Statue betrachtest, kriecht ein schrilles Kichern wie ein kalter Wind durch deinen Geist. „Fäuste? Dornen? ZERREISSEN! Sterne zersplittern, die Leere lacht!“ 
-Eine Vision blendet dich: -Ein Abgrund, in dem Welten in tausend Scherben zerbrechen, und ein Auge, das in die Ewigkeit starrt.-
-Dein Herz rast, dein Verstand schwankt zwischen Faszination und Schrecken. 
-(Disadvantage auf Konzentration für 1 Stunde) 
-(Optional für dich: Handle JETZT impulsiv)
-
 #### 🧩 **Mechaniken**
 - 🎲 **Proben**:
   - Wahrnehmung DC 10: 🧙 **Spieler** bemerken die Inschrift „Nur die Demütigen passieren“ am Sockel.
@@ -438,7 +431,6 @@ Dein Herz rast, dein Verstand schwankt zwischen Faszination und Schrecken.
   - Alternative Aktionen:
     - Zerstörung der Statue löst einen Hobgoblin aus.
     - Ignorieren und Pfad wählen: Andere Pfade (Westen, Osten) führen zu Szene 3B oder 3C, aber der nördliche Pfad bleibt blockiert (Wurzeln versperren ihn).
-- **Tharizdun-Effekt**: Der Warlock hat Nachteil auf die nächste Konzentrationsprobe (1 Stunde).
 - 🎁 **Belohnungen**:
   - 25 EP (Rätsel gelöst, ohne Kampf).
   - 100 EP (Schatten besiegt, falls ausgelöst).
