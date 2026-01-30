@@ -3,10 +3,12 @@
 ## Grundprinzip
 
 - Es existiert eine unsichtbare **Kraft** (Gottheit, Fluch, „Meta-Gott“), die es hasst, wenn „die Realität hinterfragt“ wird.
-    
+
 - Du führst einen Realitätsbruch-Zähler (RB-Zähler) pro Session, der bei 0 startet und am Ende der Session wieder auf 0 gesetzt wird.​
-    
+
 - Immer wenn du findest, dass jemand metagamed oder stark OOC (Out Of Charakter) ist, erhöhst du den Zähler um 1 (oder mehr bei besonders krassen Fällen).
+
+- Der Zähler kann auch sinken, wenn die Party sich stark im RP engagiert und die Immersion bewusst stärkt (z. B. durch tiefgehende Charakterinteraktionen, kreative IC-Lösungen oder das Ignorieren von Meta-Impulsen). Als DM kannst du den Zähler pro solcher Szene um 1–2 Punkte senken, um Bemühungen zu belohnen. Dies fördert aktives Rollenspiel und balanciert den Mechanismus – der Zähler kann nie unter 0 fallen.
 
 ---
 ## Auslöser-Beispiele
@@ -14,7 +16,7 @@
 - **Meta-Gaming**:
     - „Ich trinke keinen Trank, der ist bestimmt vergiftet, der DM grinst so.“
     - „Das ist bestimmt ein Mimic, der DM hat nach dem Buch gegriffen.“
-        
+
 - **OOC (Out Of Charakter)**:
     - Wiederholte Off-Topic-Witze mitten in der Szene, die die Stimmung zerstören.
     - IC-Entscheidungen werden offen mit „weil das mechanisch besser ist“ begründet, ohne das in die Rolle zu integrieren.
