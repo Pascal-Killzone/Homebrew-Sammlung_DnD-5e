@@ -35,23 +35,43 @@ Du kannst vorab klarmachen: 1–2 kleine Ausrutscher = Hinweis, erst danach stei
 ---
 ## Stufe 1: Flimmern (RB 1–3)
 
-- Lichter flackern kurz, Schatten bewegen sich falsch.
+Diese Stufe dient als sanfte Warnung durch leichte Realitätsverzerrungen, die die Immersion stören, ohne mechanische Nachteile zu verursachen. Alle Effekte sind rein narrativ und resetten sich automatisch.
 
-- NPCs wiederholen einen Satz wie ein Stottern.
+- **Reality Glitch:** Lichter flackern kurz, Schatten bewegen sich falsch.
 
-- Kurzes Standbild – alle Geräusche verstummen für einen Herzschlag.
+- **Verbale Rückspulung:** Ein NPC wiederholt ein Wort mehrmals, als würde die Zeit kurz zurückspringen.
+
+- **Freeze-Frame:** Kurzes Standbild, alle Geräusche verstummen für einen Herzschlag.
+
+- **Schattenwisper:** Schatten flüstern unverständliche Silben, die wie OOC-Worte klingen.
+
+- **Falsche Farben:** Die Welt verblasst kurz zu Grautönen, bevor sie normal wird.
+
+- **Echo-Schritt:** Schritte der SC hallen unnatürlich nach, als käme ein unsichtbarer Beobachter.
+
+- **Luftzucken:** Die Luft wellt sich wie eine defekte Leinwand für einen Moment.
 
 
-_Zweck: Warnung ohne Strafe, „Die Welt hat euch bemerkt."_
+_Zweck: Warnung ohne Strafe, „Die Welt hat euch bemerkt.“_
 
 ---
 ## Stufe 2: Echos (RB 4–6)
 
-- **Stimmen von außen:** 1 SC hört ein Echo seiner eigenen OOC-Worte und hat Nachteil auf den nächsten **Perception-** oder **Insight-Check**.
+Hier werden erste mechanische Störungen eingeführt, die spürbar sind, aber keinen Schaden verursachen – Nachteile auf einzelne Checks.
 
-- **Déjà-vu:** Eine kleine Szene (z. B. ein NPC-Satz) wiederholt sich; die Gruppe verliert 1 Minute In-Game-Zeit.
+- **Stimmen von außen:** 1 SC hört ein Echo seiner OOC-Worte; Nachteil auf nächsten Perception- oder Insight-Check.
 
-- **Unschärfe:** Ein SC sieht kurz doppelt – Nachteil auf den nächsten Ranged Attack Roll.
+- **Unschärfe:** Ein SC sieht doppelt; Nachteil auf nächsten Ranged Attack Roll.
+
+- **Echo-Geruch:** Ein betroffener SC riecht etwas Unrealistisches (z.B. Popcorn); Nachteil auf nächsten Survival-Check.
+
+- **Wortverdreher:** Ein NPC verdreht die Worte eines SC; Nachteil auf nächsten Persuasion-Check mit ihm.
+
+- **Bewegungsglitch:** Ein SC spürt verzögerte Gliedmaßen; Nachteil auf nächsten Dexterity-Check.
+
+- **Lichtblitz:** Kurzer, blendender Blitz; Nachteil auf nächsten Attack Roll oder Perception im Hellen.
+
+- **Herzschlag-Pause:** Der Puls stockt sekundenlang; Nachteil auf nächsten Initiative-Wurf.
 
 
 _Zweck: Spürbar, aber harmlos._
@@ -59,44 +79,81 @@ _Zweck: Spürbar, aber harmlos._
 ---
 ## Stufe 3: Weltfehler (RB 7–9)
 
-- **Lag-Spike:** Alle SC, die am Meta beteiligt waren, würfeln Initiative mit Nachteil im nächsten Kampf.
-    
-- **Realitäts-Stutter:** 1–2 SC müssen einen WIS-Save (**DC 12**) machen; bei Fail verlieren sie ihre Reaktion bis zum Ende ihres nächsten Zuges.
-    
-- **Glitched Item:** Ein Heiltrank heilt nur den Minimalwert, ein Zauber mit Angriffswurf wird mit Nachteil gewürfelt.
-    
+Störende Effekte mit temporären Verlusten oder leichten Saves (DC 12–13), kein direkter Schaden, aber spürbare Einschränkungen.
+
+- **Lag-Spike:** Beteiligte SC würfeln Initiative mit Nachteil im nächsten Kampf.
+
+- **Realitäts-Stutter:** 1–2 SC: WIS-Save DC 12 
+	- **Fail:** SC's verlieren Reaktion bis Ende nächsten Zuges.
+
+- **Glitched Item:** Ein Item (z.B. Trank) wirkt minimal; Zauberangriff mit Nachteil.
+
+- **Schattenkopie:** Ein SC sieht seinen Schatten falsch agieren;  CON-Save DC 12  
+	- **Fail:** Nachteil auf nächsten Perception oder Survival.
+
+- **Zeitloop:** Ein SC wiederholt eine Aktion verbal; verliert Movement bis nächste Runde (Save DC 12).
+
+- **Falsche Distanz:** Entfernungen wirken verzerrt; Nachteil auf Range oder Jump-Checks für 1 Minute.
+
+- **Gedankenblitz:** Ein SC hört Meta-Kommentare; INT-Save DC 13  
+	- **Fail:** SC verliert Bonus Action nächsten Zug.
+
+- **Objekt-Phantom:** Ein Item dupliziert sich illusorisch; Nachteil auf Sleight of Hand oder Investigation.
+
 
 _Zweck: Klar störend, aber kein direkter Schaden._
 
----
 ## Stufe 4: Realitätswunde (RB 10–12)
 
-- **Schnitt durch die Wirklichkeit:** Jeder SC macht einen CON-Save (DC 13).
-    - **Fail**: **1D6 psychischen Schaden** (nicht reduzierbar).
-    - **Erfolg**: Kein Schaden, aber bis zur nächsten Short Rest –1 auf alle Ability Checks.
+Erste Konsequenzen mit minimalem Schaden (1d6 max), Exhaustion oder längeren Debuffs (bis Short/Long Rest). DC 13–14. Kein TPK-Risiko.
 
-- **Zeitriss:** 1 SC (DM-Wahl oder Zufall) verliert seine nächste Bonus Action komplett.
+- **Schnitt durch die Wirklichkeit:** Alle SC CON-Save DC 13; 
+	- **Fail:** 1d6 psychischer Schaden (nicht reduzierbar), 
+	- **Erfolg:** –1 auf Ability Checks bis Short Rest.
 
-- **Erinnerungsflackern:** Ein SC vergisst kurzzeitig einen vorbereiteten Zauber oder eine Fähigkeit (DM-Wahl, nur für 1 Encounter).
+- **Zeitriss:** 1 SC verliert nächste Bonus Action komplett.
+
+- **Erinnerungsflackern:** 1 SC vergisst Zauber/Fähigkeit (DM-Wahl) für 1 Encounter.
+
+- **Schattenbiss:** Betroffener SC: CHA-Save DC 14; 
+	- **Fail:** 1d6 necrotic Schaden und frightened von Schatten bis Short Rest.
+
+- **Wundecho:** Alle: CON-Save DC 13; Fail: Nachteil auf Konzentration bis Long Rest.
+
+- **Meta-Fessel:** 1 SC's Ausrüstung wiegt plötzlich doppelt; STR-Check DC 13 pro Zug 
+	- **Fail:** halved Speed.
+
+- **Illusionsbruch:** Illusionen/Verzauberungen flackern; betroffene SC verlieren Konzentration (no Save).
+
+- **Kraftausfall:** Alle Zauber unter Level 3 kosten 1 zusätzlichen Slot (einmalig).
+
 
 _Zweck: Jetzt tut es weh – aber niemand stirbt daran._
 
----
 ## Stufe 5: Bruch (RB 13+)
 
-Wähle 1–2 große Effekte pro Session:
+Gravierende, aber überwindbare Effekte mit 2d6 Schaden max, Exhaustion 1 oder session-langen Debuffs (DC 15). Wähle 1–2 pro Session, erlaube Comeback durch RP oder Rest.​
 
-- **Realitätskollaps:** Alle SC machen einen CON-Save (DC 15).
-    - Fail: **2D6 psychischen Schaden** und einen Erschöpfungslevel (Exhaustion Level 1).
-    - Erfolg: Halber Schaden, keine Exhaustion.
+- **Realitätskollaps:** Alle CON-Save DC 15; 
+	- **Fail:** 2d6 psychischer Schaden + Exhaustion 1 
+	- **Erfolg:** halber Schaden.
 
-- **Zerrissene Verbindung:** Bis zum nächsten Long Rest:
-    - Alle Konzentrations-Checks haben Nachteil.
-    - Oder: Alle Healing-Effekte heilen nur 75% (abgerundet).
+- **Zerrissene Verbindung:** Bis Long Rest: Konzentrations-Checks Nachteil oder Healing nur 75% (abgerundet).
 
-- **Echos des Meta:** Ein wichtiger NPC „hört" die Spielerebene und reagiert verstört/misstrauisch – sozialer Malus für den Rest der Session (z. B. Nachteil auf alle Persuasion-Checks mit diesem NPC).
-    
+- **Echos des Meta:** Wichtiger NPC hört Spielerebene; Nachteil auf Persuasion mit ihm session-lang.
 
-_Zweck: Die Gruppe spürt echte Konsequenzen, aber ein Comeback ist möglich._
+- **Realitätssturm:** Alle: WIS-Save DC 15; 
+	- **Fail:** Exhaustion 1 und 2d6 psychic 
+	- **Erfolg:** Nachteil auf Saves bis Short Rest.
 
----
+- **Weltverdrängung:** 1 Area (30ft): Objekte verschieben sich leicht; DC 15 Athletics/Acrobatics pro Zug oder prone.
+
+- **Seelenriss:** Beteiligte SC: CHA-Save DC 15; 
+	- **Fail:** verlieren 1 prepared Spell/Feature bis Long Rest + 1d6+2 psychischer Schaden
+
+- **Meta-Fluch:** Alle Meta-beteiligten: Nachteil auf alle Ability Checks/Würfe für 1 Stunde oder bis Short Rest.
+
+- **Bruch-Nachhall:** Session-Ende-NPC reagiert misstrauisch; erhöhter DC +5 auf Social Encounters mit Zeugen.
+
+
+_Zweck: Echte Konsequenzen, aber ein Comeback ist möglich – fördert RP zur Beruhigung der Welt._
