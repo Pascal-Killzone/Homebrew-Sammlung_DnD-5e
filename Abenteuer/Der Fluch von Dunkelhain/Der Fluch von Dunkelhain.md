@@ -33,7 +33,7 @@ Die nacheinander eintretenden Charaktere lösen eine Eskalation aus:
 Fischer werden zunehmend feindselig, Händler skeptischer nur Lira versucht die Situation zu deeskalieren. 
 
 #### 🍻 Tavernen-Minispiel - Der Letzte Krug
-Siehe: [[🍻 Tavernen-Minispiel - Der Letzte Krug]]
+Siehe: [[Tavernen-Minispiel - Der Letzte Krug]]
 
 ---
 ### Prolog: Kapitän Dragan Sturmhammer 
@@ -332,7 +332,7 @@ In der Ferne, am Rand des Feldes, stehen schiefe Gestalten – alte **Vogelscheu
   _„Die Vogelscheuche scheint sich leicht zu bewegen – oder war es nur der Wind…?“_
 
 #### 🌱 Kräuterliste 
-Siehe: [[🌿 Kräuterübersicht]]
+Siehe: [[Kräuterübersicht]]
 
 ---
 ### Szene 1C: Begegnung mit der Vogelscheuche (Optional)
@@ -763,7 +763,6 @@ Dort, inmitten eines Kreises aus uralten, moosüberwucherten Steinen, erhebt sic
 Ihr Gesicht ist von der Zeit und einer Finsternis zerfressen, die Züge zu einem gespenstischen Nichts verwittert. Ein schwaches, regenbogenfarbenes Glühen pulsiert im Herzen der Figur, wie ein letzter Herzschlag eines längst vergessenen Festes, das in dieser Dunkelheit gefangen ist.
 
 Die Luft ist schwer, durchtränkt von einem unheilvollen Hauch, doch darunter liegt ein ferner, bittersüßer Nachhall – das Echo von Lachen, Musik und dem Klirren von Gläsern, das der Schattenwald erstickt hat. Ein kalter Wind streift eure Haut, trägt das Flüstern eines Fluchs, der diesen Ort der Freude in ein Grab der Hoffnungslosigkeit verwandelt hat. Dennoch glimmt ein Funke Widerstand in dem schimmernden Licht der Statue, ein stummer Schwur, dass die Dunkelheit nicht alles verschlingen kann. Ihr spürt, dass dieser Ort einst ein Refugium des Lebens war – und vielleicht, mit eurem Mut, wieder werden könnte.  
-==Nochmal lesen und gegebenenfalls überarbeiten==
 
 #### 🧩 Mechaniken
 - Divine Sense (Paladin-Trigger):  
@@ -997,12 +996,6 @@ Mit rauer stimme spricht er: „Verstecken, bringt euch nichts!“ Er dreht sich
 #### NPC-Dialoge
 - **Varkis** (fanatisch, Stimme donnernd, hebt Stab):  
   > „Ihr wagt es, Banes heiligstes Heiligtum zu entweihen? Meine Faust wird Dunkelhain zermalmen, und der Fluch wird ewig währen! Kniet vor der Tyrannei, oder ich zerstöre euch im Namen meines Gottes! Der Altar ist unzerstörbar, meine Macht ist endlos – ihr seid nichts gegen Banes Willen!“
-  
-##### Tharizduns Einmischung (Optional) 
-Als Varkis euch verhöhnt, explodiert Tharizduns Sturm in deinem Geist: 
->„Fäuste? Ordnung? NEIN! ZERREISSEN! Die Welt wird Asche, Ketten zersplittern, die Leere lacht!“ 
-
-Bilder von brennenden Sternen und lachenden Abgründen fluten deinen Verstand – ein chaotischer Strudel, der dich zwischen Faszination und Furcht zerreißt. Dein Puls rast – Chaos oder Kontrolle?
 
 ##### Optionale Dialogoptionen (Varkis, vor Kampf):
   1. **Frage**: „Warum verfluchst du Dunkelhain?“ (Einsicht DC 14)  
@@ -1015,43 +1008,31 @@ Bilder von brennenden Sternen und lachenden Abgründen fluten deinen Verstand �
      - *Reaktion*: „Niemals! Aber… ihr seid stärker, als ich dachte. Doch Bane wird siegen!“ (Erfolg: Zögert 1 Runde oder Advantage auf den ersten Angriff.)  
      - *Misserfolg*: „Bane lacht über eure Torheit!“
 
-#### ⚔️Zweite Phase Bosskampf: Banes letzter Segen
--***Auslöser***-
-Sobald die Trefferpunkte des Fanatikers unter ein Drittel seines Maximums fallen, aktiviert sich die zweite Phase mit einer dramatischen Veränderung.
-
 #### 📜 Narrative Beschreibung: Zweite Phase
+*Sobald die Trefferpunkte von Varkis unter 20HP fallen, aktiviert sich die zweite Phase mit einer dramatischen Veränderung.*
+
 Die Fackeln in der Hauptkammer flackern, als ein tiefes Grollen den Boden erzittern lässt. Varkis, blutverschmiert und taumelnd, hebt sein Amulett und schreit: 
 
 >„Bane, Herr der Tyrannei, gib mir Kraft!“ 
 
 Ein eisiger Wind fegt durch die Kammer, und ein Schatten in Form einer gewaltigen Faust erscheint über dem Altar, pulsiert mit dunkler Energie. Die Augen des Fanatikers glühen unheilvoll, als Banes Macht ihn durchströmt. 
 
->„Ihr werdet knien!“ -*ihn tiefer halb besessener Stimme*-
+>„Ihr werdet knien!“ -*ihn tiefer halb besessener Stimme* 
 
-knurrt er, während die Luft schwer wird und die Tyrannei des Gottes euch zu erdrücken droht.
+knurrt er, während die Luft schwer wird und die Tyrannei des Gottes euch zu erdrücken droht. 
+(-> )
 
-##### 🧩 Mechaniken der zweiten Phase
-Bane verleiht Varkis einen temporären Segen, der seine Angriffe verstärkt, ihm Temporäre HP verleiht und eine einschüchternde Aura erzeugt.
 
-•  **Segen der Tyrannei:**
-	•  Varkis erhält +10 temporäre Trefferpunkte.
-	•  Seine Angriffe verursachen +2 zusätzlichen nekrotischen Schaden.
-	• **Aktion:** Aura der Furcht (1x pro Runde, hält bis Kampfende):
-		• **Beschreibung:** „Varkis hebt sein Amulett, und eine Welle der Furcht rollt über euch, als ob Banes Blick euch niederdrückt!“
-		•  Wirkung: Alle Kreaturen innerhalb von 10 ft. müssen einen Weisheitsrettungswurf DC 13 bestehen oder werden für 1 Runde verängstigt (keine Bewegung zum Fanatiker, Nachteil auf Angriffe). Erfolgreicher Wurf: Immun für 24 Stunden.
-		•  Dauer: Der Segen hält, bis der Fanatiker besiegt wird oder 3 Runden vergehen (Banes Macht schwindet).
-		
-
-#### 🧩 **Mechaniken**
+#### 🧩 **Kampf**
 - **Monster**:
-  - Cult Fanatik Varkis(HG 2, 450 EP): AC 13, 33 HP, Inflict Wounds (+5 to hit, 3W10), Command (Weisheit DC 12).
-  - Schatten (2-3 × HG 1/2, 200 EP): AC 12, 16 HP, Stärke-Sabbelung (Konstitution DC 10).
-  - Kultisten (2-4 × HG 1/8, 100 EP): AC 12, 9 HP, Dolch (+4 to hit, 1W4+2).
+  - Cult Fanatik Lord (Varkis) -> siehe [[Cult Fanatic Lord - Homebrew]]
+  - 1-2x Schatten oder 3-4 Kultisten
 - **🎲 Proben**:
-  - Investigation DC 13: Auge-Symbol (doppelter Schaden gegen Varkis).
-  - Einschüchterung DC 15: Variks verunsichert (Nachteil auf Zauber).
+!!!NUR WENN MIT KAEL GESPROCHEN WURDE!!!
+  - Investigation DC 13: Auge-Symbol (doppelter Schaden gegen Varkis ).
+ 
 #### **🎁 Belohnungen**:
-  - 170 EP (Variks, Schatten).
+  - 900 EP Kampf
   - 25 EP (Kael-Hinweis genutzt).
   - 50 EP (Fluch gebrochen).
 ---
