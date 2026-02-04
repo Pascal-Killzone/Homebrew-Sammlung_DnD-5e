@@ -7,15 +7,15 @@ Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumind
 
 ## Inhalte dieses Repos
 
-| Themenbereiche         | Inhalt                                                                                             |
-| ---------------------- | -------------------------------------------------------------------------------------------------- |
-| `Abenteuer`            | fertige oder halbfertige One-Shots, Mini-Kampagnen und Story-Ideen                                 |
-| `Kreaturen`            | neue Monster, NPCs, Bossgegner, umgebaute Bestien                                                  |
-| `Klassen & Subklassen` | eigene (Sub-)Klassen, Archetypen, Patches für bestehende Klassen                                   |
-| `Regeln & Mechaniken`  | neue oder veränderte Regeln (z. B. Crafting, Downtime, Massenkampf, alternative Magiesysteme)      |
-| `Gegenstände & Magie`  | >>>> NOCH NICHT KOMMT ABER BALD<<<<<br>magische Items, Artefakte, Flüche, Tränke, Waffen-Varianten |
-| `Settings & Lore`      | Weltbeschreibungen, Fraktionen, Götterpantheons, Orte, Hintergrundgeschichten                      |
-| `Tools & Vorlagen`     | Charakterbögen, Tabellen (Zufallsbegegnungen, Schätze, Namen, …), Hausregeln-Übersicht             |
+| Themenbereiche                     | Inhalt                                                                                             |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------- |
+| `Abenteuer, Dungeons & Minispiele` | fertige oder halbfertige One-Shots, Mini-Kampagnen und Story-Ideen, Dungeons und Minispiele        |
+| `Kreaturen`                        | neue Monster, NPCs, Bossgegner, umgebaute Bestien                                                  |
+| `Klassen & Subklassen`             | eigene (Sub-)Klassen, Archetypen, Patches für bestehende Klassen                                   |
+| `Regeln & Mechaniken`              | neue oder veränderte Regeln (z. B. Crafting, Downtime, Massenkampf, alternative Magiesysteme)      |
+| `Gegenstände & Magie`              | >>>> NOCH NICHT KOMMT ABER BALD<<<<<br>magische Items, Artefakte, Flüche, Tränke, Waffen-Varianten |
+| `Settings & Lore`                  | Weltbeschreibungen, Fraktionen, Götterpantheons, Orte, Hintergrundgeschichten                      |
+| `Tools & Vorlagen`                 | Charakterbögen, Tabellen (Zufallsbegegnungen, Schätze, Namen, …), Hausregeln-Übersicht             |
 
 ## Meine Design-Philosophie
 
