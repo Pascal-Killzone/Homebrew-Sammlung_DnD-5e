@@ -259,7 +259,7 @@ Wo er nahe ist, verwandelt sich die Welt:
 Steine vibrieren wie Saiten,  
 Wasser pulsiert in Wellen,  
 Stimmen fließen ineinander,  
-und Gedanken werden zu Echo.
+und Gedanken werden zu Echos.
 
 Er löscht nicht das Selbst, er dehnt es aus,  
 bis innen und außen eins sind.  
