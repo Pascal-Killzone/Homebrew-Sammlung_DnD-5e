@@ -35,8 +35,8 @@ Deine Sprungweite entspricht deinem **Strength-Score** in Fuß sowohl für Long 
 **Poisonous Skin.**  
 Deine Haut sondert ein schwaches Toxin ab, das du im Kampf gezielt einsetzen kannst.
 
-- Als **Bonus Action** kannst du einmal pro Short oder Long Rest eine Giftwolke aufladen.  
-- Bis zum Ende deines Zugs: Wenn du eine Kreatur mit einem **Melee Weapon Attack** oder **Melee Spell Attack** triffst oder eine Kreatur dich berührt (z. B. Grapple), kann das Ziel zusätzlich von deinem Gift betroffen werden.  
+- Als **Bonus Action** kannst du einmal pro Short oder Long Rest deinen Körper mit einem Gift überziehen.  
+- Bis zum Ende deines Zugs: Wenn du eine Kreatur mit einem **Melee Weapon Attack** oder **Melee Spell Attack** triffst oder eine Kreatur dich berührt (z. B. Grapple) oder du sie, wird das Ziel zusätzlich von deinem Gift betroffen.  
 - Das Ziel muss einen **CON Saving Throw** gegen DC = 8 + dein CON-Modifikator + dein Proficiency-Bonus schaffen.  
 - Bei einem Fehlschlag erleidet es Giftschaden abhängig von deinem Level (siehe Tabelle unten) und ist **poisoned** bis zum Ende deines nächsten Zugs. Es kann den Save am Ende seines Zugs wiederholen, um den poisoned-Zustand zu beenden.
 
@@ -60,15 +60,15 @@ Dein Körper muss regelmäßig befeuchtet werden:
 - Sobald du deine Wasserabhängigkeit an einem Tag erfüllst, verlierst du am Ende einer Long Rest **eine** durch dieses Merkmal erhaltene Exhaustion-Stufe. Magie wie *lesser restoration* kann diese Exhaustion ebenfalls entfernen. 
 
 **Languages.**  
-Du kannst Common und Grung sprechen, lesen und schreiben. Grung-Sprache besteht aus Klick- und Quaklauten; Nicht-Grungs finden sie schwer zu erlernen. 
+Du kannst Common und Grung sprechen, lesen und schreiben. 
+*Grung-Sprache besteht aus Klick- und Quaklauten; Nicht-Grungs finden sie schwer zu erlernen.* 
 
 ---
 ## Grung Subraces
 
 Grungs besitzen ein farbbasiertes Kastensystem. Deine Subrace bestimmt deine Farbe, deinen Platz in dieser Gesellschaft und zusätzliche Traits. 
 ### Red Grung
-
-Rot gefärbte Grungs sind oft Späher, Jäger und Wachen – flink und stets wachsam.
+*Rot gefärbte Grungs sind oft Späher, Jäger und Wachen – flink und stets wachsam.*
 
 **Ability Score Increase.**  
 Deine Dexterity steigt um 2, deine Constitution um 1.
@@ -81,8 +81,7 @@ Du bist proficient in Stealth. Wenn du dich in Dschungel- oder Waldterrain befin
 
 ---
 ### Green Grung
-
-Grüne Grungs sind häufig Jäger, Tierhüter oder Scouts, die ihre Umgebung gut kennen.
+*Grüne Grungs sind häufig Jäger, Tierhüter oder Scouts, die ihre Umgebung gut kennen.*
 
 **Ability Score Increase.**  
 Deine Dexterity steigt um 2, deine Wisdom um 1.
@@ -95,8 +94,7 @@ Du bist proficient in Survival. In Dschungel- oder Sumpfterrain brauchst du nur 
 
 ---
 ### Blue Grung
-
-Blaue Grungs dienen oft als Boten, Spione oder Anführer kleiner Jagdtrupps.
+*Blaue Grungs dienen oft als Boten, Spione oder Anführer kleiner Jagdtrupps.*
 
 **Ability Score Increase.**  
 Deine Constitution steigt um 2, deine Charisma um 1.
@@ -109,22 +107,20 @@ Du bist proficient in Persuasion oder Intimidation (deine Wahl).
 
 ---
 ### Orange Grung
-
-Orange Grungs sind Frontkämpfer, Elite-Wachen und Vollstrecker ihres Stamms.
+*Orange Grungs sind Frontkämpfer, Elite-Wachen und Vollstrecker ihres Stamms.*
 
 **Ability Score Increase.**  
 Deine Strength steigt um 2, deine Dexterity um 1.
 
 **Powerful Leap.**  
-Wenn du den Long Jump oder High Jump ausführst, erhöhst du die Distanz um **+10 ft.** (gerechnet nach Standing Leap oben). Außerdem ignorierst du die ersten 10 ft. Fallhöhe für den Fall-Schaden. 
+Wenn du den Long Jump oder High Jump ausführst, erhöhst du die Distanz um **+10 ft.** (gerechnet nach **Standing Leap**). Außerdem ignorierst du die ersten 10 ft. Fallhöhe für den Fall-Schaden. 
 
 **Martial Amphibian.**  
 Du bist proficient in Athletics.
 
 ---
 ### Yellow Grung
-
-Gelbe Grungs sind Späher, Spurenleser und besonders wachsame Wächter.
+*Gelbe Grungs sind Späher, Spurenleser und besonders wachsame Wächter.*
 
 **Ability Score Increase.**  
 Deine Dexterity steigt um 1, deine Intelligence um 1 und deine Wisdom um 1.
@@ -138,8 +134,7 @@ Wenn du kletterst, provozierst du keine Gelegenheitsangriffe durch Kreaturen, vo
 
 ---
 ### Purple Grung
-
-Purple Grungs gehören zu den höchsten Kasten. Sie sind oft Schamanen, Taktiker oder mystische Berater – sehr geeignet für Klassen wie Warlock, Wizard oder Bard.
+*Purple Grungs sind oft Schamanen, Taktiker oder mystische Berater - die Gelehrten des Stammes*
 
 **Ability Score Increase.**  
 Deine Intelligence steigt um 2, deine Charisma um 1.
