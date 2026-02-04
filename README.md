@@ -1,7 +1,7 @@
 # Pascal's Homebrew-Sammlung – D&D 5e
 
 Eine persönliche Sammlung von selbst geschriebenen Inhalten für **Dungeons & Dragons 5. Edition**.  
-Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumindest stark von offiziellem Material abgeleitet und umgebaut).
+Alles was hier liegt, ist in meiner eigenen Ideenschmiede entstanden (oder zumindest stark von offiziellem Material abgeleitet und umgebaut).
 
 **Wichtig:** Das hier ist **kein offizielles Wizards of the Coast Material** – alles ist **Homebrew** und **nicht BALANCED** im Sinne von Adventures League oder kompetitivem Spiel. Nutzung auf eigene Gefahr! 😈
 
@@ -11,7 +11,7 @@ Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumind
 | ---------------------- | -------------------------------------------------------------------------------------------------- |
 | `Abenteuer & Dungeons` | fertige oder halbfertige One-Shots, Mini-Kampagnen, Story-Ideen und Dungeons                       |
 | `Kreaturen`            | neue Monster, NPCs, Bossgegner, umgebaute Bestien                                                  |
-| `Klassen & Subklassen` | eigene (Sub-)Klassen, Archetypen, Patches für bestehende Klassen                                   |
+| `Klassen & Rassen`     | eigene (Sub-)Klassen, Archetypen, Patches für bestehende Klassen                                   |
 | `Regeln & Mechaniken`  | neue oder veränderte Regeln (z. B. Crafting, Downtime, Massenkampf, alternative Magiesysteme)      |
 | `Gegenstände & Magie`  | >>>> NOCH NICHT KOMMT ABER BALD<<<<<br>magische Items, Artefakte, Flüche, Tränke, Waffen-Varianten |
 | `Settings & Lore`      | Weltbeschreibungen, Fraktionen, Götterpantheons, Orte, Hintergrundgeschichten                      |
@@ -22,7 +22,7 @@ Alles was hier liegt, ist in meiner eigenen Ideenschmiede enstanden (oder zumind
 
 - Spaß > Balance  
 - Story und Atmosphäre stehen oft über Mechanik  
-- Viel Inspiration aus Dark Fantasy, Grimdark, Souls-like, Warhammer, alter Mythologie  
+- Viel Inspiration aus Dark Fantasy, Grimdark, Souls-like, Warhammer, alter Mythologie...  
 - Ich mag **asymmetrische Mechaniken**, die Spieler vor harte Entscheidungen stellen  
 - „Coolness-Faktor“ schlägt oft „ist das fair?“
 
