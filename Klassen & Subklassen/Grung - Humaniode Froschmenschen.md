@@ -1,9 +1,8 @@
-# Grung
+# Grung - Humanoide Froschmenschen
 
 Kleine, giftige Froschmenschen, die in dichten Dschungeln in komplizierten Kasten leben. Grungs sind wendig, gute Kletterer und durch ihre toxische Haut gefürchtet, doch einige brechen aus der Brutalität ihrer Gesellschaft aus und suchen einen eigenen Weg – bis hin zu ungewöhnlich **gütigen** Abenteurern.
 
 ---
-
 ## Grung-Traits
 
 Dein Grung-Charakter besitzt die folgenden Rasseneigenschaften.
@@ -64,7 +63,6 @@ Dein Körper muss regelmäßig befeuchtet werden:
 Du kannst Common und Grung sprechen, lesen und schreiben. Grung-Sprache besteht aus Klick- und Quaklauten; Nicht-Grungs finden sie schwer zu erlernen. 
 
 ---
-
 ## Grung Subraces
 
 Grungs besitzen ein farbbasiertes Kastensystem. Deine Subrace bestimmt deine Farbe, deinen Platz in dieser Gesellschaft und zusätzliche Traits. 
@@ -82,7 +80,6 @@ Du erhältst einen Bonus von **+2 auf Initiative**-Würfe.
 Du bist proficient in Stealth. Wenn du dich in Dschungel- oder Waldterrain befindest, kannst du dich auch dann verstecken, wenn du nur leicht verdeckt bist (Laub, leichter Nebel o. Ä.). 
 
 ---
-
 ### Green Grung
 
 Grüne Grungs sind häufig Jäger, Tierhüter oder Scouts, die ihre Umgebung gut kennen.
@@ -97,7 +94,6 @@ Du hast Advantage auf Saving Throws gegen den Zustand **charmed** und **frighten
 Du bist proficient in Survival. In Dschungel- oder Sumpfterrain brauchst du nur halb so viel Zeit, um Nahrung und Wasser für dich und bis zu fünf weitere Kreaturen zu finden.
 
 ---
-
 ### Blue Grung
 
 Blaue Grungs dienen oft als Boten, Spione oder Anführer kleiner Jagdtrupps.
@@ -112,7 +108,6 @@ Du kannst einfache Geräusche (Tierlaute, Wasserplätschern, Stimmenfragmente) i
 Du bist proficient in Persuasion oder Intimidation (deine Wahl).
 
 ---
-
 ### Orange Grung
 
 Orange Grungs sind Frontkämpfer, Elite-Wachen und Vollstrecker ihres Stamms.
@@ -127,7 +122,6 @@ Wenn du den Long Jump oder High Jump ausführst, erhöhst du die Distanz um **+1
 Du bist proficient in Athletics.
 
 ---
-
 ### Yellow Grung
 
 Gelbe Grungs sind Späher, Spurenleser und besonders wachsame Wächter.
@@ -143,7 +137,6 @@ Außerdem besitzt du **blindsight 10 ft.**, solange du nicht deafened bist (du
 Wenn du kletterst, provozierst du keine Gelegenheitsangriffe durch Kreaturen, von denen du dich wegbewegst.
 
 ---
-
 ### Purple Grung
 
 Purple Grungs gehören zu den höchsten Kasten. Sie sind oft Schamanen, Taktiker oder mystische Berater – sehr geeignet für Klassen wie Warlock, Wizard oder Bard.
