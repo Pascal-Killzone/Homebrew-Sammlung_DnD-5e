@@ -105,7 +105,7 @@ er ist eine **Frage**.
 Und jede Antwort, die ihr findet,  
 hinterlässt ein Echo, das ihr nicht mehr loswerdet.
 
-*Lese zuerst [[Das Buch der Tiefe]]. Es soll dir die Welt die ich mir vorstelle nahe bringen.*
+*Lese zuerst **Das Buch der Tiefe**. Es soll dir die Welt die ich mir vorstelle nahe bringen.*
 
 ---
 
