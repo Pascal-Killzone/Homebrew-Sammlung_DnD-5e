@@ -1,4 +1,4 @@
-# Grung - Humanoide Froschmenschen
+# Grung -  Froschmenschen
 
 Kleine, giftige Froschmenschen, die in dichten Dschungeln in komplizierten Kasten leben. Grungs sind wendig, gute Kletterer und durch ihre toxische Haut gefürchtet, doch einige brechen aus der Brutalität ihrer Gesellschaft aus und suchen einen eigenen Weg – bis hin zu ungewöhnlich **gütigen** Abenteurern.
 
