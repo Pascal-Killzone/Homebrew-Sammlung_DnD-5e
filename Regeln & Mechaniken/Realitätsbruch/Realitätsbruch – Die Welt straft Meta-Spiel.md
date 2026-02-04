@@ -8,7 +8,7 @@
 
 - Immer wenn du findest, dass jemand metagamed oder stark OOC (Out Of Charakter) ist, erhöhst du den Zähler um 1 (oder mehr bei besonders krassen Fällen).
 
-- Der Zähler kann auch sinken, wenn die Party sich stark im RP engagiert und die Immersion bewusst stärkt (z. B. durch tiefgehende Charakterinteraktionen, kreative IC-Lösungen oder das Ignorieren von Meta-Impulsen). Als DM kannst du den Zähler pro solcher Szene um 1–2 Punkte senken, um Bemühungen zu belohnen. Dies fördert aktives Rollenspiel und balanciert den Mechanismus – der Zähler kann nie unter 0 fallen.
+- Der Zähler kann auch sinken, wenn die Party sich stark im RP engagiert und die Immersion bewusst stärkt (z. B. durch tiefgehende Charakterinteraktionen, kreative IC-Lösungen oder das Ignorieren von Meta-Impulsen). Als DM kannst du den Zähler pro solcher Szene um 1–2 Punkte senken, um Bemühungen zu belohnen. Dies fördert aktives Rollenspiel und balanciert den Mechanismus – der Zähler kann **nie** unter 0 fallen.
 
 ---
 ## Auslöser-Beispiele

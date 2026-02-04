@@ -1,7 +1,7 @@
 # Der Fluch von Dunkelhain
 ⚙️ **System**: Dungeons & Dragons 5E  
 🧙 **Spieler**: 3–5 Level 1-Charaktere, Anfänger  
-⏱️ **Spielzeit**: 10-18 Stunden  
+⏱️ **Spielzeit**: 13-18 Stunden  
 🌍 **Setting**: Dunkelhain, ein verfluchtes Dorf, bedroht durch einen Bane-Tempel im Schattenwald  
 🎯 **Ziel**: Den Fluch des Tempels brechen (Kultanführer Varkis besiegen)
 🎵 Musik: [[Musik für Szenen]]
@@ -112,7 +112,7 @@ Die ersten Strahlen der Morgensonne durchbrechen den Nebel, und die Sturmfalke s
 ### Szene 0A2: Überfahrt nach Dunkelhain - Gezungen
 
 #### 📜 Narrative Beschreibung: Aufbruch aus Nebelruh
-
+Die Sturmfalke schaukelt in der nebligen Nacht, die Planken knarren, und das Rauschen des Nebelmeers dringt durch die Luke. 
 
 #### 📜 Narrative Beschreibung: Auf hoher See
 In der Nacht habt ihr alle denselben seltsamen Traum:  
@@ -133,7 +133,7 @@ Dragan steht am Ruder, sein Umhang weht. Er fixiert euch:
 
 ---
 
-### Szene 0A2: Überfahrt nach Dunkelhain - Ohnmacht
+### Szene 0A3: Überfahrt nach Dunkelhain - Ohnmacht
 #### 📜 Narrative Beschreibung: Aufbruch aus Nebelruh
 Die Sturmfalke schaukelt in der nebligen Nacht, die Planken knarren, und das Rauschen des Nebelmeers dringt durch die Luke. Ihr liegt in der feuchten, nach Teer stinkenden Bilge, umgeben von Seilen und Fässern. Dragans Stimme hallt von oben:
 
@@ -398,7 +398,7 @@ Sein Blick huscht zwischen euch hin und her, als suche er etwas Unsichtbares in 
 
 ---
 
-### eSzene 2A: Schattenwald - Lichtung mit Statue 
+### Szene 2A: Schattenwald - Lichtung mit Statue 
 
 #### 📜 **Narrative Beschreibung**
 Der Schattenwald schließt sich wie ein finsterer Vorhang um euch, seine knorrigen Bäume greifen mit klauenartigen Ästen in den Himmel. Nebel wabert zwischen den Stämmen, und ein leises Rascheln flüstert in den Blättern, als ob der Wald euch beobachtet. Der Geruch von feuchter Erde und Verfall steigt in eure Nasen, während eine schwere Stille die Luft verdickt. Vor euch öffnet sich eine Lichtung, wo eine verwitterte Statue eines Kriegers in Rüstung thront, seine Faust drohend erhoben. Dornen sind tief in den Stein geritzt, als wollten sie bluten.  

@@ -63,7 +63,7 @@ oder ob Banes Ordnung für immer siegt.
 ## Struktur & Spielweise
 
 - **System:** Dungeons & Dragons 5e
-- **Dauer:** ~10–18 Stunden
+- **Dauer:** ~13–18 Stunden
 - **Level:** 1–3
 - **Aufbau:** 4 Akte, weitgehend linear mit optionalen Abstechern
 - **Empfohlene Themen:** Atmosphärische Erkundung, harte Kämpfe, Dorfdramen, Fluchbrechung
@@ -91,7 +91,4 @@ oder für immer erstarrt.
 
 Ein klassisches, kompaktes Einsteiger-Modul,  
 inspiriert von alten Ravenloft-Abenteuern, Saltmarsh und der Idee,  
-dass selbst ein winziger Fluch ein ganzes Land in Ketten legen kann.
-
-> _„Am Ende wird Dunkelhain nicht gerettet.  
-> Es wird einfach aufhören, sich zu fürchten.“_
+dass selbst ein winziger Fluch ein Dorf in Ketten legen kann.
