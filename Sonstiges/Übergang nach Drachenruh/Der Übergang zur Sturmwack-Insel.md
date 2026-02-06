@@ -1,58 +1,74 @@
 # Der Übergang zur Sturmwack-Insel
-## Epilog-Erweiterung: Der Weg nach Neverwinter
+## Tag 1: Erholung & Torvald's Dorf-Tipp
 
-### 📜 Narrative Beschreibung: Mirnas Rat
+**Morgen: Festmahl & Ausruhen**  
+Dorfbewohner bereiten Festmahl (Wild, Brot, Bier). Alle fühlen sich willkommen. Kein Druck.
 
-Die Sonne sinkt langsam über Dunkelhain, färbt den Himmel kupferrot und taucht das Dorf in warmes Abendlicht. Auf dem Platz wird noch immer gefeiert, doch die ersten Fackeln brennen, und die Schatten werden länger. Mirna sitzt schwer auf einer Bank aus groben Planken, ein Becher in der Hand, die Augen müde, aber klar, als sie euch zu sich winkt.
+**Nachmittag: Feld pflügen mit Torvald** _(Haupt-Hook 1 – vorzulesen)_
 
-> „Ihr habt uns befreit… mehr, als wir je hätten erhoffen können“, beginnt sie mit brüchiger, aber fester Stimme. „Doch so dankbar wir auch sind – Dunkelhain ist klein. Wir haben wenig Gold, kaum Arbeit, und Helden wie ihr… die wachsen hier nicht, die ziehen weiter.“
+`Ihr seht Torvald am Feldrand, Egge in der Hand, starrt auf verwilderte Äcker. Er wischt Schweiß ab, lehnt sich an: > „Wisst ihr… ich hab’s kaum geglaubt, als der Fluch plötzlich weg war. Als wär die Luft wieder frisch. Und jetzt das hier – ihr, die Egge nehmt und mitmacht. Danke. Einfach… danke. Ohne euch säßen wir immer noch untätig rum. *schaut südwärts, über Felder* > Aber wir sind klein hier. Klein und arm. Neverwinter liegt südlich, paar Tage Marsch. Händler sagen, da zahlen sie Gold für Helden wie euch. Wenn ihr weiterwollt… denkt dran.“ Er grinst schief, klopft nächstem Party-Member Schulter. Arbeitet weiter.`
 
-Sie blickt Richtung Küste, wo das dumpfe Rauschen der Brandung wie ein fernes Versprechen klingt.
 
-> „Wenn ihr Arbeit sucht – richtige Arbeit, Aufträge, die euren Fähigkeiten gerecht werden – dann müsst ihr nach **Neverwinter**. Eine große Stadt, Tage von hier, voller Händler, Adlige, Söldner und Gelehrte. Dort findet man immer jemanden, der Schutz braucht… oder Probleme hat, die nur Klingen und Magie lösen können.“
-
-_Optional (Interaktion):_
-
-- **Frage**: „Wie kommen wir nach Neverwinter?“
-    
-    > „Geht morgen nach Nebelruh zurück. Händler, Kapitäne, Reisende – irgendwer hat immer Geschäfte Richtung Norden. Manche Schiffe laufen **Neverwinter** an, um Waren zu verkaufen. Fragt nach einer Überfahrt; ihr habt einen Namen jetzt. ‘Die Befreier von Dunkelhain’ – das öffnet Türen.“
-    
-- **Frage**: „Warst du selbst schon dort?“
-    
-    > „Vor vielen Jahren. Die Mauern, die Märkte, die Tempel… mehr Menschen, als unser Dorf je zählen wird. Aber denkt daran: Wo Licht ist, herrscht auch Schatten. Passt auf eure Beutel auf – und auf eure Seelen.“
-    
-
-Sie drückt dem Nächststehenden von euch eine einfache, aber sorgfältig polierte Brosche in die Hand.
-
-> „Nehmt dies als Empfehlung. Zeigt sie einem ehrlichen Kapitän oder einem Priester in Neverwinter. Sagt ihnen, Mirna aus Dunkelhain schickt euch – vielleicht erinnert sich noch jemand an die alte Frau, die früher Kräuter nach Norden verkauft hat.“
+**Abend:** Ruhig, Dorfbewohner danken. Keine weiteren Hooks.
 
 ---
 
-## Reise-Hook: Von Nebelruh nach Neverwinter
+## Tag 2: Aufbau (reines Flavor, kein Hook)
 
-### 📜 Narrative Beschreibung: Rückkehr nach Nebelruh
+**Morgen/Nachmittag: Freie Dorf-Hilfe**
 
-Ein, zwei Tage später knarren wieder die vertrauten Planken von **Nebelruh** unter euren Stiefeln. Der Nebel hängt tief, doch diesmal drückt er euch nicht – ihr kennt die Schatten nun beim Namen. Am Kai herrscht geschäftiges Treiben: Fischer flicken Netze, Matrosen laden Fässer, und ein dicker Mann mit roter Nase feilscht lauthals mit einem Händler.
+`Party wählt (keine DCs, nur RP): - **Haus reparieren** (mit Mirna): „Die Dächer halten wieder!“ - **Fischerei** (mit Fischer): „Erste gute Fänge seit Jahren.“ - **Waffen schmieden** (optional, Schmied): „Eure Klingen sind scharf.“ - Oder **Ausruhen**.`
 
-Zwischen den Schiffen fällt euch ein größeres Gefährt auf – eine schwere Karavelle mit dunkelblauem Segel, auf dem ein silberner Turm prangt. Matrosen rollen Fässer an Bord, ein Mensch mit wettergegerbtem Mantel und Kapitänsbinde überwacht alles mit scharfem Blick.
+**Abend: Lagerfeuer**  
+Geschichten, Lachen. Dorfbewohner teilen Essen. **Keine** Neverwinter-Erwähnung – Welt atmet auf.
 
-**Kapitän Alvar Tamm (ruhig, geschäftlich, aber nicht unfreundlich):**
 
-> „Ihr da – ihr seht nicht aus wie Fischer. Auf der Durchreise?“ Er mustert eure Waffen und Rüstungen, kurz bleiben seine Augen auf dem Sorcerer hängen, als spürte er die Magie. „Ich bin Kapitän Alvar Tamm, Herr der _Nordwind_. Wir laufen morgen bei Flut aus – Ziel: **Neverwinter**. Waren, Pilger, Söldner… wer zahlen kann, kommt an Bord.“
+---
 
-_Optional (Interaktion):_
+## Tag 3: Dragan's Brief kommt
 
-- **Mirnas Brosche zeigen / von Dunkelhain erzählen** (Persuasion DC 12):
+**Morgen:** Letzte leichte Hilfe (optional, z.B. Zäune bauen).
+
+**Nachmittag: Der Brief** _(vorzulesen)_  
+Ein Dorfbewohner (auf Pony) bringt versiegelten Brief:
+
+`„An die Befreier von Dunkelhain, Hab vom Sieg über Bane gehört – Glückwünsche! Ich bin in Neverwinter unterwegs, Geschäfte. Wär super, euch dort zu treffen. Arbeit? Ich kenn Bedarf für fähige Leute. Kapitän Dragan Sturmhammer, Sturmfalke P.S.: Rum in Neverwinter ist besser. Beeilt euch!“`
+
+**Mirna:**
+
+> „Dragan? Der alte Seebär, der euch hergebracht hat? Wenn er schreibt, ist das eine Ehre. Er vergisst nie seine Leute.“
+
+**Abend:** Normales Abendessen. Brief wirkt wie **persönlicher Kontakt**, nicht Zufall.
+
+---
+
+## Tag 4: Mirna's Frage & Entscheidung
+
+**Morgen:** Freie Zeit (letzte Hilfe/Ruhe).
+
+**Nachmittag: Katalysator** _(vorzulesen)_  
+Mirna setzt sich zu euch (z.B. am Dorfplatz):
+
+
+> `„Ihr habt uns Leben zurückgegeben. Torvald pflügt wieder, Häuser stehen, Fische beißen. *lächelt warm* Bleibt ihr? Baut mit uns auf? Oder… lockt euch die Welt? Dragan, Neverwinter… ich bin nicht traurig, wenn ihr geht. Nur neugierig.“`
+
+**Spieler entscheiden frei:**
+
+- **Bleiben:** „Dann seid ihr Familie. Baut mit.“ (1 Woche mehr Flavor, Hooks wiederholen.)
     
-    > „Dunkelhain? Bei Tymoras Lächeln, ich dachte, das Dorf sei dem Schatten längst anheimgefallen.“ Er atmet tief durch. „Wenn ihr diesen Fluch gebrochen habt, habt ihr meinen Respekt. Die Überfahrt kostet euch nur die Hilfe an Deck – ein paar Seile ziehen, bei Sturm nicht schreien. Gold könnt ihr für Neverwinter aufsparen.“
+- **Gehen:** „Gott mit euch. Nehmt das hier.“ (Kompass + 20 GP.)
     
-- **Nach Arbeit in Neverwinter fragen**:
-    
-    > „Arbeit? Immer. Adlige, die Leibwächter brauchen, Gilden, die Probleme ‚diskret‘ gelöst haben wollen, sogar Magier, die in alten Ruinen graben lassen. Und in letzter Zeit kursieren Gerüchte über Schiffe, die Richtung Süden und Westen auslaufen – zu Inseln vor der **Schwertküste**, wo seltsame Lichter am Himmel tanzen.“
+- **Unsicher:** „Nehmt euch Zeit. Welt wartet nicht, läuft aber nicht weg.“
     
 
-Er senkt die Stimme leicht, als erzähle er ein Gerücht, das er selbst nicht ganz glaubt.
+**Mechanik:** 30 XP pro Spieler (Übergang).
 
-> „Man sagt, irgendwo dort draußen gibt es eine Insel, auf der Drachenmagie in der Luft liegt. Manche nennen sie nur ‘die Sturminsel’ – ich kenne keinen Kapitän, der den Namen gern laut sagt. Aber in **Neverwinter** hört ihr mehr, wenn ihr in den richtigen Tavernen fragt.“
+---
 
-_(Hier kannst du später in Neverwinter gezielt die Gerüchte zur Sturmwrack-Insel droppen und den Draconic-Sorcerer-Hook ausspielen.)_
+## Tag 5: Abreise (falls entschieden)
+
+**All Day:** Party reist ab.
+
+`**Optionen:** - **Torvald-Karawane** (sicher, 5 Tage Marsch, mit Händlern). - **Zu Hafen Nebelruh** (Dragan's Sturmfalke wartet):   Dragan (begrüßt laut): „Landratten! Hab euch erwartet! Rum, Arbeit, Neverwinter – alles an Bord! HAHAHA!“`
+
+**Ankunft Neverwinter:** Direkt in „Kopflosen Greif“, Dragan führt vor.
