@@ -38,7 +38,9 @@ Deine Haut sondert ein schwaches Toxin ab, das du im Kampf gezielt einsetzen kan
 - Als **Bonus Action** kannst du einmal pro Short oder Long Rest deinen Körper mit einem Gift überziehen.  
 - Bis zum Ende deines Zugs: Wenn du eine Kreatur mit einem **Melee Weapon Attack** oder **Melee Spell Attack** triffst oder eine Kreatur dich berührt (z. B. Grapple) oder du sie, wird das Ziel zusätzlich von deinem Gift betroffen.  
 - Das Ziel muss einen **CON Saving Throw** gegen DC = 8 + dein CON-Modifikator + dein Proficiency-Bonus schaffen.  
-- Bei einem Fehlschlag erleidet es Giftschaden abhängig von deinem Level (siehe Tabelle unten) und ist **poisoned** bis zum Ende deines nächsten Zugs. Es kann den Save am Ende seines Zugs wiederholen, um den poisoned-Zustand zu beenden.
+- Bei einem Fehlschlag erleidet es **Giftschaden** abhängig von deinem Level (siehe Tabelle unten) und ist **poisoned** bis zum Ende deines nächsten Zugs. Es kann den Save am Ende seines Zugs wiederholen, um den poisoned-Zustand zu beenden.
+- Ein Ziel kann pro Aktivierung nur einmal betroffen werden.
+- Dieses Gift gilt als **natürliches Gift**, zählt aber nicht als **separate Giftvial**; es wirkt nicht bei Kreaturen, die gegen Gift immun sind. 
 
 **Schadens-Skalierung nach Character Level:** 
 
@@ -50,7 +52,6 @@ Deine Haut sondert ein schwaches Toxin ab, das du im Kampf gezielt einsetzen kan
 | 13–16           | 4d4                      |
 | 17–20           | 5d4                      |
 
-Dieses Gift gilt als **natürliches Gift**, zählt aber nicht als separate Giftvial; es wirkt nicht bei Kreaturen, die gegen Gift immun sind. 
 
 **Water Dependency.**  
 Dein Körper muss regelmäßig befeuchtet werden:
@@ -127,7 +128,7 @@ Deine Dexterity steigt um 1, deine Intelligence um 1 und deine Wisdom um 1.
 
 **Keen Senses.**  
 Du bist proficient in Perception.  
-Außerdem besitzt du **blindsight 10 ft.**, solange du nicht deafened bist (du nimmst über Vibrationen und Luftbewegungen wahr).
+Als **Bonus Action** kannst du einmal pro Short oder Long Rest deine Sinne für bis zu **eine Minute** schärfen. Für die Dauer erhältst du **Blindsight im Umkreis von 10 ft.**, solange du nicht **deafened** bist (du nimmst deine Umgebung über Vibrationen und Luftbewegungen wahr; die Dauer kann nicht verlängert werden).
 
 **Quick Climber.**  
 Wenn du kletterst, provozierst du keine Gelegenheitsangriffe durch Kreaturen, von denen du dich wegbewegst.
