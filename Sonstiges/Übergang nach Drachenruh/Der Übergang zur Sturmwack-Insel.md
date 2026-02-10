@@ -1,74 +1,72 @@
-# Der Übergang zur Sturmwack-Insel
-## Tag 1: Erholung & Torvald's Dorf-Tipp
+# Reiseplan: Dunkelhain → Neverwinter 
 
-**Morgen: Festmahl & Ausruhen**  
-Dorfbewohner bereiten Festmahl (Wild, Brot, Bier). Alle fühlen sich willkommen. Kein Druck.
+**Distanz:** 80–100 Meilen High Road. **Dauer:** 4 Tage. **Neue Events:**
 
-**Nachmittag: Feld pflügen mit Torvald** _(Haupt-Hook 1 – vorzulesen)_
+- **Tag 2 Morgen:** Bane-Kult-Überlebender + Warlock-Drama (Tod).
+- **Tag 3 Nachmittag:** **Unbesiegbares Monster** (Flight-Lektion).
 
-`Ihr seht Torvald am Feldrand, Egge in der Hand, starrt auf verwilderte Äcker. Er wischt Schweiß ab, lehnt sich an: > „Wisst ihr… ich hab’s kaum geglaubt, als der Fluch plötzlich weg war. Als wär die Luft wieder frisch. Und jetzt das hier – ihr, die Egge nehmt und mitmacht. Danke. Einfach… danke. Ohne euch säßen wir immer noch untätig rum. *schaut südwärts, über Felder* > Aber wir sind klein hier. Klein und arm. Neverwinter liegt südlich, paar Tage Marsch. Händler sagen, da zahlen sie Gold für Helden wie euch. Wenn ihr weiterwollt… denkt dran.“ Er grinst schief, klopft nächstem Party-Member Schulter. Arbeitet weiter.`
+**12 Segmente** (~10 Min./Segment).
 
+## **Reise-Agenda (Tagesweise)**
 
-**Abend:** Ruhig, Dorfbewohner danken. Keine weiteren Hooks.
-
----
-
-## Tag 2: Aufbau (reines Flavor, kein Hook)
-
-**Morgen/Nachmittag: Freie Dorf-Hilfe**
-
-`Party wählt (keine DCs, nur RP): - **Haus reparieren** (mit Mirna): „Die Dächer halten wieder!“ - **Fischerei** (mit Fischer): „Erste gute Fänge seit Jahren.“ - **Waffen schmieden** (optional, Schmied): „Eure Klingen sind scharf.“ - Oder **Ausruhen**.`
-
-**Abend: Lagerfeuer**  
-Geschichten, Lachen. Dorfbewohner teilen Essen. **Keine** Neverwinter-Erwähnung – Welt atmet auf.
+## **Vorbereitung (Tag 0 Abend, Dunkelhain)**
 
 
----
+`Rations: 10 Tage. Torvald: „High Road südlich, 4 Tage. Banditen-Achtung.“ Speed: Fuß 24 mi/Tag; Karawane 20 mi; Reiten 30 mi.`
 
-## Tag 3: Dragan's Brief kommt
+## **Tag 1: Waldpfad → High Road (24 Meilen)**
 
-**Morgen:** Letzte leichte Hilfe (optional, z.B. Zäune bauen).
-
-**Nachmittag: Der Brief** _(vorzulesen)_  
-Ein Dorfbewohner (auf Pony) bringt versiegelten Brief:
-
-`„An die Befreier von Dunkelhain, Hab vom Sieg über Bane gehört – Glückwünsche! Ich bin in Neverwinter unterwegs, Geschäfte. Wär super, euch dort zu treffen. Arbeit? Ich kenn Bedarf für fähige Leute. Kapitän Dragan Sturmhammer, Sturmfalke P.S.: Rum in Neverwinter ist besser. Beeilt euch!“`
-
-**Mirna:**
-
-> „Dragan? Der alte Seebär, der euch hergebracht hat? Wenn er schreibt, ist das eine Ehre. Er vergisst nie seine Leute.“
-
-**Abend:** Normales Abendessen. Brief wirkt wie **persönlicher Kontakt**, nicht Zufall.
+**1. Morgen (10 Min.): Start** – Waldpfad. Kräuter DC 12 (+Ration).  
+**2. Vormittag (10 Min.): Händler** – „Schließt euch an?“ (Tempo-Option).  
+**3. Mittag (10 Min.): Pause** – Gerücht „Kult-Reste?“  
+**4. Nachmittag (10 Min.): High Road** – Ruinen DC 13 (optional).  
+**Abend:** Camp. **40 Min.**
 
 ---
 
-## Tag 4: Mirna's Frage & Entscheidung
+## **Tag 2: Hügel → Bane-Überlebender + Fluss (25 Meilen)**
 
-**Morgen:** Freie Zeit (letzte Hilfe/Ruhe).
-
-**Nachmittag: Katalysator** _(vorzulesen)_  
-Mirna setzt sich zu euch (z.B. am Dorfplatz):
+**5. Morgen (15 Min.): **BANE-KULT-ÜBERLEBENDER (Pflicht-Drama)****
 
 
-> `„Ihr habt uns Leben zurückgegeben. Torvald pflügt wieder, Häuser stehen, Fische beißen. *lächelt warm* Bleibt ihr? Baut mit uns auf? Oder… lockt euch die Welt? Dragan, Neverwinter… ich bin nicht traurig, wenn ihr geht. Nur neugierig.“`
+`Versteckter Kultist (CR 2, besessen). Ambush: „Ihr habt alles zerstört!“ → **Warlock wird verrückt** (deine Notizen: greift Party an, stirbt im Kampf). Nach-Fighting: Leiche + Clue („Bane lebt!“ Teaser). 50 XP Gruppe (+ Warlock-Tod RP).`
 
-**Spieler entscheiden frei:**
+**6. Vormittag (10 Min.): Hügel** – Athletics DC 10 (kein Exhaustion).
 
-- **Bleiben:** „Dann seid ihr Familie. Baut mit.“ (1 Woche mehr Flavor, Hooks wiederholen.)
-    
-- **Gehen:** „Gott mit euch. Nehmt das hier.“ (Kompass + 20 GP.)
-    
-- **Unsicher:** „Nehmt euch Zeit. Welt wartet nicht, läuft aber nicht weg.“
-    
+**7. Mittag (15 Min.): **FLUSS-ÜBERQUERUNG + GRUNG****
 
-**Mechanik:** 30 XP pro Spieler (Übergang).
+
+`Mirar-Fluss (40 ft breit). Furt DC 13 Athletics. *Party-Member fällt* (zufällig/miss).   Grung (Barbarian 3) rettet: „Mensch schwach! Grimgut stark! Jetzt Freund!“ → Grung joinet („Schutz Clan!“). 50 XP.`
+
+**8. Nachmittag (10 Min.): Post-Fluss** – Grung RP Time.  
+**Abend:** Camp. **60 Min.**
 
 ---
 
-## Tag 5: Abreise (falls entschieden)
+## **Tag 3: Ebene → Unbesiegbares Monster (25 Meilen)**
 
-**All Day:** Party reist ab.
+**9. Morgen (10 Min.): Ebene** – Neverwinter-Sicht. Kräuter DC 12 (Potion).
 
-`**Optionen:** - **Torvald-Karawane** (sicher, 5 Tage Marsch, mit Händlern). - **Zu Hafen Nebelruh** (Dragan's Sturmfalke wartet):   Dragan (begrüßt laut): „Landratten! Hab euch erwartet! Rum, Arbeit, Neverwinter – alles an Bord! HAHAHA!“`
+**10. Vormittag (10 Min.): Banditen** – 4 Banditen + Leader (Combat, 50 GP Loot).
 
-**Ankunft Neverwinter:** Direkt in „Kopflosen Greif“, Dragan führt vor.
+**11. Nachmittag (15 Min.): **UNBESIEGBARES MONSTER: Manticore****
+
+`Die Sonne brennt auf der endlosen Graswiese. Eure Schritte knirschen auf dem staubigen High Road. Plötzlich ein markerschütternder *Rooaaar* – wie Löwe und Adler vermischt.`
+
+`Am Horizont teilt sich die Luft: Ein **Monstrum** stößt herab. Sein Körper ein **muskulöser Löwe**, größer als ein Ochse (15 ft lang). **Enorme Fledermausflügel** peitschen Windböen (50 ft Fly), die Gras flach drücken. Der Schwanz – ein **gedrehter Skorpionschwanz**, 10 ft lang, endet in tropfender Giftstachel.`
+
+`Die Schnauze öffnet sich: **Drei Reihen Menschzähne** blitzen (1d10+4 Bite). rote Augen fixieren eine Rinderherde – Spikes schießen raus (3d6 Pierce + Poison)! Rinder brechen zusammen, Manticore schnappt zu, schluckt lebendig.`
+
+
+**Abend:** Camp. „Neverwinter nah.“ **50 Min.**
+
+---
+
+## **Tag 4: Ankunft (10 Meilen)**
+
+**12. Morgen (15 Min.): Stadttor**
+
+
+`High Road Gate. Wachen: „Zweck?“ → „Abenteurer“ ok. Gerüche/Lärm. Dragan: „Helden! Kopfloser Greif!“`
+
+---
